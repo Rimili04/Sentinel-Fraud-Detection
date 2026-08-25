@@ -1,0 +1,2001 @@
+activity,amount,device,location,frequency,failed_attempts,risk_label,hour,day_of_week,is_weekend
+Login,0.0,POS-Terminal,"Los Angeles, US",4,0,Not Fraud,18,2,0
+Money Transfer,4411.83,POS-Terminal,"Beijing, CN",2,0,Not Fraud,14,3,0
+Add Beneficiary,0.0,Desktop-Windows,"Los Angeles, US",2,0,Not Fraud,11,1,0
+Login,0.0,Desktop-Mac,"Los Angeles, US",1,0,Not Fraud,18,0,0
+Money Transfer,964.2,Mobile-iOS,"Singapore, SG",2,0,Not Fraud,10,3,0
+Password Change,0.0,POS-Terminal,"Moscow, RU",3,0,Not Fraud,9,3,0
+Add Beneficiary,0.0,Tablet,"London, UK",2,1,Not Fraud,10,3,0
+Add Beneficiary,0.0,POS-Terminal,"Toronto, CA",3,0,Not Fraud,10,0,0
+Bill Payment,743.65,Desktop-Mac,"Singapore, SG",2,0,Not Fraud,15,4,0
+Money Transfer,15127.85,ATM,"Beijing, CN",3,0,Not Fraud,20,0,0
+Wallet Top-up,2583.04,Tablet,"Sao Paulo, BR",4,0,Not Fraud,0,1,0
+ATM Withdrawal,486.23,ATM,"Moscow, RU",5,0,Not Fraud,18,1,0
+Bill Payment,1620.44,Tablet,"Toronto, CA",1,3,Not Fraud,18,2,0
+Money Transfer,14651.56,Mobile-iOS,"Chicago, US",2,0,Fraud,19,2,0
+Online Purchase,2787.1,Desktop-Windows,"Delhi, IN",3,0,Not Fraud,18,2,0
+Online Purchase,196.76,Mobile-iOS,"New York, US",4,0,Not Fraud,0,5,1
+Money Transfer,10307.41,Mobile-iOS,"Sao Paulo, BR",6,0,Not Fraud,10,0,0
+Online Purchase,287.51,Desktop-Mac,"Dubai, AE",1,1,Not Fraud,16,2,0
+Password Change,0.0,Mobile-iOS,"Sydney, AU",1,0,Not Fraud,19,2,0
+Card Swipe,405.93,Tablet,"Dubai, AE",8,3,Not Fraud,20,0,0
+Online Purchase,2594.63,Desktop-Mac,"London, UK",4,0,Not Fraud,21,2,0
+Bill Payment,573.74,Tablet,"Los Angeles, US",2,0,Not Fraud,9,1,0
+Login,0.0,Mobile-Android,"Moscow, RU",3,0,Not Fraud,22,0,0
+Loan Application,11910.66,Tablet,"Sydney, AU",7,0,Fraud,16,4,0
+ATM Withdrawal,234.04,Desktop-Mac,"Moscow, RU",3,0,Not Fraud,21,4,0
+Bill Payment,2800.11,Desktop-Windows,"Chicago, US",5,1,Not Fraud,20,5,1
+Money Transfer,18781.65,POS-Terminal,"Lagos, NG",1,0,Fraud,8,1,0
+Wallet Top-up,1468.15,POS-Terminal,"Delhi, IN",1,0,Not Fraud,21,4,0
+Card Swipe,280.32,POS-Terminal,"Singapore, SG",2,2,Not Fraud,12,0,0
+Login,0.0,ATM,"New York, US",2,1,Not Fraud,11,2,0
+Loan Application,15002.08,ATM,"Berlin, DE",6,0,Fraud,21,1,0
+ATM Withdrawal,88.01,ATM,"Bangalore, IN",1,3,Not Fraud,17,4,0
+Online Purchase,75.87,Mobile-Android,"Kolkata, IN",1,0,Not Fraud,9,6,1
+Login,0.0,Desktop-Windows,"New York, US",3,0,Not Fraud,7,3,0
+Money Transfer,7734.65,Desktop-Mac,"New York, US",7,0,Not Fraud,15,1,0
+Money Transfer,18980.05,ATM,"Chicago, US",6,0,Fraud,21,3,0
+ATM Withdrawal,281.66,POS-Terminal,"Singapore, SG",3,0,Not Fraud,9,0,0
+Online Purchase,1292.52,Desktop-Mac,"Bangalore, IN",1,0,Not Fraud,15,2,0
+Wallet Top-up,1993.24,Mobile-iOS,"Beijing, CN",1,0,Not Fraud,16,5,1
+Card Swipe,309.52,POS-Terminal,"Lagos, NG",4,0,Not Fraud,18,4,0
+Login,0.0,Mobile-Android,"Berlin, DE",1,2,Not Fraud,20,4,0
+Card Swipe,75.34,Desktop-Windows,"Kolkata, IN",6,0,Not Fraud,13,0,0
+Bill Payment,2232.25,ATM,"Moscow, RU",4,0,Not Fraud,13,2,0
+Money Transfer,14285.22,Tablet,"Los Angeles, US",1,0,Not Fraud,10,6,1
+Add Beneficiary,0.0,Mobile-iOS,"Dubai, AE",2,1,Not Fraud,11,3,0
+Card Swipe,12.89,ATM,"Delhi, IN",4,0,Not Fraud,11,3,0
+ATM Withdrawal,223.56,ATM,"Delhi, IN",1,0,Not Fraud,1,0,0
+Login,0.0,Mobile-Android,"Los Angeles, US",2,2,Not Fraud,21,3,0
+Online Purchase,1366.82,ATM,"Kolkata, IN",2,2,Not Fraud,11,3,0
+Login,0.0,Mobile-Android,"Berlin, DE",3,1,Not Fraud,23,0,0
+Online Purchase,383.03,POS-Terminal,"London, UK",2,0,Not Fraud,17,2,0
+Money Transfer,11594.76,Desktop-Mac,"Delhi, IN",4,0,Not Fraud,21,3,0
+Loan Application,16120.28,Desktop-Windows,"Sydney, AU",3,0,Not Fraud,19,5,1
+Card Swipe,61.71,Desktop-Mac,"Sao Paulo, BR",2,1,Not Fraud,22,4,0
+Card Swipe,237.79,ATM,"London, UK",7,0,Not Fraud,19,0,0
+Loan Application,12226.12,Desktop-Windows,"Houston, US",1,1,Not Fraud,12,2,0
+Wallet Top-up,35.4,Desktop-Mac,"Sydney, AU",4,1,Not Fraud,22,4,0
+Money Transfer,5920.0,Tablet,"Mumbai, IN",3,0,Not Fraud,12,3,0
+ATM Withdrawal,133.19,POS-Terminal,"Sydney, AU",4,0,Not Fraud,8,4,0
+Loan Application,19533.31,Mobile-iOS,"Toronto, CA",2,0,Not Fraud,14,5,1
+Login,0.0,ATM,"Sao Paulo, BR",1,0,Not Fraud,15,4,0
+Card Swipe,176.95,Mobile-Android,"Dubai, AE",2,0,Not Fraud,22,5,1
+Money Transfer,19878.67,Tablet,"Berlin, DE",1,0,Not Fraud,7,3,0
+ATM Withdrawal,288.63,Mobile-iOS,"Moscow, RU",1,0,Not Fraud,4,1,0
+Bill Payment,13.01,Mobile-Android,"London, UK",4,1,Not Fraud,13,6,1
+Loan Application,13240.6,Mobile-iOS,"Moscow, RU",6,2,Fraud,21,1,0
+ATM Withdrawal,301.57,Mobile-Android,"Bangalore, IN",2,0,Not Fraud,19,2,0
+Money Transfer,11980.83,Desktop-Windows,"New York, US",1,1,Not Fraud,20,2,0
+Bill Payment,1414.15,Tablet,"Bangalore, IN",5,4,Not Fraud,16,6,1
+Money Transfer,17161.78,POS-Terminal,Tor Exit Node,5,0,Not Fraud,11,5,1
+ATM Withdrawal,168.4,ATM,"Kolkata, IN",3,0,Not Fraud,23,0,0
+Wallet Top-up,1088.53,Mobile-Android,"Houston, US",2,3,Not Fraud,18,0,0
+Login,0.0,POS-Terminal,"Chicago, US",3,0,Not Fraud,23,0,0
+Card Swipe,474.06,POS-Terminal,"Toronto, CA",4,0,Not Fraud,16,2,0
+Card Swipe,280.12,POS-Terminal,"Singapore, SG",5,0,Not Fraud,12,6,1
+ATM Withdrawal,412.07,Tablet,"Kolkata, IN",2,0,Not Fraud,10,5,1
+Add Beneficiary,0.0,POS-Terminal,"London, UK",2,2,Not Fraud,13,1,0
+Card Swipe,355.56,ATM,"Beijing, CN",1,4,Not Fraud,19,1,0
+Money Transfer,17490.1,Mobile-Android,"Sao Paulo, BR",2,1,Not Fraud,13,6,1
+Loan Application,13869.46,POS-Terminal,"Dubai, AE",2,0,Not Fraud,16,3,0
+Loan Application,1414.99,POS-Terminal,"Los Angeles, US",9,1,Not Fraud,16,4,0
+ATM Withdrawal,452.68,Desktop-Windows,"Mumbai, IN",1,0,Not Fraud,2,0,0
+Money Transfer,12209.36,Tablet,"Chicago, US",2,0,Not Fraud,12,3,0
+Wallet Top-up,478.14,POS-Terminal,"Kolkata, IN",3,0,Not Fraud,13,1,0
+Card Swipe,62.26,POS-Terminal,"Toronto, CA",9,1,Not Fraud,12,0,0
+Loan Application,14916.18,ATM,"London, UK",5,0,Not Fraud,19,4,0
+Bill Payment,1886.6,ATM,"Bangalore, IN",3,1,Not Fraud,21,4,0
+Add Beneficiary,0.0,Desktop-Windows,"Sydney, AU",6,2,Not Fraud,9,0,0
+Password Change,0.0,ATM,"Kolkata, IN",5,1,Not Fraud,19,3,0
+Money Transfer,15824.11,Desktop-Windows,"Beijing, CN",3,0,Not Fraud,0,6,1
+Card Swipe,22.26,Tablet,"London, UK",1,2,Not Fraud,20,5,1
+Login,0.0,Mobile-Android,"London, UK",2,0,Not Fraud,22,3,0
+Loan Application,14858.27,ATM,"Sydney, AU",2,4,Fraud,8,6,1
+Card Swipe,227.9,Desktop-Windows,"Lagos, NG",9,0,Fraud,10,2,0
+Money Transfer,18982.77,POS-Terminal,"Moscow, RU",9,0,Fraud,19,0,0
+Loan Application,4143.85,Mobile-iOS,"Dubai, AE",1,1,Not Fraud,19,5,1
+Bill Payment,1622.95,Mobile-Android,"Chicago, US",2,1,Not Fraud,19,6,1
+Bill Payment,2226.45,Desktop-Mac,"Berlin, DE",2,0,Not Fraud,14,4,0
+Wallet Top-up,908.38,ATM,"Delhi, IN",3,0,Not Fraud,16,5,1
+Password Change,0.0,Tablet,"Moscow, RU",2,0,Fraud,16,2,0
+Money Transfer,15872.27,ATM,"Lagos, NG",5,0,Fraud,7,2,0
+Card Swipe,205.38,POS-Terminal,"London, UK",8,1,Not Fraud,18,5,1
+Money Transfer,1909.94,Mobile-iOS,"Lagos, NG",3,0,Not Fraud,7,6,1
+Password Change,0.0,POS-Terminal,"New York, US",1,0,Not Fraud,20,0,0
+Online Purchase,468.42,ATM,"Lagos, NG",1,0,Not Fraud,13,0,0
+Loan Application,18585.23,Desktop-Windows,"Beijing, CN",2,0,Not Fraud,19,6,1
+Loan Application,13164.03,Mobile-Android,"Sao Paulo, BR",1,0,Not Fraud,5,2,0
+Loan Application,11944.66,Tablet,"New York, US",1,0,Fraud,20,6,1
+ATM Withdrawal,115.63,Desktop-Windows,"Beijing, CN",3,0,Not Fraud,14,2,0
+Add Beneficiary,0.0,Desktop-Windows,Tor Exit Node,4,1,Fraud,23,5,1
+Login,0.0,Desktop-Mac,"Sydney, AU",1,0,Not Fraud,14,0,0
+Login,0.0,ATM,"Toronto, CA",2,0,Not Fraud,13,0,0
+Add Beneficiary,0.0,Tablet,"Bangalore, IN",3,0,Not Fraud,0,4,0
+Loan Application,8038.97,Desktop-Windows,"London, UK",4,0,Not Fraud,6,3,0
+Online Purchase,2718.24,ATM,"Chicago, US",1,0,Not Fraud,11,6,1
+Money Transfer,3584.07,Tablet,"Berlin, DE",2,3,Not Fraud,18,6,1
+Card Swipe,43.46,Tablet,"Los Angeles, US",2,0,Not Fraud,13,2,0
+Money Transfer,12911.1,Tablet,"Delhi, IN",3,4,Fraud,23,0,0
+Password Change,0.0,Desktop-Mac,"Los Angeles, US",6,0,Not Fraud,15,3,0
+Login,0.0,Tablet,"Moscow, RU",2,3,Fraud,10,3,0
+Password Change,0.0,Desktop-Mac,"Toronto, CA",4,1,Not Fraud,5,0,0
+Loan Application,13289.06,POS-Terminal,"Delhi, IN",3,3,Fraud,21,5,1
+Password Change,0.0,POS-Terminal,"Kolkata, IN",6,0,Not Fraud,19,4,0
+Login,0.0,ATM,"Bangalore, IN",1,0,Not Fraud,12,5,1
+Wallet Top-up,2313.77,POS-Terminal,"Mumbai, IN",4,0,Not Fraud,19,4,0
+Bill Payment,2494.88,POS-Terminal,"Bangalore, IN",2,1,Not Fraud,18,2,0
+Card Swipe,124.66,ATM,"Houston, US",3,0,Not Fraud,10,3,0
+Add Beneficiary,0.0,Mobile-iOS,"Berlin, DE",1,0,Not Fraud,14,1,0
+Wallet Top-up,2554.24,Desktop-Mac,"Singapore, SG",1,0,Not Fraud,10,1,0
+Login,0.0,Mobile-iOS,"Delhi, IN",1,0,Not Fraud,12,6,1
+Bill Payment,417.11,ATM,"Chicago, US",4,0,Not Fraud,10,5,1
+ATM Withdrawal,115.67,Desktop-Mac,"Chicago, US",1,0,Not Fraud,8,4,0
+Loan Application,9169.42,Tablet,"New York, US",2,0,Not Fraud,7,0,0
+Online Purchase,1714.14,Desktop-Windows,"Los Angeles, US",2,0,Not Fraud,9,3,0
+Login,0.0,Mobile-Android,"Mumbai, IN",1,0,Not Fraud,16,4,0
+Login,0.0,Mobile-iOS,"Dubai, AE",3,5,Not Fraud,11,5,1
+Money Transfer,14335.1,Mobile-Android,"Berlin, DE",6,0,Fraud,22,4,0
+ATM Withdrawal,27.94,ATM,"New York, US",3,0,Not Fraud,16,5,1
+Card Swipe,448.37,Desktop-Mac,"Mumbai, IN",4,0,Not Fraud,12,4,0
+Add Beneficiary,0.0,Desktop-Windows,"Toronto, CA",1,1,Not Fraud,15,1,0
+Bill Payment,2070.85,Desktop-Windows,"Moscow, RU",2,0,Not Fraud,11,0,0
+Password Change,0.0,Mobile-Android,"Chicago, US",3,1,Not Fraud,14,0,0
+Password Change,0.0,Mobile-iOS,"Beijing, CN",7,0,Not Fraud,12,2,0
+Wallet Top-up,1104.02,Mobile-Android,"Sao Paulo, BR",2,0,Not Fraud,11,3,0
+Online Purchase,2989.11,Mobile-Android,"Chicago, US",1,0,Not Fraud,10,4,0
+Money Transfer,11022.44,POS-Terminal,"Sao Paulo, BR",4,0,Not Fraud,11,0,0
+Money Transfer,19703.39,Mobile-Android,"Mumbai, IN",3,0,Not Fraud,19,2,0
+ATM Withdrawal,205.1,ATM,"Delhi, IN",3,0,Not Fraud,17,2,0
+Card Swipe,343.25,Tablet,"Moscow, RU",1,4,Fraud,11,5,1
+Wallet Top-up,463.28,Mobile-iOS,"Mumbai, IN",7,2,Not Fraud,8,1,0
+Wallet Top-up,826.98,Tablet,"Moscow, RU",3,0,Not Fraud,16,4,0
+Loan Application,871.83,ATM,"Lagos, NG",3,1,Fraud,20,5,1
+Card Swipe,445.61,Mobile-iOS,"Berlin, DE",3,0,Not Fraud,14,6,1
+Card Swipe,213.65,Desktop-Windows,"Dubai, AE",2,5,Not Fraud,13,3,0
+Password Change,0.0,Desktop-Mac,"Chicago, US",2,0,Not Fraud,14,0,0
+Loan Application,8391.79,Desktop-Windows,Unknown Location,4,0,Not Fraud,22,0,0
+Card Swipe,254.39,Tablet,"Bangalore, IN",1,0,Not Fraud,11,4,0
+ATM Withdrawal,272.98,Desktop-Windows,"Sao Paulo, BR",4,0,Not Fraud,19,3,0
+Password Change,0.0,Desktop-Mac,"Berlin, DE",1,5,Not Fraud,15,5,1
+Add Beneficiary,0.0,Desktop-Windows,"Sao Paulo, BR",1,0,Not Fraud,12,4,0
+Bill Payment,2142.21,Tablet,"Singapore, SG",1,3,Not Fraud,19,5,1
+Loan Application,6760.65,Tablet,"Toronto, CA",5,0,Not Fraud,19,1,0
+Login,0.0,ATM,"Lagos, NG",1,0,Not Fraud,15,6,1
+Loan Application,15503.39,Mobile-Android,"Lagos, NG",4,0,Fraud,12,1,0
+Online Purchase,1234.08,ATM,"Sao Paulo, BR",1,0,Not Fraud,18,1,0
+Card Swipe,267.48,Tablet,"Mumbai, IN",2,1,Not Fraud,11,4,0
+ATM Withdrawal,283.46,POS-Terminal,"Houston, US",4,0,Not Fraud,10,5,1
+ATM Withdrawal,69.72,ATM,"Mumbai, IN",4,0,Not Fraud,17,5,1
+Password Change,0.0,Desktop-Mac,"Houston, US",5,0,Not Fraud,21,4,0
+Loan Application,14830.77,Tablet,"London, UK",1,0,Not Fraud,10,2,0
+Login,0.0,POS-Terminal,Unknown Location,6,0,Not Fraud,22,1,0
+ATM Withdrawal,326.49,Mobile-iOS,"Sydney, AU",4,3,Not Fraud,21,1,0
+Login,0.0,Mobile-iOS,Tor Exit Node,8,3,Fraud,23,2,0
+Loan Application,12075.52,POS-Terminal,"Lagos, NG",2,3,Fraud,21,6,1
+Money Transfer,6647.15,Mobile-iOS,"New York, US",2,0,Not Fraud,18,3,0
+Add Beneficiary,0.0,Mobile-Android,"Houston, US",1,0,Not Fraud,14,5,1
+Card Swipe,379.34,Tablet,"New York, US",3,1,Not Fraud,22,5,1
+Bill Payment,1219.22,ATM,"Toronto, CA",1,3,Not Fraud,14,0,0
+Online Purchase,2872.29,Desktop-Windows,"Delhi, IN",2,0,Not Fraud,13,3,0
+Wallet Top-up,1343.01,Mobile-Android,"Los Angeles, US",2,0,Not Fraud,17,6,1
+Money Transfer,13621.89,Tablet,"Bangalore, IN",1,0,Not Fraud,17,1,0
+ATM Withdrawal,364.41,Mobile-iOS,"Lagos, NG",1,0,Not Fraud,12,3,0
+Money Transfer,19723.44,ATM,"Chicago, US",3,1,Not Fraud,13,6,1
+Card Swipe,436.11,POS-Terminal,"Singapore, SG",1,2,Not Fraud,21,1,0
+Add Beneficiary,0.0,Mobile-Android,"Sao Paulo, BR",9,0,Not Fraud,14,5,1
+Card Swipe,179.62,ATM,"Chicago, US",5,0,Not Fraud,10,5,1
+Money Transfer,2062.89,ATM,"New York, US",4,0,Not Fraud,1,0,0
+Login,0.0,POS-Terminal,"Lagos, NG",3,1,Not Fraud,8,0,0
+Bill Payment,2957.16,Mobile-Android,"Lagos, NG",3,1,Not Fraud,14,2,0
+Login,0.0,ATM,"Sydney, AU",3,0,Not Fraud,23,1,0
+Wallet Top-up,1423.19,Mobile-iOS,"Berlin, DE",6,0,Not Fraud,20,1,0
+Bill Payment,1168.32,Desktop-Mac,"Dubai, AE",1,1,Not Fraud,10,1,0
+Add Beneficiary,0.0,Mobile-Android,"Houston, US",4,1,Not Fraud,17,1,0
+Login,0.0,POS-Terminal,"Kolkata, IN",2,0,Not Fraud,9,4,0
+Wallet Top-up,968.24,Desktop-Windows,"Toronto, CA",2,2,Not Fraud,10,0,0
+Password Change,0.0,Mobile-Android,"Lagos, NG",1,0,Fraud,21,2,0
+ATM Withdrawal,84.68,Mobile-iOS,"Sydney, AU",3,1,Not Fraud,11,5,1
+Card Swipe,92.43,Tablet,"Sydney, AU",6,0,Not Fraud,19,4,0
+Login,0.0,Mobile-Android,"Sao Paulo, BR",1,0,Not Fraud,12,5,1
+Card Swipe,17.71,Tablet,"Sao Paulo, BR",2,0,Not Fraud,14,6,1
+Money Transfer,10511.49,ATM,"Mumbai, IN",4,0,Not Fraud,10,3,0
+Online Purchase,903.42,POS-Terminal,"Berlin, DE",1,0,Not Fraud,19,4,0
+Bill Payment,252.64,Tablet,"Kolkata, IN",9,2,Not Fraud,19,2,0
+ATM Withdrawal,32.82,Tablet,"Lagos, NG",1,3,Fraud,6,1,0
+Add Beneficiary,0.0,Mobile-iOS,"Lagos, NG",5,1,Fraud,21,6,1
+Money Transfer,10040.82,Mobile-iOS,"Dubai, AE",2,1,Fraud,23,1,0
+ATM Withdrawal,393.94,Desktop-Mac,"Delhi, IN",3,1,Not Fraud,13,3,0
+Online Purchase,2140.76,ATM,"Moscow, RU",4,0,Not Fraud,6,2,0
+ATM Withdrawal,227.92,Mobile-iOS,"Delhi, IN",3,0,Not Fraud,18,3,0
+Password Change,0.0,Desktop-Windows,"Dubai, AE",1,0,Not Fraud,15,6,1
+Loan Application,10446.04,Desktop-Windows,"London, UK",1,0,Fraud,17,0,0
+Card Swipe,393.51,Desktop-Mac,"Lagos, NG",1,0,Not Fraud,12,1,0
+Password Change,0.0,Desktop-Windows,"Bangalore, IN",2,2,Not Fraud,19,5,1
+Loan Application,18948.21,Desktop-Windows,"Toronto, CA",3,0,Not Fraud,9,5,1
+ATM Withdrawal,410.08,Mobile-iOS,"Lagos, NG",2,1,Not Fraud,12,6,1
+Card Swipe,400.87,ATM,"Berlin, DE",3,0,Not Fraud,19,2,0
+Bill Payment,2147.13,Desktop-Mac,"Lagos, NG",2,3,Fraud,18,1,0
+Password Change,0.0,POS-Terminal,"Singapore, SG",1,0,Not Fraud,17,0,0
+Loan Application,19672.98,ATM,"Delhi, IN",1,0,Not Fraud,17,2,0
+Add Beneficiary,0.0,Tablet,"Chicago, US",10,0,Not Fraud,13,3,0
+Bill Payment,1048.24,Desktop-Mac,"Mumbai, IN",1,1,Not Fraud,11,2,0
+ATM Withdrawal,31.89,POS-Terminal,"Chicago, US",5,3,Not Fraud,17,5,1
+Wallet Top-up,484.61,Desktop-Mac,"Moscow, RU",1,1,Not Fraud,15,3,0
+Card Swipe,300.18,Desktop-Windows,"Sao Paulo, BR",5,0,Not Fraud,12,5,1
+Password Change,0.0,POS-Terminal,"Dubai, AE",2,0,Not Fraud,11,6,1
+Loan Application,2328.93,ATM,"Beijing, CN",5,3,Not Fraud,11,4,0
+Money Transfer,4809.53,Tablet,"Delhi, IN",3,0,Not Fraud,7,3,0
+Wallet Top-up,504.76,Desktop-Mac,"Moscow, RU",5,4,Fraud,11,0,0
+Add Beneficiary,0.0,Desktop-Mac,"Beijing, CN",2,2,Not Fraud,22,2,0
+Loan Application,665.67,Mobile-iOS,"Sydney, AU",1,0,Not Fraud,18,2,0
+Money Transfer,11475.65,Tablet,"Dubai, AE",1,1,Not Fraud,10,4,0
+ATM Withdrawal,438.66,ATM,"Los Angeles, US",5,0,Not Fraud,1,5,1
+Loan Application,12673.77,ATM,"Houston, US",1,0,Fraud,8,5,1
+Bill Payment,974.34,ATM,"Sydney, AU",6,2,Not Fraud,17,0,0
+ATM Withdrawal,434.85,Mobile-iOS,"Sao Paulo, BR",5,1,Not Fraud,8,2,0
+Loan Application,12666.42,POS-Terminal,"Berlin, DE",4,0,Fraud,16,0,0
+Card Swipe,170.37,Mobile-Android,"Sao Paulo, BR",2,1,Not Fraud,0,0,0
+Online Purchase,2904.55,ATM,"Toronto, CA",2,0,Not Fraud,19,0,0
+Login,0.0,Mobile-Android,"Chicago, US",5,0,Not Fraud,7,0,0
+Bill Payment,2647.03,Desktop-Windows,"Los Angeles, US",2,0,Not Fraud,11,2,0
+ATM Withdrawal,365.73,POS-Terminal,"Los Angeles, US",1,0,Not Fraud,18,4,0
+Login,0.0,ATM,"Delhi, IN",1,0,Not Fraud,0,4,0
+Money Transfer,6301.36,ATM,"Sao Paulo, BR",1,5,Not Fraud,20,4,0
+Loan Application,219.07,Mobile-iOS,"Moscow, RU",1,0,Not Fraud,16,4,0
+Money Transfer,2843.26,Desktop-Mac,"Toronto, CA",1,0,Not Fraud,8,0,0
+Login,0.0,Mobile-iOS,"Sydney, AU",2,1,Not Fraud,19,2,0
+Card Swipe,199.08,Tablet,"Singapore, SG",1,0,Not Fraud,10,6,1
+Password Change,0.0,ATM,"Los Angeles, US",3,0,Not Fraud,14,3,0
+Add Beneficiary,0.0,ATM,"Delhi, IN",4,0,Not Fraud,14,4,0
+ATM Withdrawal,48.72,Desktop-Windows,"Delhi, IN",3,2,Not Fraud,21,6,1
+Online Purchase,178.43,Tablet,"Moscow, RU",2,1,Not Fraud,6,6,1
+Bill Payment,1491.76,POS-Terminal,"London, UK",2,1,Not Fraud,11,2,0
+Password Change,0.0,Desktop-Windows,"Sao Paulo, BR",3,0,Not Fraud,19,4,0
+Login,0.0,Mobile-iOS,"London, UK",1,0,Not Fraud,14,5,1
+Login,0.0,Mobile-Android,"Bangalore, IN",2,0,Not Fraud,2,1,0
+Password Change,0.0,Desktop-Windows,"Dubai, AE",3,0,Not Fraud,10,6,1
+Wallet Top-up,2944.33,ATM,"Toronto, CA",5,0,Not Fraud,22,2,0
+Online Purchase,878.33,Desktop-Mac,"Mumbai, IN",9,5,Not Fraud,18,1,0
+Bill Payment,24.1,POS-Terminal,"Dubai, AE",6,4,Not Fraud,12,6,1
+Money Transfer,4143.63,Mobile-iOS,"Sao Paulo, BR",1,3,Fraud,23,3,0
+Money Transfer,11636.37,Mobile-Android,"Lagos, NG",1,1,Not Fraud,14,4,0
+Add Beneficiary,0.0,Desktop-Mac,"Toronto, CA",1,0,Not Fraud,17,6,1
+Bill Payment,1351.45,ATM,"Houston, US",2,0,Not Fraud,11,2,0
+ATM Withdrawal,414.93,ATM,"Mumbai, IN",1,0,Not Fraud,17,5,1
+Login,0.0,Mobile-Android,"Kolkata, IN",5,0,Not Fraud,17,4,0
+Money Transfer,288.54,ATM,"Delhi, IN",3,3,Not Fraud,19,3,0
+Money Transfer,484.91,ATM,"Chicago, US",6,2,Not Fraud,5,3,0
+Card Swipe,34.81,Desktop-Mac,"Sydney, AU",2,0,Not Fraud,21,5,1
+ATM Withdrawal,147.13,Tablet,"London, UK",1,0,Not Fraud,20,6,1
+Bill Payment,1260.61,POS-Terminal,"Kolkata, IN",2,0,Not Fraud,16,2,0
+Wallet Top-up,2345.4,Desktop-Mac,"Toronto, CA",1,0,Not Fraud,11,0,0
+Card Swipe,269.42,Mobile-iOS,"Beijing, CN",1,2,Not Fraud,18,6,1
+Password Change,0.0,Mobile-iOS,"Lagos, NG",5,1,Not Fraud,21,5,1
+Loan Application,18969.95,Tablet,"Toronto, CA",2,0,Not Fraud,19,2,0
+Card Swipe,10.33,Desktop-Windows,"Sao Paulo, BR",6,2,Not Fraud,21,0,0
+Bill Payment,1761.89,Tablet,"Dubai, AE",8,0,Not Fraud,21,1,0
+Password Change,0.0,ATM,"Moscow, RU",2,0,Not Fraud,8,1,0
+Add Beneficiary,0.0,Mobile-iOS,"Sao Paulo, BR",7,3,Fraud,11,6,1
+Bill Payment,1809.15,Tablet,"Los Angeles, US",2,0,Not Fraud,21,4,0
+Money Transfer,16442.15,Desktop-Mac,"New York, US",1,1,Not Fraud,17,3,0
+Login,0.0,Mobile-iOS,"Singapore, SG",2,0,Not Fraud,3,4,0
+Loan Application,13036.84,ATM,"Dubai, AE",1,0,Not Fraud,17,6,1
+Bill Payment,2664.35,Mobile-Android,"Mumbai, IN",9,2,Not Fraud,8,0,0
+Bill Payment,165.4,Tablet,"Sao Paulo, BR",4,0,Not Fraud,11,5,1
+Add Beneficiary,0.0,Mobile-Android,"Mumbai, IN",2,0,Not Fraud,15,6,1
+Bill Payment,1916.38,Desktop-Windows,"Berlin, DE",2,2,Not Fraud,23,3,0
+Add Beneficiary,0.0,Mobile-iOS,"Bangalore, IN",1,0,Not Fraud,9,5,1
+Bill Payment,2257.94,ATM,"Lagos, NG",9,0,Not Fraud,17,6,1
+Add Beneficiary,0.0,Desktop-Mac,"Lagos, NG",1,0,Not Fraud,22,3,0
+Loan Application,18014.08,Mobile-Android,"Kolkata, IN",2,3,Not Fraud,19,4,0
+Login,0.0,ATM,"Moscow, RU",5,0,Not Fraud,12,4,0
+Wallet Top-up,1195.08,ATM,"New York, US",4,0,Not Fraud,11,0,0
+Bill Payment,448.86,Mobile-Android,"Lagos, NG",1,0,Not Fraud,15,0,0
+Card Swipe,290.29,Mobile-iOS,"Moscow, RU",3,0,Not Fraud,13,0,0
+Login,0.0,Desktop-Windows,"New York, US",5,0,Not Fraud,18,0,0
+Online Purchase,407.48,Desktop-Windows,"London, UK",2,0,Not Fraud,23,3,0
+Add Beneficiary,0.0,Desktop-Windows,"Dubai, AE",2,0,Not Fraud,18,0,0
+Bill Payment,2342.65,Mobile-iOS,"Singapore, SG",1,0,Not Fraud,14,4,0
+Password Change,0.0,Desktop-Mac,"Sydney, AU",3,0,Not Fraud,17,2,0
+Card Swipe,301.08,Tablet,"Mumbai, IN",1,2,Not Fraud,9,5,1
+Bill Payment,2562.19,POS-Terminal,"London, UK",1,1,Not Fraud,18,2,0
+Bill Payment,1943.88,Tablet,"Berlin, DE",2,4,Fraud,15,3,0
+Card Swipe,133.48,Tablet,"Delhi, IN",1,0,Not Fraud,13,3,0
+ATM Withdrawal,345.36,Desktop-Windows,"Dubai, AE",1,1,Not Fraud,13,4,0
+Wallet Top-up,2297.6,ATM,"Moscow, RU",3,1,Not Fraud,21,4,0
+ATM Withdrawal,454.39,POS-Terminal,"Kolkata, IN",5,0,Not Fraud,12,4,0
+Password Change,0.0,POS-Terminal,"Singapore, SG",1,0,Not Fraud,14,0,0
+Password Change,0.0,POS-Terminal,"Singapore, SG",2,2,Not Fraud,16,3,0
+Card Swipe,427.09,Tablet,Tor Exit Node,1,2,Not Fraud,13,4,0
+ATM Withdrawal,212.42,Desktop-Windows,"Delhi, IN",3,3,Not Fraud,20,4,0
+Bill Payment,2337.93,POS-Terminal,"Los Angeles, US",2,0,Not Fraud,13,5,1
+Card Swipe,394.75,POS-Terminal,"Delhi, IN",2,0,Not Fraud,18,1,0
+Online Purchase,2193.32,ATM,"Sydney, AU",1,0,Not Fraud,22,6,1
+ATM Withdrawal,73.18,Mobile-Android,"Dubai, AE",1,0,Not Fraud,12,2,0
+Card Swipe,186.03,Desktop-Mac,"New York, US",1,5,Not Fraud,9,6,1
+Bill Payment,373.87,POS-Terminal,"London, UK",2,0,Not Fraud,17,0,0
+Login,0.0,Mobile-Android,"Lagos, NG",2,0,Not Fraud,17,1,0
+ATM Withdrawal,315.17,Mobile-Android,"Sydney, AU",3,0,Not Fraud,17,1,0
+ATM Withdrawal,417.43,Desktop-Windows,"Chicago, US",2,3,Not Fraud,23,1,0
+Login,0.0,ATM,"Lagos, NG",2,3,Not Fraud,0,2,0
+Online Purchase,1372.97,Mobile-Android,"Dubai, AE",6,2,Fraud,23,0,0
+Money Transfer,1945.22,Mobile-iOS,"Beijing, CN",1,0,Not Fraud,18,3,0
+Money Transfer,7483.81,Desktop-Mac,"Toronto, CA",2,2,Not Fraud,11,6,1
+Bill Payment,2090.03,Desktop-Mac,"Singapore, SG",2,0,Not Fraud,4,0,0
+Password Change,0.0,ATM,"Sao Paulo, BR",6,0,Not Fraud,16,3,0
+Card Swipe,32.53,ATM,"Beijing, CN",4,0,Not Fraud,10,0,0
+Wallet Top-up,2066.28,Mobile-iOS,"Bangalore, IN",3,0,Not Fraud,16,6,1
+Login,0.0,Desktop-Mac,"Dubai, AE",5,0,Not Fraud,16,2,0
+Password Change,0.0,Tablet,"Moscow, RU",2,0,Fraud,23,3,0
+Money Transfer,17138.96,POS-Terminal,"New York, US",2,0,Not Fraud,13,3,0
+Wallet Top-up,1689.19,ATM,"Los Angeles, US",1,0,Not Fraud,16,4,0
+Money Transfer,1993.87,ATM,"Moscow, RU",4,0,Not Fraud,16,1,0
+Bill Payment,1479.8,Mobile-Android,"London, UK",1,0,Not Fraud,19,1,0
+Money Transfer,15155.13,Tablet,"Chicago, US",6,0,Not Fraud,2,6,1
+Login,0.0,Desktop-Mac,Unknown Location,4,3,Not Fraud,15,4,0
+Add Beneficiary,0.0,Tablet,"Singapore, SG",2,0,Not Fraud,16,0,0
+Card Swipe,404.35,POS-Terminal,"Sydney, AU",5,0,Not Fraud,8,4,0
+Online Purchase,633.09,POS-Terminal,"Chicago, US",4,4,Not Fraud,17,6,1
+Password Change,0.0,Desktop-Mac,"Lagos, NG",7,1,Fraud,17,5,1
+Wallet Top-up,323.88,Mobile-iOS,"London, UK",4,5,Not Fraud,12,2,0
+ATM Withdrawal,109.96,Mobile-Android,"Moscow, RU",3,0,Not Fraud,14,5,1
+Online Purchase,1535.21,POS-Terminal,"New York, US",2,0,Not Fraud,19,4,0
+Login,0.0,ATM,"Dubai, AE",2,0,Not Fraud,18,0,0
+Loan Application,3969.56,Mobile-iOS,"Kolkata, IN",1,4,Fraud,17,4,0
+Add Beneficiary,0.0,Tablet,"Dubai, AE",1,0,Not Fraud,10,1,0
+Loan Application,16870.64,Desktop-Windows,"Los Angeles, US",4,0,Not Fraud,11,2,0
+Wallet Top-up,482.31,Mobile-iOS,"Singapore, SG",3,0,Not Fraud,14,0,0
+Card Swipe,498.35,POS-Terminal,"Mumbai, IN",1,0,Not Fraud,19,3,0
+Add Beneficiary,0.0,Tablet,"Sao Paulo, BR",1,0,Not Fraud,21,4,0
+Card Swipe,31.49,Mobile-Android,"Kolkata, IN",1,4,Not Fraud,21,0,0
+Add Beneficiary,0.0,POS-Terminal,"Singapore, SG",4,0,Not Fraud,19,4,0
+Card Swipe,361.27,ATM,"London, UK",1,2,Not Fraud,1,5,1
+Card Swipe,318.81,Mobile-Android,"Sydney, AU",3,0,Not Fraud,13,6,1
+Wallet Top-up,322.88,Desktop-Windows,"Berlin, DE",2,0,Not Fraud,18,3,0
+Wallet Top-up,663.5,Tablet,"Toronto, CA",3,0,Not Fraud,18,2,0
+Money Transfer,883.37,Mobile-Android,"Toronto, CA",4,3,Not Fraud,15,2,0
+Bill Payment,556.06,Mobile-iOS,"Beijing, CN",3,0,Not Fraud,16,3,0
+ATM Withdrawal,339.13,Desktop-Mac,"Kolkata, IN",2,1,Not Fraud,10,3,0
+Loan Application,1442.69,Tablet,"Beijing, CN",3,0,Not Fraud,9,2,0
+Login,0.0,POS-Terminal,"Moscow, RU",1,0,Not Fraud,11,2,0
+Card Swipe,185.78,POS-Terminal,"Moscow, RU",5,2,Not Fraud,11,4,0
+ATM Withdrawal,369.44,Mobile-Android,"Dubai, AE",3,2,Not Fraud,16,6,1
+Wallet Top-up,785.55,ATM,"Chicago, US",2,2,Not Fraud,20,1,0
+Wallet Top-up,1533.68,Mobile-iOS,"Dubai, AE",5,0,Not Fraud,12,3,0
+Card Swipe,88.02,Mobile-iOS,"Sao Paulo, BR",2,0,Not Fraud,15,1,0
+Money Transfer,5323.92,ATM,"Mumbai, IN",2,0,Not Fraud,10,1,0
+Money Transfer,14089.54,POS-Terminal,"London, UK",2,0,Not Fraud,14,5,1
+Wallet Top-up,758.5,Desktop-Windows,"Dubai, AE",2,1,Not Fraud,23,0,0
+Card Swipe,91.15,Mobile-iOS,"Houston, US",2,1,Not Fraud,6,0,0
+Password Change,0.0,Desktop-Mac,"Houston, US",1,2,Not Fraud,17,5,1
+Bill Payment,1722.59,Tablet,"Chicago, US",1,3,Not Fraud,8,5,1
+ATM Withdrawal,474.15,Desktop-Mac,"Houston, US",5,0,Not Fraud,9,0,0
+ATM Withdrawal,92.18,Tablet,"Los Angeles, US",2,0,Not Fraud,17,0,0
+Bill Payment,1818.51,Mobile-Android,"Singapore, SG",2,1,Not Fraud,9,1,0
+Login,0.0,Desktop-Mac,"Sydney, AU",2,0,Not Fraud,21,0,0
+Add Beneficiary,0.0,ATM,"Dubai, AE",3,0,Not Fraud,11,3,0
+Money Transfer,5701.17,Mobile-Android,"Sao Paulo, BR",4,0,Not Fraud,20,1,0
+Password Change,0.0,POS-Terminal,"Lagos, NG",1,0,Fraud,12,6,1
+Add Beneficiary,0.0,Tablet,"Bangalore, IN",2,0,Not Fraud,18,6,1
+Add Beneficiary,0.0,Mobile-Android,"Sao Paulo, BR",2,1,Not Fraud,18,2,0
+Password Change,0.0,POS-Terminal,"New York, US",2,0,Not Fraud,19,2,0
+Loan Application,8735.78,Tablet,"New York, US",2,5,Fraud,5,1,0
+Bill Payment,1922.67,ATM,"Sydney, AU",1,1,Not Fraud,13,2,0
+Login,0.0,Mobile-Android,"Kolkata, IN",4,0,Not Fraud,11,0,0
+Login,0.0,Tablet,"Toronto, CA",5,3,Not Fraud,18,4,0
+Loan Application,19262.99,Desktop-Windows,"Houston, US",2,0,Fraud,13,3,0
+Wallet Top-up,2870.34,Desktop-Windows,"Beijing, CN",8,0,Not Fraud,20,2,0
+Card Swipe,449.3,Mobile-Android,"Delhi, IN",4,0,Not Fraud,20,5,1
+Wallet Top-up,1609.28,Mobile-Android,"Delhi, IN",4,0,Not Fraud,17,5,1
+Loan Application,5418.06,Mobile-iOS,"Sydney, AU",1,1,Not Fraud,22,3,0
+Online Purchase,2505.65,Mobile-Android,"Chicago, US",1,4,Not Fraud,19,5,1
+Card Swipe,191.89,Tablet,"Singapore, SG",2,5,Fraud,11,0,0
+Login,0.0,Tablet,"New York, US",2,2,Not Fraud,14,4,0
+Card Swipe,164.67,Tablet,"Los Angeles, US",2,2,Not Fraud,0,1,0
+Card Swipe,479.68,Mobile-iOS,"Delhi, IN",4,0,Not Fraud,11,5,1
+Bill Payment,1716.37,Mobile-Android,"Sao Paulo, BR",5,0,Fraud,23,0,0
+Login,0.0,ATM,"Moscow, RU",2,0,Not Fraud,9,6,1
+Wallet Top-up,2576.21,Mobile-Android,"Houston, US",1,2,Not Fraud,2,1,0
+Password Change,0.0,Desktop-Windows,"Mumbai, IN",2,0,Not Fraud,12,6,1
+Bill Payment,2938.22,Desktop-Mac,"Berlin, DE",2,0,Not Fraud,10,6,1
+Bill Payment,1923.54,Tablet,"Delhi, IN",6,0,Not Fraud,21,4,0
+ATM Withdrawal,306.64,ATM,Tor Exit Node,4,0,Not Fraud,12,5,1
+Bill Payment,2563.36,POS-Terminal,"Beijing, CN",1,0,Not Fraud,8,3,0
+Card Swipe,278.73,Mobile-Android,"Los Angeles, US",3,0,Not Fraud,1,1,0
+Card Swipe,316.98,Mobile-Android,"Beijing, CN",5,0,Not Fraud,8,2,0
+Wallet Top-up,1337.31,Tablet,"Moscow, RU",3,0,Fraud,23,5,1
+Password Change,0.0,Desktop-Mac,"Toronto, CA",2,0,Not Fraud,13,3,0
+Bill Payment,1034.94,Desktop-Mac,"Kolkata, IN",2,0,Not Fraud,13,0,0
+Login,0.0,Tablet,"Bangalore, IN",1,1,Not Fraud,14,3,0
+Money Transfer,8473.68,Tablet,"Berlin, DE",3,0,Not Fraud,10,3,0
+Bill Payment,872.34,POS-Terminal,"Moscow, RU",1,0,Not Fraud,16,1,0
+Bill Payment,2917.14,POS-Terminal,"New York, US",1,0,Not Fraud,10,2,0
+ATM Withdrawal,395.01,ATM,"New York, US",1,1,Not Fraud,14,5,1
+Add Beneficiary,0.0,ATM,"London, UK",2,0,Not Fraud,5,2,0
+Online Purchase,2214.17,Mobile-Android,"Sydney, AU",9,0,Fraud,1,3,0
+Wallet Top-up,1565.17,Desktop-Windows,"Singapore, SG",5,0,Not Fraud,10,3,0
+Password Change,0.0,Mobile-Android,"Delhi, IN",1,4,Not Fraud,0,4,0
+Money Transfer,5012.01,ATM,"Moscow, RU",1,0,Not Fraud,14,4,0
+Online Purchase,953.63,ATM,"Singapore, SG",4,0,Not Fraud,15,6,1
+ATM Withdrawal,450.34,Tablet,"Beijing, CN",1,0,Not Fraud,13,0,0
+Loan Application,18293.76,Desktop-Mac,"Toronto, CA",1,0,Not Fraud,15,6,1
+Bill Payment,2649.38,Mobile-iOS,"Toronto, CA",1,4,Fraud,16,6,1
+Card Swipe,385.21,POS-Terminal,"Toronto, CA",1,1,Not Fraud,8,1,0
+Login,0.0,Mobile-Android,"Lagos, NG",5,1,Fraud,9,6,1
+Login,0.0,ATM,"Los Angeles, US",5,0,Not Fraud,21,1,0
+Loan Application,5353.02,Mobile-Android,Tor Exit Node,8,0,Fraud,2,2,0
+Wallet Top-up,1972.35,Tablet,"Delhi, IN",1,0,Not Fraud,15,4,0
+Bill Payment,2378.42,Mobile-iOS,"Sydney, AU",3,3,Not Fraud,14,2,0
+Password Change,0.0,POS-Terminal,"Toronto, CA",1,0,Not Fraud,12,3,0
+Password Change,0.0,POS-Terminal,"New York, US",1,0,Not Fraud,22,2,0
+ATM Withdrawal,492.35,ATM,Tor Exit Node,5,3,Not Fraud,9,3,0
+Card Swipe,184.27,Mobile-iOS,"London, UK",5,0,Not Fraud,8,4,0
+Money Transfer,14485.43,POS-Terminal,"Sao Paulo, BR",5,0,Not Fraud,19,3,0
+Money Transfer,15613.43,ATM,"Bangalore, IN",7,0,Not Fraud,21,3,0
+Add Beneficiary,0.0,Tablet,"Lagos, NG",2,1,Fraud,3,6,1
+Loan Application,11526.33,Desktop-Mac,"Chicago, US",2,0,Not Fraud,7,0,0
+ATM Withdrawal,51.69,ATM,"Chicago, US",3,0,Not Fraud,14,0,0
+Online Purchase,730.73,Tablet,"Los Angeles, US",3,0,Not Fraud,10,2,0
+ATM Withdrawal,92.94,Tablet,"Chicago, US",1,2,Not Fraud,11,3,0
+Money Transfer,14804.65,ATM,"Dubai, AE",1,0,Not Fraud,10,4,0
+Card Swipe,21.15,Tablet,"Sydney, AU",1,0,Not Fraud,9,5,1
+Loan Application,18125.5,Desktop-Windows,"Houston, US",3,0,Not Fraud,14,3,0
+Add Beneficiary,0.0,POS-Terminal,"Mumbai, IN",1,0,Not Fraud,16,4,0
+Wallet Top-up,2929.95,Tablet,"Sydney, AU",1,0,Not Fraud,7,6,1
+Online Purchase,2767.2,Mobile-iOS,"New York, US",3,0,Not Fraud,11,3,0
+ATM Withdrawal,407.83,ATM,"Kolkata, IN",7,3,Not Fraud,16,5,1
+Add Beneficiary,0.0,Tablet,"Kolkata, IN",3,0,Not Fraud,16,1,0
+Add Beneficiary,0.0,Desktop-Mac,"Lagos, NG",1,0,Not Fraud,23,2,0
+Wallet Top-up,2729.14,POS-Terminal,Unknown Location,6,0,Not Fraud,12,4,0
+Bill Payment,2182.6,Desktop-Windows,"Bangalore, IN",7,2,Fraud,18,2,0
+Money Transfer,2674.34,Tablet,"Lagos, NG",1,0,Not Fraud,1,0,0
+Wallet Top-up,2539.18,ATM,"Delhi, IN",2,0,Not Fraud,13,0,0
+Login,0.0,POS-Terminal,"Kolkata, IN",4,0,Not Fraud,21,3,0
+Password Change,0.0,Desktop-Mac,"Berlin, DE",3,2,Not Fraud,20,6,1
+Wallet Top-up,1925.97,Desktop-Mac,"Bangalore, IN",6,2,Not Fraud,17,1,0
+Add Beneficiary,0.0,Tablet,"Berlin, DE",8,0,Not Fraud,23,3,0
+Card Swipe,91.58,Tablet,"Singapore, SG",2,0,Not Fraud,11,3,0
+Loan Application,18759.96,Desktop-Windows,"Bangalore, IN",1,0,Not Fraud,17,2,0
+ATM Withdrawal,168.8,POS-Terminal,"Sao Paulo, BR",1,1,Not Fraud,16,1,0
+Add Beneficiary,0.0,Desktop-Mac,"Lagos, NG",1,0,Fraud,17,0,0
+Bill Payment,2607.11,Desktop-Windows,"Toronto, CA",4,0,Not Fraud,9,4,0
+Online Purchase,15.58,ATM,"Sydney, AU",5,0,Not Fraud,18,3,0
+Loan Application,13206.44,Tablet,"New York, US",6,0,Not Fraud,13,1,0
+Password Change,0.0,Tablet,"Dubai, AE",1,3,Not Fraud,1,4,0
+ATM Withdrawal,309.43,Tablet,"Houston, US",2,0,Not Fraud,17,0,0
+Password Change,0.0,Desktop-Mac,"Dubai, AE",1,0,Not Fraud,21,0,0
+Wallet Top-up,1244.2,Mobile-Android,"Lagos, NG",9,0,Fraud,9,2,0
+Add Beneficiary,0.0,Tablet,"Kolkata, IN",2,0,Not Fraud,16,3,0
+Bill Payment,2651.57,Mobile-Android,"New York, US",3,0,Not Fraud,10,2,0
+Login,0.0,Mobile-iOS,"New York, US",1,0,Not Fraud,11,4,0
+Wallet Top-up,1652.23,Desktop-Windows,"Delhi, IN",3,4,Not Fraud,18,3,0
+Password Change,0.0,ATM,"New York, US",1,0,Not Fraud,21,4,0
+Card Swipe,394.15,Tablet,"Toronto, CA",4,0,Not Fraud,12,5,1
+Money Transfer,19393.79,POS-Terminal,"Sydney, AU",1,0,Not Fraud,10,0,0
+ATM Withdrawal,355.58,Mobile-Android,"Sydney, AU",1,0,Not Fraud,11,2,0
+Money Transfer,7515.6,Desktop-Mac,"Sydney, AU",4,3,Not Fraud,1,4,0
+Card Swipe,368.9,ATM,"Singapore, SG",5,3,Not Fraud,14,3,0
+Card Swipe,199.92,Mobile-Android,"Beijing, CN",3,0,Not Fraud,20,4,0
+ATM Withdrawal,21.02,Desktop-Windows,"Houston, US",1,0,Not Fraud,18,6,1
+Bill Payment,476.7,Mobile-Android,"Houston, US",2,0,Not Fraud,7,0,0
+Bill Payment,218.37,Mobile-Android,"Chicago, US",2,1,Not Fraud,16,3,0
+Add Beneficiary,0.0,POS-Terminal,"Dubai, AE",3,0,Not Fraud,9,6,1
+Wallet Top-up,240.24,Mobile-iOS,"Los Angeles, US",5,1,Not Fraud,21,0,0
+Card Swipe,240.57,Tablet,"London, UK",2,0,Not Fraud,22,0,0
+Card Swipe,24.83,ATM,"Houston, US",4,0,Not Fraud,13,1,0
+Add Beneficiary,0.0,Tablet,"Beijing, CN",4,0,Not Fraud,19,1,0
+Wallet Top-up,481.27,ATM,"Beijing, CN",2,5,Not Fraud,13,6,1
+Bill Payment,1989.52,ATM,"Sydney, AU",3,0,Not Fraud,6,1,0
+ATM Withdrawal,478.38,Tablet,"Berlin, DE",2,0,Not Fraud,5,0,0
+Bill Payment,1984.34,Tablet,"Bangalore, IN",1,2,Not Fraud,13,5,1
+Password Change,0.0,Tablet,"Delhi, IN",1,0,Not Fraud,23,4,0
+Wallet Top-up,2463.16,Mobile-Android,"London, UK",4,0,Not Fraud,11,6,1
+Add Beneficiary,0.0,Mobile-iOS,"Houston, US",2,3,Not Fraud,14,4,0
+Bill Payment,407.16,Desktop-Mac,"Beijing, CN",9,0,Not Fraud,5,4,0
+Loan Application,18609.7,Tablet,"Dubai, AE",2,0,Fraud,16,5,1
+Online Purchase,2137.83,Desktop-Windows,"New York, US",1,0,Not Fraud,10,2,0
+Money Transfer,2884.65,Desktop-Windows,"Bangalore, IN",1,2,Not Fraud,18,5,1
+Money Transfer,13697.28,Mobile-Android,"Singapore, SG",2,0,Not Fraud,14,4,0
+Add Beneficiary,0.0,Mobile-iOS,"New York, US",7,1,Not Fraud,11,6,1
+Loan Application,3423.13,Tablet,"New York, US",2,0,Not Fraud,3,1,0
+Bill Payment,1849.31,Mobile-Android,"Moscow, RU",6,1,Not Fraud,10,2,0
+Online Purchase,1457.33,Mobile-Android,"Kolkata, IN",3,2,Not Fraud,19,5,1
+Online Purchase,1983.7,POS-Terminal,"Dubai, AE",1,0,Not Fraud,17,2,0
+Card Swipe,205.38,Tablet,"London, UK",3,0,Not Fraud,11,0,0
+ATM Withdrawal,464.34,POS-Terminal,"Kolkata, IN",1,0,Not Fraud,13,4,0
+Password Change,0.0,POS-Terminal,"Lagos, NG",2,1,Not Fraud,10,4,0
+Wallet Top-up,1015.53,Mobile-Android,"Beijing, CN",5,0,Not Fraud,17,2,0
+Online Purchase,2177.13,Mobile-Android,"Los Angeles, US",3,2,Not Fraud,10,6,1
+Money Transfer,17135.99,POS-Terminal,"Lagos, NG",8,2,Fraud,8,1,0
+Card Swipe,333.63,ATM,"Delhi, IN",6,1,Not Fraud,6,2,0
+Money Transfer,5581.89,Desktop-Windows,"Kolkata, IN",1,0,Not Fraud,4,3,0
+Bill Payment,1938.22,Mobile-iOS,"Moscow, RU",1,0,Not Fraud,7,0,0
+Money Transfer,1454.73,Desktop-Mac,"Chicago, US",3,3,Not Fraud,17,6,1
+Password Change,0.0,POS-Terminal,Tor Exit Node,2,0,Not Fraud,21,0,0
+Login,0.0,Desktop-Mac,"Chicago, US",2,5,Not Fraud,12,5,1
+Login,0.0,Tablet,"Dubai, AE",2,2,Not Fraud,16,4,0
+Add Beneficiary,0.0,Mobile-Android,"Moscow, RU",2,0,Not Fraud,16,3,0
+Online Purchase,80.97,Mobile-Android,"Berlin, DE",3,0,Not Fraud,23,3,0
+Password Change,0.0,Desktop-Mac,"Chicago, US",5,1,Not Fraud,4,5,1
+Loan Application,4698.06,POS-Terminal,"New York, US",6,0,Not Fraud,6,1,0
+Bill Payment,1899.82,Desktop-Mac,"Moscow, RU",5,0,Not Fraud,21,5,1
+Loan Application,15993.55,Desktop-Windows,"Dubai, AE",9,1,Fraud,9,6,1
+Bill Payment,968.16,Tablet,"Houston, US",1,0,Not Fraud,22,6,1
+Card Swipe,129.39,ATM,"Moscow, RU",2,0,Not Fraud,15,1,0
+Login,0.0,Tablet,"Singapore, SG",2,2,Not Fraud,9,0,0
+ATM Withdrawal,266.31,Mobile-Android,"Moscow, RU",4,0,Not Fraud,12,4,0
+Add Beneficiary,0.0,Tablet,"Kolkata, IN",3,2,Not Fraud,0,4,0
+Login,0.0,ATM,"Kolkata, IN",2,0,Not Fraud,9,2,0
+ATM Withdrawal,112.7,ATM,"Bangalore, IN",1,0,Not Fraud,10,5,1
+Card Swipe,262.3,Tablet,"Lagos, NG",2,1,Not Fraud,5,3,0
+Online Purchase,298.7,Mobile-iOS,"Los Angeles, US",3,0,Not Fraud,18,0,0
+Loan Application,9127.07,Mobile-iOS,"Moscow, RU",9,0,Fraud,12,4,0
+ATM Withdrawal,76.89,ATM,"Mumbai, IN",6,0,Not Fraud,20,3,0
+Money Transfer,8263.34,Desktop-Mac,"Dubai, AE",1,1,Not Fraud,14,6,1
+Add Beneficiary,0.0,Mobile-iOS,"Singapore, SG",6,0,Not Fraud,15,6,1
+Wallet Top-up,105.69,POS-Terminal,"Dubai, AE",2,0,Not Fraud,14,3,0
+Bill Payment,1078.43,POS-Terminal,"Toronto, CA",4,2,Not Fraud,10,5,1
+Bill Payment,2623.23,POS-Terminal,"Bangalore, IN",3,2,Not Fraud,12,5,1
+Wallet Top-up,102.98,Tablet,"Lagos, NG",1,1,Not Fraud,12,4,0
+Password Change,0.0,Desktop-Mac,"Moscow, RU",2,0,Not Fraud,20,4,0
+Bill Payment,2943.85,POS-Terminal,Tor Exit Node,3,4,Fraud,10,5,1
+Password Change,0.0,Desktop-Windows,"Los Angeles, US",2,0,Not Fraud,21,5,1
+Wallet Top-up,2698.86,POS-Terminal,"Berlin, DE",7,0,Not Fraud,13,6,1
+Add Beneficiary,0.0,Mobile-iOS,"Toronto, CA",3,0,Not Fraud,21,1,0
+ATM Withdrawal,214.1,Desktop-Windows,"Delhi, IN",4,0,Not Fraud,17,4,0
+Online Purchase,2505.67,Desktop-Windows,"Beijing, CN",4,0,Not Fraud,14,3,0
+Loan Application,2682.49,Mobile-iOS,"Bangalore, IN",9,1,Not Fraud,18,5,1
+ATM Withdrawal,233.4,Tablet,"Toronto, CA",9,2,Not Fraud,8,2,0
+Password Change,0.0,Mobile-iOS,"Houston, US",4,1,Not Fraud,15,5,1
+Card Swipe,274.53,Mobile-Android,"Delhi, IN",2,0,Not Fraud,8,6,1
+Wallet Top-up,2926.93,Desktop-Windows,"Kolkata, IN",4,5,Not Fraud,11,4,0
+Password Change,0.0,Mobile-Android,"Chicago, US",3,0,Not Fraud,17,1,0
+Password Change,0.0,Mobile-iOS,"Lagos, NG",1,3,Fraud,7,5,1
+Money Transfer,10791.33,Desktop-Mac,"Houston, US",2,0,Not Fraud,13,0,0
+Bill Payment,2149.31,Desktop-Windows,"Mumbai, IN",2,0,Not Fraud,12,5,1
+Add Beneficiary,0.0,POS-Terminal,"Kolkata, IN",2,2,Not Fraud,19,5,1
+Bill Payment,627.31,Mobile-Android,Unknown Location,3,0,Not Fraud,13,3,0
+Bill Payment,1669.66,Mobile-iOS,"Houston, US",2,0,Not Fraud,17,2,0
+Card Swipe,284.05,Mobile-iOS,"London, UK",8,2,Not Fraud,13,2,0
+Add Beneficiary,0.0,Mobile-iOS,"New York, US",4,0,Not Fraud,9,6,1
+Loan Application,9635.69,Desktop-Mac,"Kolkata, IN",5,0,Not Fraud,13,2,0
+Loan Application,1217.28,Desktop-Windows,"Houston, US",1,0,Not Fraud,11,1,0
+ATM Withdrawal,269.51,POS-Terminal,"Houston, US",1,1,Not Fraud,22,2,0
+ATM Withdrawal,345.87,Desktop-Windows,"Dubai, AE",1,0,Not Fraud,17,3,0
+Password Change,0.0,Mobile-iOS,"Sydney, AU",5,1,Not Fraud,21,1,0
+Money Transfer,2375.48,Desktop-Windows,"Beijing, CN",1,0,Not Fraud,8,0,0
+Login,0.0,ATM,"Beijing, CN",3,0,Not Fraud,18,6,1
+Add Beneficiary,0.0,Mobile-Android,"Berlin, DE",4,0,Not Fraud,17,0,0
+Card Swipe,68.27,Mobile-Android,"Sao Paulo, BR",4,3,Not Fraud,10,4,0
+Password Change,0.0,Desktop-Windows,"Kolkata, IN",2,0,Not Fraud,1,4,0
+Money Transfer,16400.75,Mobile-iOS,"Kolkata, IN",1,1,Not Fraud,18,3,0
+Wallet Top-up,2554.63,Desktop-Mac,"Beijing, CN",1,2,Not Fraud,13,0,0
+Wallet Top-up,686.52,Mobile-Android,"Sydney, AU",2,0,Not Fraud,7,2,0
+Password Change,0.0,Tablet,"Sao Paulo, BR",3,2,Not Fraud,13,6,1
+Online Purchase,2571.04,POS-Terminal,"Mumbai, IN",1,1,Not Fraud,20,4,0
+Wallet Top-up,1977.35,POS-Terminal,"Lagos, NG",1,3,Not Fraud,6,6,1
+Online Purchase,1019.2,ATM,"Delhi, IN",2,1,Not Fraud,15,5,1
+Card Swipe,336.67,Mobile-iOS,"Berlin, DE",1,0,Not Fraud,22,3,0
+Login,0.0,Desktop-Mac,"Beijing, CN",9,0,Not Fraud,7,5,1
+Loan Application,12483.49,ATM,"Sydney, AU",2,0,Not Fraud,18,2,0
+ATM Withdrawal,275.79,ATM,"New York, US",2,3,Not Fraud,19,6,1
+Add Beneficiary,0.0,Tablet,"Beijing, CN",4,2,Not Fraud,13,5,1
+Add Beneficiary,0.0,Desktop-Mac,"Beijing, CN",3,0,Not Fraud,13,6,1
+Wallet Top-up,171.93,POS-Terminal,"Mumbai, IN",9,0,Not Fraud,10,5,1
+Bill Payment,2511.62,ATM,"Singapore, SG",2,0,Not Fraud,11,1,0
+Password Change,0.0,POS-Terminal,"Toronto, CA",1,1,Not Fraud,4,6,1
+Bill Payment,64.04,Desktop-Mac,"Lagos, NG",6,0,Not Fraud,11,6,1
+Password Change,0.0,Mobile-Android,"Berlin, DE",1,1,Not Fraud,12,1,0
+Loan Application,6025.44,ATM,"Kolkata, IN",1,2,Not Fraud,23,3,0
+Login,0.0,Mobile-iOS,"Moscow, RU",8,1,Fraud,11,4,0
+ATM Withdrawal,42.96,Desktop-Windows,"Berlin, DE",3,0,Not Fraud,19,6,1
+Password Change,0.0,Tablet,"Bangalore, IN",4,0,Not Fraud,9,0,0
+Loan Application,10009.11,Desktop-Mac,"London, UK",3,2,Fraud,16,4,0
+Wallet Top-up,605.94,POS-Terminal,"Berlin, DE",5,0,Not Fraud,13,4,0
+ATM Withdrawal,413.62,Mobile-iOS,"Delhi, IN",1,0,Not Fraud,16,1,0
+Card Swipe,284.31,Mobile-iOS,"Chicago, US",1,0,Not Fraud,13,4,0
+Login,0.0,Mobile-Android,"Dubai, AE",1,0,Not Fraud,22,0,0
+Money Transfer,7968.06,Mobile-Android,"Lagos, NG",2,0,Fraud,19,6,1
+Loan Application,2489.42,POS-Terminal,"Delhi, IN",4,0,Not Fraud,19,4,0
+Money Transfer,3544.33,ATM,"Lagos, NG",2,0,Fraud,23,4,0
+Add Beneficiary,0.0,ATM,Tor Exit Node,2,1,Not Fraud,13,3,0
+Login,0.0,Desktop-Windows,"Lagos, NG",2,4,Fraud,17,0,0
+Online Purchase,2573.65,Desktop-Windows,"Toronto, CA",7,1,Not Fraud,12,1,0
+Card Swipe,319.36,ATM,"New York, US",5,2,Not Fraud,20,1,0
+Password Change,0.0,Mobile-Android,"Dubai, AE",3,0,Not Fraud,17,1,0
+Card Swipe,350.65,POS-Terminal,"Bangalore, IN",3,0,Not Fraud,18,0,0
+Loan Application,1690.53,ATM,"Beijing, CN",1,0,Not Fraud,8,2,0
+Card Swipe,438.02,ATM,"Mumbai, IN",1,0,Not Fraud,8,6,1
+Add Beneficiary,0.0,Mobile-Android,"Kolkata, IN",7,0,Not Fraud,22,3,0
+ATM Withdrawal,353.62,Tablet,"London, UK",1,0,Not Fraud,9,6,1
+Card Swipe,415.36,Mobile-iOS,"Kolkata, IN",5,0,Not Fraud,13,5,1
+Add Beneficiary,0.0,Desktop-Windows,"Sao Paulo, BR",1,0,Not Fraud,20,2,0
+ATM Withdrawal,125.39,POS-Terminal,"Moscow, RU",1,0,Not Fraud,13,4,0
+Add Beneficiary,0.0,Mobile-Android,"Los Angeles, US",1,0,Not Fraud,17,4,0
+Login,0.0,Desktop-Mac,"Beijing, CN",1,2,Not Fraud,10,2,0
+ATM Withdrawal,93.23,Mobile-iOS,"Los Angeles, US",4,0,Not Fraud,13,2,0
+Login,0.0,Desktop-Windows,"Sao Paulo, BR",7,0,Fraud,23,5,1
+Wallet Top-up,942.47,ATM,"Kolkata, IN",3,3,Not Fraud,20,1,0
+Bill Payment,168.43,POS-Terminal,"Bangalore, IN",1,2,Not Fraud,9,1,0
+Password Change,0.0,Desktop-Mac,"Chicago, US",4,0,Not Fraud,23,0,0
+ATM Withdrawal,98.52,Tablet,"Singapore, SG",3,0,Not Fraud,9,1,0
+Add Beneficiary,0.0,POS-Terminal,"Los Angeles, US",2,0,Not Fraud,21,3,0
+Loan Application,18586.51,Mobile-Android,"Bangalore, IN",4,0,Not Fraud,7,2,0
+Login,0.0,POS-Terminal,"Singapore, SG",4,0,Not Fraud,16,0,0
+Login,0.0,Mobile-Android,"Delhi, IN",1,4,Fraud,18,1,0
+Add Beneficiary,0.0,POS-Terminal,"Chicago, US",1,2,Not Fraud,18,5,1
+Password Change,0.0,Mobile-iOS,"Sydney, AU",6,0,Not Fraud,17,0,0
+Password Change,0.0,Mobile-Android,"New York, US",2,0,Not Fraud,16,6,1
+Wallet Top-up,1890.53,Mobile-Android,"Singapore, SG",2,0,Not Fraud,14,1,0
+Wallet Top-up,1286.06,Mobile-Android,"Sydney, AU",2,0,Not Fraud,15,5,1
+Password Change,0.0,Mobile-Android,"Chicago, US",3,0,Not Fraud,10,4,0
+Add Beneficiary,0.0,POS-Terminal,"Bangalore, IN",3,0,Not Fraud,20,5,1
+Online Purchase,559.34,POS-Terminal,"Los Angeles, US",2,0,Not Fraud,18,1,0
+Card Swipe,235.48,POS-Terminal,"Sydney, AU",3,4,Not Fraud,12,2,0
+Money Transfer,2545.54,POS-Terminal,"Kolkata, IN",5,0,Not Fraud,0,6,1
+Wallet Top-up,576.79,Desktop-Mac,"New York, US",1,0,Not Fraud,11,4,0
+Login,0.0,Desktop-Windows,"Lagos, NG",5,0,Not Fraud,20,4,0
+Add Beneficiary,0.0,POS-Terminal,"Lagos, NG",1,0,Not Fraud,20,0,0
+Online Purchase,2144.3,Tablet,"Los Angeles, US",6,0,Not Fraud,14,5,1
+Card Swipe,351.78,Desktop-Mac,"Mumbai, IN",1,0,Not Fraud,0,2,0
+Bill Payment,2650.1,POS-Terminal,"Beijing, CN",2,0,Not Fraud,17,5,1
+ATM Withdrawal,348.44,Mobile-iOS,"Chicago, US",2,1,Not Fraud,6,4,0
+Online Purchase,1672.71,Desktop-Windows,"Beijing, CN",1,2,Not Fraud,23,5,1
+Add Beneficiary,0.0,Mobile-iOS,"Bangalore, IN",10,1,Not Fraud,7,5,1
+Bill Payment,2560.96,POS-Terminal,"New York, US",7,1,Not Fraud,20,0,0
+Wallet Top-up,130.7,Mobile-iOS,"Singapore, SG",1,0,Not Fraud,7,0,0
+Money Transfer,3128.2,ATM,"Houston, US",8,1,Not Fraud,12,5,1
+Password Change,0.0,Desktop-Windows,"Sao Paulo, BR",2,0,Not Fraud,10,0,0
+Add Beneficiary,0.0,Desktop-Mac,"Singapore, SG",6,4,Not Fraud,18,6,1
+Bill Payment,2311.6,Desktop-Windows,"Toronto, CA",9,0,Not Fraud,17,2,0
+Bill Payment,2708.02,POS-Terminal,"Singapore, SG",9,0,Fraud,4,3,0
+Login,0.0,Mobile-iOS,"Beijing, CN",2,0,Not Fraud,19,4,0
+Online Purchase,2643.52,POS-Terminal,"Sao Paulo, BR",6,0,Not Fraud,6,3,0
+Wallet Top-up,1657.6,Mobile-Android,"New York, US",4,0,Not Fraud,14,0,0
+Wallet Top-up,335.77,Tablet,"Mumbai, IN",1,1,Not Fraud,4,1,0
+Card Swipe,176.1,POS-Terminal,"Singapore, SG",3,0,Not Fraud,10,6,1
+ATM Withdrawal,336.79,POS-Terminal,"Mumbai, IN",4,0,Not Fraud,19,2,0
+Money Transfer,2973.74,Mobile-Android,"Delhi, IN",1,0,Not Fraud,12,4,0
+Loan Application,11201.42,Desktop-Mac,"Moscow, RU",10,1,Fraud,18,4,0
+Bill Payment,1519.83,Tablet,"Dubai, AE",1,0,Not Fraud,13,0,0
+Money Transfer,12051.92,Desktop-Windows,"New York, US",1,0,Not Fraud,12,1,0
+Card Swipe,23.71,Mobile-Android,Tor Exit Node,2,0,Not Fraud,8,4,0
+Money Transfer,10973.37,Tablet,"Toronto, CA",2,0,Fraud,5,6,1
+Bill Payment,1516.77,Mobile-iOS,"Singapore, SG",2,1,Not Fraud,13,4,0
+Add Beneficiary,0.0,Desktop-Mac,"Sao Paulo, BR",3,2,Not Fraud,11,5,1
+Wallet Top-up,1937.25,Tablet,"Lagos, NG",1,0,Not Fraud,16,6,1
+Money Transfer,13182.18,Mobile-iOS,"London, UK",4,2,Not Fraud,14,0,0
+Loan Application,6442.6,Mobile-Android,"Mumbai, IN",1,0,Not Fraud,15,3,0
+Money Transfer,10858.5,Mobile-Android,"Chicago, US",8,1,Not Fraud,10,2,0
+Login,0.0,Desktop-Windows,"Chicago, US",6,0,Not Fraud,17,6,1
+Online Purchase,2257.64,Tablet,"Delhi, IN",1,0,Not Fraud,15,5,1
+Login,0.0,Mobile-Android,"London, UK",8,1,Not Fraud,12,4,0
+Loan Application,8164.58,ATM,"Kolkata, IN",2,5,Fraud,6,5,1
+Wallet Top-up,1357.97,Desktop-Windows,"Beijing, CN",1,0,Not Fraud,0,6,1
+Add Beneficiary,0.0,Tablet,"Dubai, AE",1,0,Not Fraud,23,0,0
+Bill Payment,2176.6,Tablet,"Sydney, AU",5,2,Fraud,23,6,1
+Online Purchase,1988.52,Desktop-Windows,"New York, US",3,0,Not Fraud,11,1,0
+Login,0.0,Tablet,"Singapore, SG",4,1,Not Fraud,21,2,0
+Login,0.0,POS-Terminal,"Chicago, US",9,0,Not Fraud,20,3,0
+Login,0.0,Desktop-Mac,"New York, US",4,1,Not Fraud,8,2,0
+Loan Application,12523.47,Desktop-Windows,"New York, US",2,1,Not Fraud,19,2,0
+Add Beneficiary,0.0,Desktop-Mac,"Houston, US",1,1,Not Fraud,7,4,0
+Money Transfer,2592.25,Tablet,"Sao Paulo, BR",1,2,Not Fraud,21,3,0
+Wallet Top-up,2649.89,POS-Terminal,"New York, US",7,0,Fraud,0,6,1
+Wallet Top-up,1402.43,POS-Terminal,"London, UK",1,0,Not Fraud,12,4,0
+Add Beneficiary,0.0,ATM,"New York, US",4,4,Not Fraud,9,1,0
+Online Purchase,497.62,Mobile-Android,"Bangalore, IN",5,0,Not Fraud,11,5,1
+Card Swipe,126.8,Tablet,"Berlin, DE",7,1,Not Fraud,11,3,0
+Money Transfer,19491.79,ATM,"Beijing, CN",4,0,Not Fraud,21,5,1
+Loan Application,12542.39,Mobile-Android,"Toronto, CA",2,0,Fraud,5,5,1
+Card Swipe,198.12,Mobile-Android,"Mumbai, IN",7,1,Not Fraud,19,6,1
+Money Transfer,2098.66,ATM,"Houston, US",3,0,Not Fraud,15,1,0
+Card Swipe,365.07,Mobile-Android,"Los Angeles, US",2,0,Not Fraud,13,3,0
+Bill Payment,1411.22,Tablet,"Lagos, NG",3,0,Not Fraud,15,4,0
+Online Purchase,2356.87,POS-Terminal,"Kolkata, IN",3,0,Not Fraud,11,4,0
+Add Beneficiary,0.0,ATM,"Singapore, SG",2,3,Not Fraud,11,2,0
+Loan Application,4302.11,ATM,"Sao Paulo, BR",1,0,Not Fraud,13,2,0
+Money Transfer,7189.84,Mobile-iOS,"Moscow, RU",6,0,Not Fraud,15,2,0
+ATM Withdrawal,95.33,ATM,"Lagos, NG",1,0,Not Fraud,20,4,0
+Bill Payment,1139.87,Mobile-iOS,"Toronto, CA",1,2,Not Fraud,18,3,0
+Money Transfer,2413.94,Mobile-iOS,"Sydney, AU",3,0,Not Fraud,20,1,0
+Loan Application,11767.15,Desktop-Windows,"London, UK",3,0,Not Fraud,20,5,1
+Online Purchase,2183.26,Mobile-Android,"Houston, US",2,2,Not Fraud,18,5,1
+Password Change,0.0,POS-Terminal,"Kolkata, IN",2,0,Not Fraud,17,6,1
+Online Purchase,1358.98,Desktop-Mac,"Lagos, NG",7,0,Fraud,10,5,1
+ATM Withdrawal,227.81,Tablet,"Moscow, RU",2,0,Not Fraud,11,2,0
+ATM Withdrawal,197.36,Mobile-Android,"Mumbai, IN",1,2,Not Fraud,9,6,1
+Money Transfer,1473.41,POS-Terminal,"Mumbai, IN",2,2,Fraud,1,3,0
+Wallet Top-up,2737.59,Desktop-Windows,"Berlin, DE",2,0,Not Fraud,0,2,0
+Bill Payment,2597.07,Desktop-Mac,"London, UK",3,0,Not Fraud,10,6,1
+Money Transfer,6295.84,Mobile-iOS,"Bangalore, IN",5,0,Not Fraud,9,3,0
+ATM Withdrawal,472.24,Desktop-Windows,"Mumbai, IN",2,1,Not Fraud,0,5,1
+Password Change,0.0,Mobile-iOS,"Chicago, US",8,0,Not Fraud,15,3,0
+Add Beneficiary,0.0,Mobile-Android,"Mumbai, IN",8,0,Fraud,4,4,0
+Login,0.0,Mobile-iOS,"Houston, US",6,0,Not Fraud,19,1,0
+Wallet Top-up,214.59,Desktop-Windows,"Dubai, AE",2,0,Not Fraud,4,3,0
+Add Beneficiary,0.0,ATM,"Houston, US",6,0,Not Fraud,13,2,0
+Loan Application,4099.31,Mobile-Android,"Kolkata, IN",2,2,Not Fraud,17,4,0
+Card Swipe,236.72,Desktop-Mac,"Mumbai, IN",5,1,Fraud,1,6,1
+Add Beneficiary,0.0,Desktop-Mac,"Bangalore, IN",6,0,Not Fraud,10,0,0
+Online Purchase,2657.2,Desktop-Windows,"Beijing, CN",1,1,Not Fraud,8,6,1
+Wallet Top-up,368.09,ATM,"Berlin, DE",2,0,Not Fraud,12,5,1
+Card Swipe,23.09,Desktop-Mac,"Mumbai, IN",2,0,Not Fraud,16,1,0
+Money Transfer,14196.54,Desktop-Mac,"Bangalore, IN",1,1,Not Fraud,8,1,0
+ATM Withdrawal,422.37,Mobile-iOS,"Toronto, CA",2,0,Not Fraud,9,6,1
+Bill Payment,1324.77,POS-Terminal,"Sydney, AU",2,0,Not Fraud,9,6,1
+Card Swipe,35.68,Mobile-iOS,Unknown Location,2,0,Not Fraud,0,2,0
+Login,0.0,POS-Terminal,"Beijing, CN",1,2,Not Fraud,23,2,0
+Add Beneficiary,0.0,Tablet,"Moscow, RU",3,3,Fraud,14,0,0
+Online Purchase,322.13,Desktop-Windows,"New York, US",1,0,Not Fraud,11,1,0
+Login,0.0,ATM,"Moscow, RU",9,0,Not Fraud,5,2,0
+Loan Application,6520.87,ATM,"Beijing, CN",2,0,Not Fraud,16,0,0
+Password Change,0.0,Desktop-Mac,"Sydney, AU",4,0,Not Fraud,0,4,0
+Loan Application,15190.87,ATM,"London, UK",1,0,Not Fraud,8,6,1
+Bill Payment,1130.37,Tablet,"Kolkata, IN",2,2,Not Fraud,16,5,1
+Add Beneficiary,0.0,Mobile-iOS,"Dubai, AE",2,0,Not Fraud,16,1,0
+Loan Application,17460.48,Mobile-Android,"Los Angeles, US",2,4,Fraud,14,2,0
+Bill Payment,279.82,Mobile-iOS,"London, UK",1,1,Not Fraud,15,2,0
+Online Purchase,1274.93,Desktop-Mac,"Kolkata, IN",1,2,Not Fraud,15,2,0
+Add Beneficiary,0.0,Tablet,"Moscow, RU",2,0,Not Fraud,12,5,1
+Money Transfer,15189.22,Tablet,"Sao Paulo, BR",1,0,Not Fraud,21,6,1
+Money Transfer,6698.02,Mobile-iOS,"New York, US",5,1,Not Fraud,17,5,1
+Add Beneficiary,0.0,Desktop-Mac,"Toronto, CA",9,0,Not Fraud,22,2,0
+Loan Application,3289.13,ATM,"Sao Paulo, BR",2,0,Not Fraud,18,4,0
+Add Beneficiary,0.0,ATM,"Mumbai, IN",4,0,Not Fraud,18,3,0
+Bill Payment,766.59,Mobile-Android,"Chicago, US",1,1,Not Fraud,15,1,0
+Wallet Top-up,2730.3,Desktop-Windows,"Beijing, CN",2,0,Not Fraud,20,6,1
+Add Beneficiary,0.0,Mobile-Android,"Chicago, US",3,1,Not Fraud,18,0,0
+ATM Withdrawal,13.15,Mobile-Android,"Berlin, DE",2,0,Not Fraud,9,5,1
+Password Change,0.0,Mobile-iOS,"Sydney, AU",1,0,Not Fraud,9,0,0
+Login,0.0,Desktop-Windows,"Kolkata, IN",6,0,Not Fraud,18,2,0
+ATM Withdrawal,52.0,Tablet,"London, UK",2,1,Not Fraud,8,2,0
+Money Transfer,4260.81,ATM,"London, UK",2,1,Not Fraud,18,2,0
+Password Change,0.0,Desktop-Windows,"Beijing, CN",2,0,Not Fraud,23,4,0
+Login,0.0,ATM,"Singapore, SG",1,0,Not Fraud,13,5,1
+Card Swipe,312.99,POS-Terminal,"Houston, US",9,4,Not Fraud,16,2,0
+Login,0.0,Desktop-Mac,"London, UK",2,1,Not Fraud,23,0,0
+Card Swipe,493.57,Desktop-Mac,"Toronto, CA",1,0,Not Fraud,20,0,0
+Money Transfer,6061.9,Mobile-iOS,"Singapore, SG",8,0,Not Fraud,17,2,0
+Bill Payment,2260.99,POS-Terminal,"New York, US",7,0,Not Fraud,16,1,0
+ATM Withdrawal,336.31,Mobile-iOS,Unknown Location,3,0,Not Fraud,22,4,0
+Password Change,0.0,POS-Terminal,"Delhi, IN",3,0,Not Fraud,12,1,0
+ATM Withdrawal,66.69,Tablet,Tor Exit Node,4,0,Not Fraud,6,2,0
+Loan Application,14751.51,ATM,"Delhi, IN",2,1,Not Fraud,11,1,0
+Money Transfer,7936.48,ATM,Tor Exit Node,5,0,Not Fraud,14,4,0
+Bill Payment,2242.44,Tablet,"Toronto, CA",2,1,Not Fraud,20,3,0
+Online Purchase,1487.6,Desktop-Windows,"Chicago, US",4,2,Not Fraud,17,6,1
+Card Swipe,366.42,ATM,"Chicago, US",1,0,Not Fraud,11,4,0
+Add Beneficiary,0.0,Desktop-Windows,"Beijing, CN",1,2,Not Fraud,12,4,0
+Password Change,0.0,Mobile-Android,"Dubai, AE",4,0,Not Fraud,18,5,1
+ATM Withdrawal,449.64,POS-Terminal,"Beijing, CN",2,2,Not Fraud,9,3,0
+Add Beneficiary,0.0,Mobile-Android,"Mumbai, IN",2,3,Not Fraud,17,2,0
+Bill Payment,1882.78,Desktop-Mac,"Sydney, AU",3,4,Not Fraud,12,0,0
+Add Beneficiary,0.0,Mobile-Android,"Chicago, US",1,0,Not Fraud,10,5,1
+ATM Withdrawal,349.93,Desktop-Mac,"Kolkata, IN",4,0,Not Fraud,7,2,0
+Money Transfer,14289.67,ATM,"Beijing, CN",2,2,Not Fraud,20,0,0
+Loan Application,10802.69,ATM,"Houston, US",3,0,Not Fraud,19,5,1
+Password Change,0.0,POS-Terminal,"Chicago, US",3,2,Not Fraud,8,5,1
+Wallet Top-up,899.24,Mobile-Android,"London, UK",1,3,Not Fraud,22,2,0
+Loan Application,9834.33,Tablet,"Sydney, AU",3,1,Not Fraud,11,3,0
+ATM Withdrawal,429.48,Mobile-iOS,"Lagos, NG",1,1,Not Fraud,9,3,0
+ATM Withdrawal,197.07,Desktop-Windows,"Beijing, CN",7,0,Not Fraud,21,2,0
+Online Purchase,2144.76,Tablet,"Houston, US",5,0,Not Fraud,15,6,1
+Money Transfer,5439.0,Mobile-Android,"Mumbai, IN",1,3,Not Fraud,14,1,0
+Login,0.0,ATM,Unknown Location,1,1,Fraud,7,0,0
+Money Transfer,10602.75,Desktop-Windows,"Moscow, RU",6,0,Fraud,17,3,0
+Wallet Top-up,1657.26,Mobile-iOS,"London, UK",3,1,Not Fraud,20,6,1
+Loan Application,14721.68,POS-Terminal,"Berlin, DE",3,0,Not Fraud,3,5,1
+Password Change,0.0,Desktop-Mac,"Sydney, AU",4,3,Not Fraud,19,2,0
+ATM Withdrawal,209.19,Mobile-Android,"Sao Paulo, BR",7,0,Not Fraud,11,1,0
+Login,0.0,POS-Terminal,"Chicago, US",2,1,Not Fraud,22,6,1
+Loan Application,3844.17,POS-Terminal,"Sydney, AU",2,5,Fraud,19,5,1
+Bill Payment,2025.19,Mobile-iOS,"Los Angeles, US",5,0,Not Fraud,20,3,0
+Add Beneficiary,0.0,POS-Terminal,"London, UK",2,1,Not Fraud,9,4,0
+Card Swipe,153.84,Desktop-Mac,"London, UK",2,3,Not Fraud,9,0,0
+Login,0.0,Desktop-Windows,"Mumbai, IN",1,2,Not Fraud,11,2,0
+Login,0.0,Tablet,"Sydney, AU",1,0,Not Fraud,7,2,0
+Card Swipe,203.73,Tablet,"Dubai, AE",1,0,Not Fraud,11,6,1
+Login,0.0,Mobile-Android,"Houston, US",1,0,Not Fraud,11,3,0
+Card Swipe,480.25,Tablet,"Sydney, AU",3,0,Not Fraud,23,1,0
+Money Transfer,19155.69,Tablet,"New York, US",3,0,Not Fraud,19,6,1
+Add Beneficiary,0.0,ATM,"Delhi, IN",3,1,Not Fraud,13,2,0
+Money Transfer,17290.13,Desktop-Mac,"Houston, US",4,2,Not Fraud,23,2,0
+Online Purchase,365.78,Mobile-iOS,"Delhi, IN",3,0,Not Fraud,12,1,0
+Wallet Top-up,922.81,Desktop-Mac,"Bangalore, IN",2,0,Not Fraud,16,4,0
+Password Change,0.0,Mobile-iOS,"Toronto, CA",1,0,Not Fraud,10,4,0
+ATM Withdrawal,241.31,Desktop-Windows,"Kolkata, IN",2,0,Not Fraud,21,0,0
+Password Change,0.0,ATM,"Lagos, NG",3,0,Fraud,12,3,0
+Money Transfer,17749.52,Mobile-Android,"Lagos, NG",6,1,Fraud,8,4,0
+Money Transfer,18839.27,ATM,"Houston, US",4,0,Not Fraud,16,4,0
+Wallet Top-up,2925.5,Mobile-Android,"Singapore, SG",1,0,Not Fraud,20,3,0
+ATM Withdrawal,32.27,POS-Terminal,"Dubai, AE",2,0,Not Fraud,15,1,0
+Wallet Top-up,1155.53,Mobile-iOS,"Houston, US",1,0,Not Fraud,18,1,0
+Wallet Top-up,2124.72,Desktop-Windows,"Sao Paulo, BR",3,0,Not Fraud,14,2,0
+ATM Withdrawal,29.15,Mobile-iOS,"Toronto, CA",4,0,Not Fraud,8,1,0
+Money Transfer,77.93,Mobile-Android,"Kolkata, IN",6,0,Not Fraud,11,1,0
+Password Change,0.0,ATM,"Mumbai, IN",4,0,Not Fraud,23,4,0
+Loan Application,2173.53,ATM,"Moscow, RU",3,0,Not Fraud,18,4,0
+ATM Withdrawal,109.92,Mobile-iOS,"Bangalore, IN",4,0,Not Fraud,16,5,1
+Card Swipe,98.94,Tablet,"Sydney, AU",4,0,Not Fraud,9,1,0
+Loan Application,3797.57,POS-Terminal,"Kolkata, IN",1,0,Not Fraud,8,6,1
+Add Beneficiary,0.0,ATM,"Dubai, AE",7,0,Not Fraud,12,5,1
+Loan Application,319.26,POS-Terminal,"Dubai, AE",5,0,Not Fraud,22,0,0
+Bill Payment,925.62,POS-Terminal,"London, UK",2,0,Not Fraud,13,1,0
+ATM Withdrawal,60.26,Mobile-iOS,"New York, US",2,0,Not Fraud,20,2,0
+Money Transfer,9861.82,Desktop-Windows,"Los Angeles, US",2,0,Not Fraud,23,4,0
+Bill Payment,1288.74,Mobile-iOS,"Singapore, SG",3,0,Not Fraud,11,5,1
+ATM Withdrawal,458.95,POS-Terminal,"Berlin, DE",4,2,Not Fraud,16,6,1
+Bill Payment,1174.85,Mobile-Android,"Chicago, US",2,1,Not Fraud,17,0,0
+Add Beneficiary,0.0,POS-Terminal,"Kolkata, IN",3,0,Not Fraud,11,6,1
+Add Beneficiary,0.0,Tablet,"Sydney, AU",1,0,Not Fraud,14,2,0
+Online Purchase,1088.32,Tablet,"Bangalore, IN",1,0,Not Fraud,9,3,0
+Card Swipe,80.63,Mobile-iOS,"Houston, US",1,1,Not Fraud,20,4,0
+Login,0.0,POS-Terminal,"Los Angeles, US",3,0,Not Fraud,17,1,0
+Password Change,0.0,Tablet,"Dubai, AE",2,1,Not Fraud,8,5,1
+Card Swipe,211.65,Mobile-Android,"Toronto, CA",1,2,Not Fraud,11,4,0
+Bill Payment,37.55,Tablet,"Sao Paulo, BR",1,0,Not Fraud,19,6,1
+ATM Withdrawal,486.83,Desktop-Mac,"Moscow, RU",1,0,Not Fraud,14,0,0
+Password Change,0.0,Mobile-iOS,"Los Angeles, US",2,0,Not Fraud,16,1,0
+Money Transfer,7285.9,Desktop-Windows,"Houston, US",1,0,Not Fraud,18,0,0
+Wallet Top-up,609.17,Tablet,"Lagos, NG",3,1,Not Fraud,21,2,0
+Login,0.0,Tablet,"Houston, US",4,1,Not Fraud,23,5,1
+Add Beneficiary,0.0,ATM,"Berlin, DE",1,1,Not Fraud,21,4,0
+ATM Withdrawal,89.0,Mobile-Android,"Kolkata, IN",1,0,Not Fraud,17,1,0
+Wallet Top-up,2976.88,Desktop-Windows,"Bangalore, IN",1,0,Not Fraud,16,2,0
+Online Purchase,630.42,POS-Terminal,"Kolkata, IN",1,0,Not Fraud,16,0,0
+Card Swipe,56.12,Mobile-Android,"Toronto, CA",2,0,Not Fraud,11,1,0
+Card Swipe,489.46,Mobile-iOS,Tor Exit Node,9,0,Fraud,18,0,0
+Add Beneficiary,0.0,Desktop-Mac,"Mumbai, IN",5,4,Not Fraud,20,0,0
+Wallet Top-up,1353.03,POS-Terminal,"Los Angeles, US",4,1,Not Fraud,20,6,1
+ATM Withdrawal,194.15,Desktop-Mac,"Singapore, SG",3,0,Not Fraud,15,3,0
+Money Transfer,1762.16,ATM,"Bangalore, IN",2,0,Not Fraud,18,5,1
+Online Purchase,2108.36,Tablet,"Chicago, US",2,0,Not Fraud,13,4,0
+Login,0.0,Desktop-Mac,"Houston, US",1,0,Not Fraud,22,0,0
+Bill Payment,255.36,ATM,"Sao Paulo, BR",6,0,Not Fraud,5,1,0
+Money Transfer,17904.38,Mobile-iOS,"Mumbai, IN",2,0,Not Fraud,12,2,0
+Loan Application,7813.3,Mobile-iOS,"Los Angeles, US",3,0,Fraud,0,0,0
+Bill Payment,2690.02,Mobile-Android,"Berlin, DE",3,0,Not Fraud,21,6,1
+Loan Application,1994.05,Tablet,"Berlin, DE",3,0,Not Fraud,9,5,1
+Password Change,0.0,Desktop-Windows,"Sydney, AU",5,1,Not Fraud,19,0,0
+Password Change,0.0,ATM,"Mumbai, IN",7,0,Not Fraud,11,2,0
+Wallet Top-up,1310.45,Desktop-Mac,"Moscow, RU",4,3,Not Fraud,10,1,0
+Money Transfer,13010.01,POS-Terminal,"Sao Paulo, BR",7,0,Not Fraud,16,3,0
+ATM Withdrawal,427.34,Desktop-Mac,"Chicago, US",5,4,Not Fraud,9,3,0
+Add Beneficiary,0.0,Tablet,"Toronto, CA",6,0,Not Fraud,0,3,0
+Login,0.0,ATM,"Dubai, AE",5,0,Not Fraud,0,6,1
+Online Purchase,1669.44,ATM,"New York, US",7,0,Not Fraud,12,4,0
+Password Change,0.0,POS-Terminal,"Berlin, DE",2,0,Not Fraud,14,6,1
+Password Change,0.0,Mobile-Android,"Moscow, RU",3,0,Not Fraud,9,1,0
+Card Swipe,320.89,Mobile-iOS,"Toronto, CA",2,0,Not Fraud,18,1,0
+ATM Withdrawal,50.65,ATM,"Los Angeles, US",2,0,Not Fraud,8,3,0
+ATM Withdrawal,448.36,ATM,"Houston, US",1,1,Not Fraud,7,3,0
+Money Transfer,4245.4,Desktop-Mac,"Berlin, DE",1,0,Not Fraud,12,3,0
+Money Transfer,19519.52,Tablet,"New York, US",2,0,Not Fraud,23,1,0
+Login,0.0,ATM,"Mumbai, IN",6,0,Not Fraud,14,1,0
+Bill Payment,806.43,Tablet,"Beijing, CN",2,2,Not Fraud,13,1,0
+ATM Withdrawal,94.75,Desktop-Mac,"Los Angeles, US",4,0,Not Fraud,17,3,0
+Add Beneficiary,0.0,Desktop-Windows,"Dubai, AE",3,0,Not Fraud,20,4,0
+Password Change,0.0,Mobile-iOS,"Singapore, SG",8,0,Not Fraud,21,5,1
+Password Change,0.0,Desktop-Windows,"Delhi, IN",1,0,Not Fraud,12,6,1
+Bill Payment,2339.65,POS-Terminal,"Mumbai, IN",2,1,Not Fraud,8,4,0
+Add Beneficiary,0.0,Mobile-Android,"Lagos, NG",4,3,Not Fraud,10,1,0
+Password Change,0.0,ATM,"Sydney, AU",1,0,Not Fraud,19,0,0
+Bill Payment,1806.28,Desktop-Windows,"New York, US",4,0,Not Fraud,15,0,0
+Bill Payment,2525.72,Tablet,"New York, US",3,0,Not Fraud,12,6,1
+ATM Withdrawal,165.42,Desktop-Windows,"Sydney, AU",1,0,Not Fraud,11,4,0
+Password Change,0.0,Mobile-Android,"Dubai, AE",1,5,Not Fraud,22,3,0
+Password Change,0.0,POS-Terminal,"Singapore, SG",1,1,Not Fraud,19,3,0
+Money Transfer,5311.36,Desktop-Windows,"Beijing, CN",7,0,Not Fraud,17,1,0
+Bill Payment,2260.34,Desktop-Mac,"Beijing, CN",2,0,Not Fraud,20,4,0
+Password Change,0.0,Desktop-Windows,"Berlin, DE",4,0,Not Fraud,18,4,0
+Money Transfer,19436.72,Desktop-Mac,"Dubai, AE",1,0,Not Fraud,4,1,0
+Wallet Top-up,2576.08,POS-Terminal,"Chicago, US",2,3,Not Fraud,18,6,1
+Card Swipe,435.25,Mobile-Android,"Toronto, CA",1,0,Not Fraud,14,1,0
+Online Purchase,54.68,POS-Terminal,"Sydney, AU",2,0,Not Fraud,13,4,0
+Online Purchase,456.11,Desktop-Mac,"Toronto, CA",1,0,Not Fraud,14,1,0
+Online Purchase,1211.06,Tablet,"Bangalore, IN",3,0,Not Fraud,15,2,0
+Loan Application,5360.26,Tablet,"Beijing, CN",2,0,Not Fraud,5,3,0
+Online Purchase,517.23,Tablet,"Toronto, CA",1,0,Not Fraud,9,0,0
+Password Change,0.0,Desktop-Mac,"Chicago, US",1,0,Not Fraud,17,3,0
+ATM Withdrawal,441.82,Tablet,"Mumbai, IN",2,0,Not Fraud,9,4,0
+Loan Application,13616.92,Mobile-iOS,"Sao Paulo, BR",4,0,Not Fraud,11,4,0
+Password Change,0.0,Desktop-Windows,"Mumbai, IN",1,0,Not Fraud,23,0,0
+Money Transfer,5435.25,Desktop-Mac,"Dubai, AE",3,0,Not Fraud,14,4,0
+Loan Application,14833.2,Mobile-Android,"Houston, US",8,0,Fraud,23,3,0
+Wallet Top-up,528.98,Desktop-Mac,"Lagos, NG",7,0,Not Fraud,21,2,0
+Password Change,0.0,Desktop-Mac,"Lagos, NG",4,0,Not Fraud,19,2,0
+Bill Payment,1401.62,POS-Terminal,"Houston, US",2,0,Not Fraud,8,4,0
+Login,0.0,Mobile-Android,"Sydney, AU",1,0,Not Fraud,9,5,1
+ATM Withdrawal,394.78,Mobile-Android,"Sao Paulo, BR",1,1,Not Fraud,14,6,1
+Online Purchase,101.25,POS-Terminal,"Delhi, IN",2,3,Not Fraud,21,0,0
+Bill Payment,1693.9,Mobile-iOS,"Beijing, CN",1,0,Not Fraud,17,3,0
+Money Transfer,5981.82,Desktop-Mac,"Berlin, DE",5,0,Not Fraud,21,6,1
+Password Change,0.0,Desktop-Mac,"Bangalore, IN",6,0,Not Fraud,13,4,0
+Loan Application,18141.63,Mobile-iOS,"Moscow, RU",6,2,Fraud,18,6,1
+Add Beneficiary,0.0,ATM,"Sydney, AU",5,0,Not Fraud,17,1,0
+Loan Application,1993.11,ATM,"Los Angeles, US",4,1,Not Fraud,11,2,0
+Bill Payment,1688.34,POS-Terminal,"Moscow, RU",1,0,Not Fraud,22,0,0
+Money Transfer,1389.48,Mobile-Android,"London, UK",1,0,Not Fraud,8,2,0
+Add Beneficiary,0.0,ATM,"Dubai, AE",1,0,Not Fraud,13,6,1
+Add Beneficiary,0.0,ATM,"Sao Paulo, BR",1,0,Not Fraud,8,3,0
+ATM Withdrawal,151.83,POS-Terminal,"Toronto, CA",2,1,Not Fraud,7,5,1
+Bill Payment,88.77,Tablet,"Toronto, CA",3,2,Not Fraud,13,4,0
+Card Swipe,442.39,Tablet,"Dubai, AE",2,0,Not Fraud,13,2,0
+Password Change,0.0,POS-Terminal,"Dubai, AE",1,1,Not Fraud,16,0,0
+Card Swipe,194.5,POS-Terminal,Unknown Location,4,0,Not Fraud,13,2,0
+Loan Application,12368.63,POS-Terminal,"Chicago, US",1,0,Not Fraud,12,3,0
+Online Purchase,320.77,ATM,"Kolkata, IN",7,0,Not Fraud,20,2,0
+Money Transfer,8858.49,Mobile-iOS,"Toronto, CA",3,0,Not Fraud,12,2,0
+Card Swipe,224.38,Desktop-Mac,"Dubai, AE",5,0,Not Fraud,10,1,0
+Login,0.0,ATM,"Delhi, IN",2,0,Not Fraud,19,3,0
+Online Purchase,2498.05,Desktop-Windows,"Moscow, RU",3,0,Not Fraud,15,1,0
+Add Beneficiary,0.0,ATM,"Sydney, AU",1,0,Not Fraud,20,6,1
+Password Change,0.0,ATM,"London, UK",4,0,Not Fraud,0,0,0
+Wallet Top-up,1728.19,Desktop-Windows,"Delhi, IN",1,1,Not Fraud,20,4,0
+ATM Withdrawal,330.08,Desktop-Windows,"Singapore, SG",1,0,Not Fraud,1,4,0
+Card Swipe,45.73,ATM,"Berlin, DE",1,5,Fraud,22,6,1
+Wallet Top-up,1438.92,Mobile-Android,"Sydney, AU",1,0,Not Fraud,8,0,0
+Login,0.0,Tablet,"Moscow, RU",2,1,Not Fraud,1,3,0
+Add Beneficiary,0.0,Tablet,"Chicago, US",2,2,Not Fraud,17,6,1
+Login,0.0,Mobile-iOS,"Delhi, IN",4,2,Not Fraud,10,4,0
+Login,0.0,Desktop-Windows,"New York, US",2,1,Not Fraud,6,6,1
+Loan Application,7986.48,Desktop-Windows,Tor Exit Node,1,1,Fraud,16,0,0
+ATM Withdrawal,471.3,Mobile-iOS,"Sydney, AU",1,1,Not Fraud,18,1,0
+Add Beneficiary,0.0,Mobile-Android,"Houston, US",1,4,Not Fraud,17,3,0
+Money Transfer,7479.18,POS-Terminal,"Bangalore, IN",4,4,Not Fraud,19,6,1
+ATM Withdrawal,146.2,Desktop-Windows,"Dubai, AE",2,0,Not Fraud,12,3,0
+Login,0.0,Desktop-Mac,"Sydney, AU",3,0,Not Fraud,10,2,0
+ATM Withdrawal,407.02,POS-Terminal,"Dubai, AE",2,0,Not Fraud,15,5,1
+ATM Withdrawal,430.67,POS-Terminal,"Lagos, NG",2,0,Not Fraud,22,1,0
+Bill Payment,2723.6,Mobile-iOS,"Berlin, DE",1,0,Not Fraud,10,2,0
+Password Change,0.0,ATM,"Berlin, DE",1,0,Not Fraud,10,1,0
+Card Swipe,236.73,Desktop-Mac,"Moscow, RU",3,0,Not Fraud,13,2,0
+Money Transfer,8836.77,ATM,"Sydney, AU",1,0,Not Fraud,10,5,1
+Login,0.0,Tablet,"Toronto, CA",3,0,Not Fraud,9,2,0
+Wallet Top-up,2156.37,Tablet,"Bangalore, IN",2,0,Not Fraud,15,0,0
+Add Beneficiary,0.0,Tablet,"Berlin, DE",2,0,Not Fraud,20,1,0
+Bill Payment,1108.06,Mobile-Android,"Los Angeles, US",1,0,Not Fraud,11,6,1
+Bill Payment,1146.36,Mobile-iOS,"Lagos, NG",10,0,Fraud,23,3,0
+Wallet Top-up,2395.63,Desktop-Mac,"Toronto, CA",1,0,Not Fraud,15,2,0
+Password Change,0.0,POS-Terminal,"London, UK",4,2,Not Fraud,10,3,0
+Wallet Top-up,1519.4,Mobile-iOS,"Bangalore, IN",2,0,Not Fraud,21,2,0
+Add Beneficiary,0.0,Desktop-Windows,"Berlin, DE",2,0,Not Fraud,17,3,0
+Bill Payment,1730.16,Mobile-iOS,"Singapore, SG",1,0,Not Fraud,16,1,0
+Money Transfer,2571.64,Mobile-iOS,"Kolkata, IN",1,2,Fraud,1,3,0
+Bill Payment,1209.94,Desktop-Windows,"Singapore, SG",6,0,Not Fraud,15,4,0
+Password Change,0.0,Desktop-Mac,"Sao Paulo, BR",2,1,Not Fraud,22,2,0
+Money Transfer,3087.52,POS-Terminal,"Bangalore, IN",2,0,Not Fraud,0,6,1
+ATM Withdrawal,251.71,Tablet,"Sydney, AU",7,0,Fraud,3,3,0
+Login,0.0,Mobile-iOS,"Delhi, IN",1,2,Not Fraud,19,0,0
+ATM Withdrawal,91.14,Mobile-iOS,"Toronto, CA",6,5,Not Fraud,10,3,0
+Bill Payment,292.45,Mobile-Android,"Moscow, RU",1,2,Not Fraud,15,3,0
+Online Purchase,849.1,Tablet,"Chicago, US",2,3,Not Fraud,22,3,0
+ATM Withdrawal,52.56,Mobile-Android,"Kolkata, IN",5,1,Not Fraud,8,5,1
+Wallet Top-up,1009.33,ATM,"Los Angeles, US",3,2,Not Fraud,13,6,1
+Wallet Top-up,955.99,POS-Terminal,"New York, US",3,0,Not Fraud,19,2,0
+Online Purchase,2021.68,Mobile-iOS,"Sao Paulo, BR",1,0,Not Fraud,10,0,0
+Login,0.0,Mobile-iOS,"Sao Paulo, BR",1,1,Not Fraud,13,4,0
+Password Change,0.0,Desktop-Windows,"Dubai, AE",6,1,Not Fraud,13,2,0
+Wallet Top-up,1445.47,ATM,"Berlin, DE",2,0,Not Fraud,7,0,0
+Bill Payment,1396.88,Desktop-Mac,"Sao Paulo, BR",4,0,Not Fraud,11,5,1
+Online Purchase,91.74,ATM,"Delhi, IN",3,0,Not Fraud,10,2,0
+Card Swipe,218.35,POS-Terminal,"London, UK",3,0,Not Fraud,10,0,0
+Loan Application,17518.66,Tablet,"Moscow, RU",1,0,Not Fraud,14,2,0
+Password Change,0.0,Mobile-Android,"Sydney, AU",2,0,Not Fraud,18,1,0
+ATM Withdrawal,402.63,Tablet,"Sao Paulo, BR",7,0,Not Fraud,21,1,0
+Wallet Top-up,1196.82,Mobile-Android,"London, UK",4,0,Not Fraud,13,2,0
+Bill Payment,2455.8,Mobile-Android,"Sydney, AU",4,1,Not Fraud,20,0,0
+Money Transfer,14730.67,ATM,"Toronto, CA",2,0,Not Fraud,19,3,0
+Card Swipe,109.31,Desktop-Mac,"Toronto, CA",1,4,Not Fraud,10,3,0
+Wallet Top-up,1522.25,Desktop-Windows,"Berlin, DE",4,0,Not Fraud,12,4,0
+Card Swipe,191.21,Mobile-iOS,"Berlin, DE",9,0,Not Fraud,15,3,0
+Loan Application,5036.88,Tablet,"Sao Paulo, BR",3,0,Not Fraud,8,4,0
+Bill Payment,114.35,Mobile-Android,"London, UK",1,0,Not Fraud,17,1,0
+Password Change,0.0,ATM,"Sao Paulo, BR",4,3,Not Fraud,13,4,0
+Bill Payment,2271.88,Mobile-iOS,"Bangalore, IN",9,0,Not Fraud,8,2,0
+Wallet Top-up,1464.14,Mobile-Android,"Toronto, CA",2,0,Not Fraud,18,6,1
+Loan Application,13021.9,ATM,"Moscow, RU",4,0,Fraud,8,5,1
+Online Purchase,2808.93,Mobile-iOS,"Houston, US",4,0,Not Fraud,21,1,0
+Bill Payment,1414.13,Mobile-iOS,"Houston, US",1,0,Not Fraud,23,6,1
+Loan Application,3171.24,Desktop-Windows,"Moscow, RU",7,0,Fraud,11,3,0
+Password Change,0.0,Tablet,"Lagos, NG",3,0,Not Fraud,16,4,0
+Bill Payment,792.5,POS-Terminal,"Berlin, DE",2,1,Not Fraud,7,5,1
+Online Purchase,508.46,ATM,"Moscow, RU",1,0,Not Fraud,18,1,0
+Login,0.0,POS-Terminal,"Bangalore, IN",2,1,Not Fraud,8,5,1
+Add Beneficiary,0.0,Desktop-Windows,"Dubai, AE",2,0,Not Fraud,18,1,0
+Bill Payment,2520.43,Desktop-Windows,"Beijing, CN",3,0,Not Fraud,15,0,0
+Password Change,0.0,POS-Terminal,"Delhi, IN",3,2,Not Fraud,20,6,1
+Bill Payment,2799.91,Tablet,"Houston, US",3,0,Not Fraud,23,3,0
+Loan Application,5496.91,Mobile-Android,"Kolkata, IN",4,0,Not Fraud,16,5,1
+Loan Application,12663.19,POS-Terminal,"Sao Paulo, BR",5,0,Not Fraud,13,1,0
+Bill Payment,2613.39,Mobile-Android,"Los Angeles, US",3,0,Not Fraud,8,1,0
+Loan Application,14762.2,Desktop-Windows,"Singapore, SG",1,5,Fraud,11,1,0
+Add Beneficiary,0.0,Mobile-Android,"Houston, US",4,0,Not Fraud,12,3,0
+ATM Withdrawal,308.18,POS-Terminal,"Dubai, AE",7,0,Not Fraud,17,3,0
+Card Swipe,288.4,Mobile-Android,"Chicago, US",1,1,Not Fraud,17,1,0
+Login,0.0,POS-Terminal,Tor Exit Node,2,1,Not Fraud,9,1,0
+Login,0.0,Mobile-iOS,"Lagos, NG",2,2,Fraud,12,3,0
+ATM Withdrawal,137.08,Tablet,"Mumbai, IN",4,0,Not Fraud,13,1,0
+Bill Payment,1616.16,POS-Terminal,"Dubai, AE",4,0,Not Fraud,9,6,1
+Online Purchase,778.35,Tablet,"Beijing, CN",1,0,Not Fraud,13,3,0
+Password Change,0.0,Mobile-Android,"Chicago, US",2,0,Not Fraud,17,0,0
+Bill Payment,1403.19,Tablet,"Bangalore, IN",3,0,Not Fraud,9,6,1
+Password Change,0.0,Desktop-Windows,"New York, US",7,0,Not Fraud,15,6,1
+ATM Withdrawal,477.45,Mobile-iOS,Unknown Location,6,4,Fraud,12,0,0
+Bill Payment,1991.9,ATM,"Berlin, DE",5,0,Not Fraud,18,4,0
+Bill Payment,605.22,Mobile-iOS,"Dubai, AE",2,1,Not Fraud,9,0,0
+Login,0.0,Tablet,"Beijing, CN",3,3,Not Fraud,13,3,0
+Add Beneficiary,0.0,Desktop-Mac,"Berlin, DE",6,2,Fraud,8,1,0
+Wallet Top-up,219.61,Mobile-iOS,"Singapore, SG",1,0,Not Fraud,13,1,0
+Login,0.0,Mobile-Android,"Moscow, RU",1,0,Not Fraud,16,5,1
+Add Beneficiary,0.0,Desktop-Windows,"Delhi, IN",5,0,Not Fraud,16,4,0
+Add Beneficiary,0.0,ATM,"Los Angeles, US",3,0,Not Fraud,17,2,0
+Password Change,0.0,Desktop-Mac,"New York, US",3,1,Not Fraud,8,2,0
+Add Beneficiary,0.0,ATM,"Berlin, DE",2,0,Not Fraud,10,2,0
+Password Change,0.0,ATM,"Delhi, IN",3,0,Not Fraud,7,5,1
+Online Purchase,1547.11,Mobile-Android,"Bangalore, IN",1,2,Not Fraud,16,1,0
+ATM Withdrawal,218.59,Tablet,"London, UK",1,0,Not Fraud,17,1,0
+Password Change,0.0,Mobile-iOS,"Houston, US",2,0,Not Fraud,18,5,1
+ATM Withdrawal,179.24,ATM,"Singapore, SG",7,2,Not Fraud,13,6,1
+Password Change,0.0,POS-Terminal,"Dubai, AE",1,0,Not Fraud,12,5,1
+Add Beneficiary,0.0,POS-Terminal,"Beijing, CN",6,2,Not Fraud,12,4,0
+Loan Application,5256.47,ATM,"London, UK",4,0,Not Fraud,11,3,0
+ATM Withdrawal,375.97,Mobile-Android,"Moscow, RU",6,1,Fraud,18,5,1
+Add Beneficiary,0.0,Tablet,"Berlin, DE",3,0,Not Fraud,16,1,0
+Money Transfer,12247.16,Tablet,"Delhi, IN",3,0,Not Fraud,18,0,0
+Password Change,0.0,Desktop-Mac,"Dubai, AE",2,0,Not Fraud,11,5,1
+Add Beneficiary,0.0,POS-Terminal,"Sydney, AU",9,0,Fraud,1,1,0
+Password Change,0.0,Tablet,"Lagos, NG",3,0,Not Fraud,13,6,1
+Wallet Top-up,2233.44,Mobile-iOS,"Delhi, IN",7,0,Fraud,23,6,1
+Money Transfer,11436.36,POS-Terminal,"Kolkata, IN",3,0,Not Fraud,9,5,1
+Password Change,0.0,POS-Terminal,"Kolkata, IN",4,0,Not Fraud,18,4,0
+Card Swipe,380.85,ATM,"Houston, US",1,0,Not Fraud,10,0,0
+Money Transfer,7697.9,POS-Terminal,"New York, US",1,0,Not Fraud,16,1,0
+Login,0.0,POS-Terminal,"Bangalore, IN",1,0,Not Fraud,11,0,0
+Online Purchase,2551.68,Mobile-iOS,"Houston, US",7,3,Not Fraud,8,1,0
+Money Transfer,17894.19,POS-Terminal,"Moscow, RU",9,1,Fraud,9,1,0
+Loan Application,16765.62,Desktop-Mac,"Sao Paulo, BR",1,1,Fraud,20,1,0
+Add Beneficiary,0.0,POS-Terminal,"Sydney, AU",4,0,Not Fraud,5,4,0
+Login,0.0,POS-Terminal,"Berlin, DE",2,1,Not Fraud,11,2,0
+Money Transfer,2962.38,ATM,"Chicago, US",1,0,Not Fraud,10,5,1
+Card Swipe,112.94,Desktop-Mac,"Singapore, SG",2,0,Not Fraud,7,6,1
+Card Swipe,172.02,Tablet,"New York, US",1,0,Not Fraud,13,2,0
+ATM Withdrawal,160.26,Desktop-Mac,"Sao Paulo, BR",3,0,Not Fraud,17,3,0
+Add Beneficiary,0.0,Mobile-iOS,"Lagos, NG",1,0,Fraud,10,2,0
+Add Beneficiary,0.0,POS-Terminal,"Chicago, US",5,0,Not Fraud,13,6,1
+Bill Payment,2612.99,Mobile-Android,"Beijing, CN",1,0,Not Fraud,13,1,0
+Online Purchase,1072.72,Mobile-Android,"Dubai, AE",5,1,Not Fraud,13,3,0
+Add Beneficiary,0.0,Desktop-Windows,"Lagos, NG",2,1,Not Fraud,16,5,1
+Loan Application,10482.83,POS-Terminal,Tor Exit Node,5,0,Fraud,10,6,1
+Loan Application,5351.98,ATM,"Singapore, SG",6,0,Not Fraud,10,0,0
+Online Purchase,735.6,Tablet,"Singapore, SG",1,1,Not Fraud,18,6,1
+Money Transfer,9546.91,Desktop-Mac,"Toronto, CA",1,0,Not Fraud,7,1,0
+Loan Application,16125.03,ATM,"Delhi, IN",1,0,Fraud,16,3,0
+Wallet Top-up,854.85,Mobile-iOS,"Mumbai, IN",3,0,Not Fraud,16,5,1
+Card Swipe,13.19,Mobile-iOS,"Houston, US",4,1,Not Fraud,20,2,0
+Wallet Top-up,2468.56,Mobile-iOS,"Toronto, CA",2,1,Not Fraud,9,5,1
+Loan Application,4245.32,ATM,"Delhi, IN",1,0,Not Fraud,17,2,0
+Card Swipe,330.21,Mobile-iOS,Unknown Location,2,2,Fraud,18,0,0
+ATM Withdrawal,173.52,Desktop-Windows,"Delhi, IN",2,0,Not Fraud,11,5,1
+Password Change,0.0,Desktop-Windows,"New York, US",4,0,Not Fraud,16,2,0
+Login,0.0,Tablet,"Lagos, NG",1,0,Not Fraud,11,1,0
+Online Purchase,485.45,Mobile-Android,"Berlin, DE",2,4,Not Fraud,17,3,0
+Login,0.0,Tablet,"Mumbai, IN",7,0,Not Fraud,7,2,0
+Add Beneficiary,0.0,Desktop-Windows,"Lagos, NG",3,0,Fraud,19,5,1
+ATM Withdrawal,282.77,ATM,"Berlin, DE",6,1,Not Fraud,19,2,0
+Online Purchase,556.5,Mobile-iOS,"Beijing, CN",4,0,Not Fraud,13,3,0
+Add Beneficiary,0.0,Mobile-Android,"Dubai, AE",1,5,Fraud,12,3,0
+Wallet Top-up,2619.88,Tablet,"Mumbai, IN",1,0,Not Fraud,11,4,0
+Bill Payment,2396.78,Desktop-Mac,"Moscow, RU",10,1,Fraud,19,0,0
+Card Swipe,445.78,Mobile-Android,"Houston, US",3,0,Not Fraud,23,2,0
+Login,0.0,Mobile-iOS,"Toronto, CA",1,2,Not Fraud,16,4,0
+Online Purchase,2310.93,POS-Terminal,"Singapore, SG",1,1,Not Fraud,15,3,0
+Money Transfer,573.18,Mobile-iOS,"Sydney, AU",8,0,Not Fraud,15,5,1
+Online Purchase,912.27,Mobile-iOS,"Berlin, DE",1,2,Not Fraud,12,3,0
+Login,0.0,Mobile-iOS,"Delhi, IN",2,0,Not Fraud,13,2,0
+Money Transfer,19386.41,Mobile-Android,"Houston, US",1,3,Not Fraud,14,1,0
+Online Purchase,634.93,Desktop-Windows,"Sydney, AU",7,0,Not Fraud,7,5,1
+Money Transfer,7125.89,ATM,"Beijing, CN",1,1,Not Fraud,22,1,0
+ATM Withdrawal,367.52,Mobile-iOS,"Houston, US",1,0,Not Fraud,21,1,0
+Login,0.0,POS-Terminal,"Toronto, CA",3,2,Not Fraud,15,2,0
+Wallet Top-up,2896.07,Desktop-Windows,"Singapore, SG",1,0,Not Fraud,18,6,1
+Add Beneficiary,0.0,Tablet,"Toronto, CA",4,0,Not Fraud,16,6,1
+Login,0.0,Tablet,"Houston, US",1,0,Not Fraud,14,4,0
+Card Swipe,237.57,Mobile-iOS,"Dubai, AE",5,0,Not Fraud,12,2,0
+Bill Payment,972.01,Mobile-Android,"Bangalore, IN",4,2,Not Fraud,14,3,0
+Bill Payment,680.53,Desktop-Windows,"Singapore, SG",1,0,Not Fraud,6,0,0
+Card Swipe,337.49,ATM,"Singapore, SG",2,0,Not Fraud,14,0,0
+Add Beneficiary,0.0,Mobile-Android,"Chicago, US",1,1,Not Fraud,16,6,1
+Card Swipe,430.26,Desktop-Mac,"Bangalore, IN",1,0,Not Fraud,9,2,0
+Wallet Top-up,2772.04,Desktop-Windows,"Berlin, DE",2,0,Not Fraud,11,4,0
+ATM Withdrawal,40.93,Mobile-iOS,"Los Angeles, US",9,2,Not Fraud,12,1,0
+Bill Payment,2620.55,Mobile-Android,"Kolkata, IN",9,0,Not Fraud,11,4,0
+Online Purchase,2201.57,Tablet,"Dubai, AE",2,2,Not Fraud,11,5,1
+Password Change,0.0,POS-Terminal,"Dubai, AE",1,3,Not Fraud,8,3,0
+Online Purchase,838.87,Tablet,"Kolkata, IN",6,0,Not Fraud,22,3,0
+Money Transfer,5064.02,POS-Terminal,"Moscow, RU",8,0,Fraud,15,0,0
+Card Swipe,413.0,ATM,"Chicago, US",2,0,Not Fraud,18,4,0
+Online Purchase,2890.26,POS-Terminal,"Sao Paulo, BR",7,0,Not Fraud,10,5,1
+Password Change,0.0,Tablet,"Los Angeles, US",3,0,Not Fraud,0,4,0
+Loan Application,9114.63,Desktop-Windows,"Singapore, SG",7,0,Fraud,5,4,0
+Add Beneficiary,0.0,ATM,"Berlin, DE",4,0,Not Fraud,15,4,0
+Online Purchase,2608.74,Desktop-Mac,"Los Angeles, US",1,1,Not Fraud,17,0,0
+Password Change,0.0,Mobile-Android,"New York, US",4,0,Not Fraud,12,2,0
+Money Transfer,19946.19,ATM,"Lagos, NG",3,2,Fraud,19,3,0
+Loan Application,16772.2,Mobile-Android,"Kolkata, IN",1,0,Not Fraud,16,5,1
+Card Swipe,427.59,Desktop-Mac,"Dubai, AE",3,1,Not Fraud,15,4,0
+Login,0.0,Desktop-Mac,"Berlin, DE",4,2,Not Fraud,16,6,1
+Password Change,0.0,ATM,"New York, US",2,5,Fraud,23,4,0
+Wallet Top-up,2313.57,ATM,"Mumbai, IN",5,2,Not Fraud,14,6,1
+Loan Application,10787.78,Desktop-Windows,"Los Angeles, US",4,0,Fraud,19,4,0
+Bill Payment,2270.91,Desktop-Windows,"Mumbai, IN",2,0,Not Fraud,9,0,0
+Login,0.0,Tablet,"Beijing, CN",3,1,Not Fraud,7,3,0
+Money Transfer,1856.32,ATM,"London, UK",4,0,Not Fraud,15,0,0
+Money Transfer,16907.94,Desktop-Windows,"Moscow, RU",9,0,Fraud,18,3,0
+Online Purchase,1646.22,Mobile-iOS,"Dubai, AE",9,0,Not Fraud,17,2,0
+Bill Payment,42.19,Desktop-Mac,"Dubai, AE",2,0,Not Fraud,10,4,0
+Wallet Top-up,1744.78,POS-Terminal,"London, UK",4,0,Not Fraud,16,3,0
+Password Change,0.0,Tablet,"Mumbai, IN",8,0,Not Fraud,21,6,1
+Money Transfer,19621.17,Tablet,"Toronto, CA",5,0,Fraud,18,4,0
+Card Swipe,141.88,Desktop-Mac,"Lagos, NG",1,5,Fraud,19,2,0
+Wallet Top-up,1952.58,Mobile-iOS,"Los Angeles, US",2,4,Fraud,20,0,0
+Login,0.0,ATM,Tor Exit Node,9,0,Not Fraud,17,0,0
+ATM Withdrawal,171.96,Mobile-iOS,"Berlin, DE",9,0,Not Fraud,15,1,0
+Password Change,0.0,Mobile-Android,"Sydney, AU",4,1,Not Fraud,15,5,1
+Login,0.0,Desktop-Windows,"Los Angeles, US",7,0,Not Fraud,16,4,0
+Card Swipe,77.87,Mobile-iOS,"Sao Paulo, BR",6,0,Not Fraud,11,1,0
+Online Purchase,683.79,Desktop-Mac,"Sao Paulo, BR",2,0,Not Fraud,23,4,0
+Password Change,0.0,Mobile-Android,"Mumbai, IN",2,2,Not Fraud,7,5,1
+Loan Application,9989.12,POS-Terminal,"Singapore, SG",3,0,Not Fraud,14,1,0
+Bill Payment,2444.01,Tablet,"Singapore, SG",4,0,Not Fraud,13,3,0
+Bill Payment,1772.37,Tablet,"Chicago, US",3,0,Not Fraud,8,2,0
+Card Swipe,472.57,Desktop-Windows,"Chicago, US",8,0,Not Fraud,17,2,0
+Login,0.0,ATM,"Singapore, SG",4,2,Not Fraud,21,6,1
+Password Change,0.0,Tablet,"Sydney, AU",4,0,Not Fraud,21,6,1
+ATM Withdrawal,472.68,Desktop-Mac,"New York, US",1,0,Not Fraud,12,2,0
+ATM Withdrawal,387.71,Mobile-iOS,"Kolkata, IN",2,0,Not Fraud,17,5,1
+Wallet Top-up,88.75,Tablet,"New York, US",5,2,Not Fraud,22,1,0
+Money Transfer,9171.81,Mobile-Android,"Sao Paulo, BR",2,0,Not Fraud,9,6,1
+Money Transfer,18490.03,ATM,"Mumbai, IN",1,0,Not Fraud,0,0,0
+Login,0.0,POS-Terminal,"London, UK",7,1,Not Fraud,8,0,0
+Add Beneficiary,0.0,Desktop-Mac,"Toronto, CA",6,2,Not Fraud,17,2,0
+Add Beneficiary,0.0,POS-Terminal,"Beijing, CN",1,0,Not Fraud,2,6,1
+Bill Payment,1613.13,POS-Terminal,Unknown Location,2,0,Fraud,8,1,0
+Money Transfer,15231.74,Mobile-Android,"Lagos, NG",2,0,Not Fraud,12,4,0
+Online Purchase,118.9,ATM,"Los Angeles, US",2,0,Not Fraud,12,4,0
+Wallet Top-up,2301.54,Mobile-Android,"Lagos, NG",7,0,Fraud,9,6,1
+Online Purchase,2705.18,Tablet,"Los Angeles, US",1,0,Not Fraud,4,6,1
+Online Purchase,1806.97,Desktop-Windows,"Los Angeles, US",3,0,Not Fraud,10,2,0
+Password Change,0.0,POS-Terminal,"London, UK",2,0,Not Fraud,12,0,0
+Online Purchase,2287.72,POS-Terminal,"Dubai, AE",2,0,Not Fraud,1,0,0
+Card Swipe,456.02,Desktop-Windows,"Kolkata, IN",3,0,Not Fraud,10,3,0
+Password Change,0.0,Mobile-iOS,"Kolkata, IN",2,0,Not Fraud,9,0,0
+Add Beneficiary,0.0,Desktop-Mac,"Sao Paulo, BR",2,0,Not Fraud,19,0,0
+Online Purchase,2825.93,Desktop-Mac,"Bangalore, IN",2,0,Not Fraud,12,0,0
+Wallet Top-up,621.72,ATM,"Sao Paulo, BR",4,0,Not Fraud,9,2,0
+Password Change,0.0,Desktop-Mac,"Chicago, US",3,0,Not Fraud,16,3,0
+Online Purchase,1016.36,Tablet,"Delhi, IN",7,0,Not Fraud,20,3,0
+Loan Application,15396.34,Mobile-iOS,"Chicago, US",2,0,Not Fraud,16,4,0
+Loan Application,18663.75,Mobile-Android,"Beijing, CN",4,0,Not Fraud,16,2,0
+Money Transfer,6300.21,Mobile-iOS,"Toronto, CA",1,0,Not Fraud,21,5,1
+Card Swipe,175.92,Tablet,"Chicago, US",6,0,Not Fraud,9,4,0
+Bill Payment,1687.18,ATM,"Singapore, SG",9,1,Not Fraud,16,3,0
+Login,0.0,Desktop-Mac,"Houston, US",1,1,Not Fraud,8,1,0
+Card Swipe,448.05,Desktop-Windows,"Kolkata, IN",6,0,Not Fraud,23,6,1
+Add Beneficiary,0.0,POS-Terminal,"Houston, US",3,0,Not Fraud,21,1,0
+Login,0.0,Desktop-Windows,"Dubai, AE",1,0,Not Fraud,16,3,0
+Bill Payment,160.77,Desktop-Mac,"Mumbai, IN",1,5,Not Fraud,10,4,0
+Wallet Top-up,98.96,POS-Terminal,"Lagos, NG",2,0,Not Fraud,20,4,0
+Login,0.0,Desktop-Windows,"Mumbai, IN",2,5,Not Fraud,17,0,0
+Bill Payment,2829.0,Desktop-Windows,"London, UK",6,3,Not Fraud,17,1,0
+Money Transfer,509.0,Mobile-Android,"Houston, US",1,0,Not Fraud,8,1,0
+Login,0.0,Tablet,"Los Angeles, US",3,4,Not Fraud,18,3,0
+Loan Application,2483.47,Mobile-Android,"Houston, US",4,0,Not Fraud,17,3,0
+Login,0.0,Tablet,"Houston, US",5,1,Not Fraud,17,1,0
+ATM Withdrawal,368.47,Mobile-iOS,"Sydney, AU",1,4,Not Fraud,15,3,0
+Loan Application,19455.84,Mobile-iOS,"Houston, US",2,5,Fraud,17,0,0
+Loan Application,8275.03,ATM,"Mumbai, IN",1,0,Not Fraud,16,3,0
+Money Transfer,1279.31,Tablet,"Sao Paulo, BR",2,1,Not Fraud,13,3,0
+Loan Application,15439.15,POS-Terminal,"Kolkata, IN",3,1,Not Fraud,21,3,0
+Card Swipe,191.52,POS-Terminal,"Houston, US",3,0,Not Fraud,11,1,0
+Card Swipe,168.94,Desktop-Mac,"Bangalore, IN",1,1,Not Fraud,19,0,0
+Password Change,0.0,Desktop-Mac,"Mumbai, IN",2,2,Not Fraud,12,5,1
+Online Purchase,289.06,Mobile-iOS,"New York, US",2,0,Not Fraud,12,4,0
+Card Swipe,307.34,Desktop-Mac,"Kolkata, IN",1,4,Not Fraud,14,0,0
+Loan Application,5821.97,Desktop-Mac,"Sydney, AU",8,0,Fraud,10,1,0
+Loan Application,2480.86,Desktop-Windows,"Berlin, DE",5,0,Not Fraud,8,5,1
+Card Swipe,191.3,ATM,"Singapore, SG",3,3,Not Fraud,10,5,1
+Loan Application,15886.67,ATM,"Moscow, RU",9,0,Fraud,17,0,0
+Loan Application,9421.56,Desktop-Mac,"Sao Paulo, BR",3,0,Not Fraud,0,5,1
+Money Transfer,9017.22,POS-Terminal,"Chicago, US",5,0,Not Fraud,18,2,0
+Password Change,0.0,Mobile-iOS,"Berlin, DE",8,0,Not Fraud,11,5,1
+Online Purchase,2473.29,Mobile-Android,"Toronto, CA",1,2,Not Fraud,16,2,0
+Login,0.0,Mobile-Android,"New York, US",3,0,Not Fraud,11,0,0
+Add Beneficiary,0.0,Desktop-Windows,"Los Angeles, US",1,0,Not Fraud,15,0,0
+Loan Application,2614.29,Desktop-Windows,"Lagos, NG",2,0,Fraud,22,0,0
+Add Beneficiary,0.0,Tablet,"Dubai, AE",1,0,Not Fraud,16,1,0
+Card Swipe,41.3,Mobile-iOS,Tor Exit Node,1,1,Not Fraud,5,2,0
+Add Beneficiary,0.0,Tablet,"Los Angeles, US",2,1,Not Fraud,11,6,1
+Card Swipe,87.94,Mobile-iOS,"Los Angeles, US",3,0,Not Fraud,18,4,0
+Login,0.0,Mobile-iOS,"Sydney, AU",2,1,Not Fraud,9,0,0
+ATM Withdrawal,251.19,Mobile-Android,"New York, US",3,0,Not Fraud,17,2,0
+Wallet Top-up,2696.24,Mobile-Android,"Singapore, SG",4,0,Not Fraud,8,6,1
+Loan Application,5162.75,Mobile-Android,"Beijing, CN",2,0,Not Fraud,9,4,0
+Add Beneficiary,0.0,Mobile-iOS,"Houston, US",3,1,Not Fraud,19,1,0
+Password Change,0.0,Tablet,"Singapore, SG",5,0,Not Fraud,13,4,0
+Password Change,0.0,Desktop-Windows,"Bangalore, IN",2,1,Not Fraud,9,4,0
+Online Purchase,237.63,Tablet,"New York, US",1,0,Not Fraud,7,2,0
+Money Transfer,1118.08,Desktop-Windows,"Los Angeles, US",2,0,Not Fraud,9,2,0
+Bill Payment,791.86,Mobile-iOS,"Chicago, US",3,4,Not Fraud,21,5,1
+Login,0.0,ATM,"Singapore, SG",3,0,Not Fraud,7,6,1
+Money Transfer,14642.11,Desktop-Mac,"New York, US",2,2,Fraud,8,0,0
+Loan Application,17953.29,POS-Terminal,"Toronto, CA",2,2,Not Fraud,16,3,0
+Online Purchase,2070.58,Tablet,"Dubai, AE",2,4,Not Fraud,19,1,0
+Password Change,0.0,Desktop-Mac,"Lagos, NG",2,3,Not Fraud,7,2,0
+Add Beneficiary,0.0,Desktop-Windows,"Berlin, DE",1,1,Not Fraud,9,2,0
+Password Change,0.0,Mobile-iOS,"Mumbai, IN",2,0,Not Fraud,22,3,0
+Wallet Top-up,2755.3,Tablet,"Moscow, RU",4,2,Fraud,23,5,1
+Money Transfer,16477.7,Tablet,"Los Angeles, US",1,3,Not Fraud,20,5,1
+Money Transfer,6543.47,Desktop-Mac,"Sydney, AU",5,0,Not Fraud,19,3,0
+Online Purchase,1923.21,ATM,"Houston, US",1,1,Not Fraud,13,0,0
+Money Transfer,13914.0,ATM,"Houston, US",3,4,Not Fraud,11,2,0
+Login,0.0,ATM,"Beijing, CN",1,0,Not Fraud,11,3,0
+Add Beneficiary,0.0,Desktop-Mac,"Mumbai, IN",2,0,Not Fraud,0,5,1
+Card Swipe,488.74,POS-Terminal,"Bangalore, IN",4,1,Not Fraud,14,4,0
+Card Swipe,497.37,Mobile-Android,"Bangalore, IN",2,0,Not Fraud,12,2,0
+Loan Application,19680.8,POS-Terminal,"Dubai, AE",1,0,Not Fraud,1,4,0
+Wallet Top-up,1336.07,Tablet,"Delhi, IN",7,1,Not Fraud,14,5,1
+Card Swipe,95.22,Desktop-Windows,"Moscow, RU",2,1,Not Fraud,13,5,1
+Card Swipe,132.03,Mobile-iOS,"Berlin, DE",1,0,Not Fraud,12,1,0
+Online Purchase,2142.91,Mobile-iOS,"Chicago, US",4,3,Not Fraud,19,6,1
+Password Change,0.0,Tablet,"Singapore, SG",2,0,Not Fraud,19,1,0
+Wallet Top-up,2107.63,POS-Terminal,"Mumbai, IN",2,3,Not Fraud,5,2,0
+Bill Payment,263.7,Tablet,"Mumbai, IN",1,0,Not Fraud,9,2,0
+Online Purchase,611.33,Mobile-Android,"Mumbai, IN",2,0,Not Fraud,11,4,0
+Bill Payment,961.99,Mobile-iOS,"Beijing, CN",2,0,Not Fraud,10,0,0
+Money Transfer,2964.94,ATM,"Los Angeles, US",2,5,Not Fraud,8,5,1
+Password Change,0.0,Mobile-Android,"Sao Paulo, BR",1,0,Not Fraud,22,1,0
+Card Swipe,307.15,Desktop-Mac,"Moscow, RU",4,2,Not Fraud,20,6,1
+ATM Withdrawal,253.6,Mobile-Android,"Lagos, NG",4,1,Not Fraud,6,3,0
+Card Swipe,328.58,Tablet,"Moscow, RU",6,2,Fraud,23,6,1
+Card Swipe,175.17,Tablet,"Moscow, RU",1,0,Fraud,17,1,0
+Online Purchase,942.59,Mobile-iOS,"Mumbai, IN",2,2,Not Fraud,21,6,1
+Loan Application,8505.77,ATM,"Chicago, US",4,0,Not Fraud,16,5,1
+Online Purchase,2395.1,POS-Terminal,"Singapore, SG",3,0,Not Fraud,15,5,1
+Password Change,0.0,Tablet,"Bangalore, IN",2,0,Not Fraud,10,1,0
+Login,0.0,Desktop-Mac,"Bangalore, IN",10,0,Not Fraud,5,4,0
+Online Purchase,800.78,Mobile-Android,"Bangalore, IN",2,0,Not Fraud,23,0,0
+Money Transfer,5583.25,Mobile-Android,Unknown Location,3,0,Not Fraud,14,6,1
+ATM Withdrawal,220.6,ATM,"London, UK",3,2,Not Fraud,10,1,0
+Online Purchase,519.67,Tablet,"New York, US",1,0,Not Fraud,22,0,0
+Online Purchase,2536.92,Mobile-iOS,"Singapore, SG",1,0,Not Fraud,9,2,0
+Card Swipe,114.56,Desktop-Mac,"Bangalore, IN",4,0,Not Fraud,7,2,0
+ATM Withdrawal,110.51,Tablet,"Mumbai, IN",1,0,Not Fraud,17,2,0
+Password Change,0.0,POS-Terminal,"Beijing, CN",1,0,Not Fraud,8,6,1
+Add Beneficiary,0.0,Mobile-iOS,"Delhi, IN",6,4,Not Fraud,10,1,0
+Login,0.0,Mobile-Android,"Sydney, AU",4,3,Not Fraud,12,1,0
+ATM Withdrawal,189.63,Mobile-iOS,"Dubai, AE",3,0,Not Fraud,23,3,0
+Password Change,0.0,Mobile-iOS,"Los Angeles, US",3,0,Not Fraud,2,1,0
+Card Swipe,83.02,Mobile-iOS,"London, UK",2,0,Not Fraud,8,0,0
+Loan Application,13109.71,Desktop-Windows,"Lagos, NG",7,2,Fraud,18,5,1
+Loan Application,14264.95,ATM,"Houston, US",1,0,Not Fraud,5,1,0
+Wallet Top-up,2796.79,Mobile-iOS,"Berlin, DE",2,0,Not Fraud,10,3,0
+Bill Payment,149.79,Tablet,"Dubai, AE",3,0,Not Fraud,8,5,1
+Bill Payment,1922.21,Mobile-Android,"Toronto, CA",2,0,Not Fraud,18,1,0
+Card Swipe,481.43,Tablet,"Sao Paulo, BR",4,1,Not Fraud,22,3,0
+Login,0.0,Desktop-Windows,"Chicago, US",6,0,Not Fraud,9,0,0
+Password Change,0.0,Desktop-Mac,"Berlin, DE",4,0,Not Fraud,13,1,0
+Online Purchase,431.23,Desktop-Mac,"Delhi, IN",4,0,Not Fraud,21,3,0
+Add Beneficiary,0.0,POS-Terminal,Unknown Location,1,0,Not Fraud,22,0,0
+Money Transfer,11984.82,Mobile-Android,Unknown Location,5,0,Fraud,11,5,1
+Bill Payment,38.11,Desktop-Windows,"Los Angeles, US",2,0,Not Fraud,7,5,1
+Add Beneficiary,0.0,Tablet,"Mumbai, IN",2,2,Not Fraud,11,6,1
+Wallet Top-up,113.29,Tablet,"Los Angeles, US",8,3,Not Fraud,18,6,1
+Bill Payment,430.92,Desktop-Windows,"Delhi, IN",1,0,Not Fraud,21,2,0
+Loan Application,3913.6,Tablet,"Lagos, NG",10,0,Fraud,19,6,1
+Card Swipe,395.64,POS-Terminal,"Sydney, AU",1,0,Not Fraud,9,0,0
+Card Swipe,478.28,ATM,"Sao Paulo, BR",3,0,Not Fraud,10,5,1
+ATM Withdrawal,405.03,Mobile-Android,"Bangalore, IN",1,3,Not Fraud,18,0,0
+Loan Application,6041.83,Tablet,"London, UK",4,2,Not Fraud,20,4,0
+Wallet Top-up,1520.0,Desktop-Windows,"Toronto, CA",1,0,Not Fraud,12,0,0
+Add Beneficiary,0.0,Desktop-Mac,"Kolkata, IN",2,0,Not Fraud,12,3,0
+Card Swipe,464.64,ATM,"London, UK",1,2,Not Fraud,12,0,0
+Loan Application,7568.11,POS-Terminal,"New York, US",2,0,Not Fraud,6,2,0
+Login,0.0,ATM,"Mumbai, IN",3,2,Not Fraud,13,6,1
+Login,0.0,Mobile-Android,"Kolkata, IN",1,0,Not Fraud,8,6,1
+Add Beneficiary,0.0,Tablet,"Toronto, CA",5,0,Not Fraud,19,0,0
+Bill Payment,1932.17,Mobile-iOS,"Beijing, CN",1,2,Not Fraud,17,3,0
+Password Change,0.0,POS-Terminal,"Dubai, AE",2,3,Not Fraud,22,1,0
+Online Purchase,1386.55,Tablet,"Singapore, SG",1,5,Not Fraud,17,3,0
+Password Change,0.0,Desktop-Mac,"Bangalore, IN",1,0,Not Fraud,17,3,0
+Login,0.0,Mobile-Android,"New York, US",5,2,Not Fraud,12,6,1
+Add Beneficiary,0.0,Mobile-iOS,"Dubai, AE",4,1,Not Fraud,18,5,1
+Login,0.0,Mobile-Android,"Sydney, AU",9,0,Not Fraud,20,3,0
+ATM Withdrawal,454.58,Mobile-Android,"Moscow, RU",4,2,Not Fraud,17,3,0
+Wallet Top-up,609.13,POS-Terminal,"Sao Paulo, BR",1,0,Not Fraud,8,4,0
+Card Swipe,482.43,Desktop-Mac,"New York, US",2,0,Not Fraud,15,6,1
+Card Swipe,457.91,ATM,"Lagos, NG",2,0,Not Fraud,16,5,1
+Add Beneficiary,0.0,Mobile-iOS,"Kolkata, IN",2,0,Not Fraud,10,5,1
+ATM Withdrawal,272.28,ATM,"Kolkata, IN",4,0,Not Fraud,21,4,0
+Card Swipe,494.55,ATM,"Chicago, US",1,5,Not Fraud,9,5,1
+Online Purchase,47.56,Desktop-Mac,"New York, US",1,1,Not Fraud,12,1,0
+ATM Withdrawal,213.63,Desktop-Windows,"Los Angeles, US",7,0,Not Fraud,21,1,0
+Money Transfer,17067.95,ATM,"Berlin, DE",7,4,Fraud,0,5,1
+Money Transfer,10034.24,Mobile-Android,"Bangalore, IN",3,1,Not Fraud,19,6,1
+Add Beneficiary,0.0,Mobile-Android,"Singapore, SG",3,4,Not Fraud,19,5,1
+Password Change,0.0,Mobile-iOS,"Bangalore, IN",7,0,Not Fraud,8,5,1
+Add Beneficiary,0.0,Desktop-Mac,"Houston, US",1,0,Not Fraud,7,6,1
+Wallet Top-up,2313.66,Mobile-Android,"New York, US",1,0,Not Fraud,12,3,0
+Add Beneficiary,0.0,Desktop-Mac,"Los Angeles, US",5,0,Not Fraud,18,5,1
+Card Swipe,252.23,Mobile-Android,"Moscow, RU",1,2,Fraud,23,5,1
+ATM Withdrawal,29.08,POS-Terminal,"London, UK",2,0,Not Fraud,7,2,0
+Wallet Top-up,1094.54,Mobile-Android,"New York, US",1,0,Not Fraud,14,1,0
+Password Change,0.0,Desktop-Windows,"Singapore, SG",1,0,Not Fraud,7,3,0
+ATM Withdrawal,162.63,ATM,"Los Angeles, US",4,3,Not Fraud,18,4,0
+Money Transfer,17911.75,Desktop-Mac,"Los Angeles, US",2,1,Not Fraud,18,6,1
+Loan Application,129.99,Desktop-Windows,"Delhi, IN",1,0,Not Fraud,20,6,1
+Bill Payment,559.46,POS-Terminal,"Dubai, AE",2,1,Not Fraud,21,0,0
+Online Purchase,2968.99,Tablet,"Berlin, DE",4,0,Not Fraud,0,1,0
+Online Purchase,2475.95,Desktop-Mac,"Singapore, SG",1,0,Not Fraud,11,6,1
+Loan Application,9978.66,POS-Terminal,"London, UK",1,0,Not Fraud,23,1,0
+Login,0.0,POS-Terminal,"Los Angeles, US",2,4,Not Fraud,10,6,1
+Online Purchase,2153.12,Desktop-Windows,"Houston, US",1,1,Not Fraud,19,1,0
+Add Beneficiary,0.0,Desktop-Mac,"Beijing, CN",5,0,Not Fraud,12,2,0
+Online Purchase,1472.29,Mobile-Android,"Bangalore, IN",1,1,Not Fraud,22,3,0
+Online Purchase,1243.15,Mobile-iOS,"Delhi, IN",1,1,Not Fraud,20,3,0
+Password Change,0.0,POS-Terminal,"Dubai, AE",5,4,Fraud,11,4,0
+Online Purchase,1317.2,Desktop-Mac,"Delhi, IN",9,0,Not Fraud,8,6,1
+Password Change,0.0,ATM,"Beijing, CN",4,1,Not Fraud,14,1,0
+Online Purchase,2696.83,Tablet,"Dubai, AE",3,3,Not Fraud,10,5,1
+Bill Payment,2876.07,Desktop-Mac,"Lagos, NG",1,0,Not Fraud,11,3,0
+ATM Withdrawal,351.05,POS-Terminal,"Dubai, AE",3,0,Not Fraud,10,6,1
+Loan Application,3965.56,Desktop-Windows,"Bangalore, IN",1,0,Not Fraud,10,4,0
+Money Transfer,2108.69,Mobile-Android,"Houston, US",2,5,Not Fraud,20,6,1
+Bill Payment,666.09,Desktop-Windows,"New York, US",3,0,Not Fraud,9,4,0
+Online Purchase,284.98,ATM,"London, UK",3,1,Not Fraud,21,4,0
+ATM Withdrawal,275.13,ATM,"Sydney, AU",10,1,Not Fraud,16,3,0
+Wallet Top-up,1750.72,POS-Terminal,"Mumbai, IN",2,0,Not Fraud,21,6,1
+Loan Application,476.16,Mobile-iOS,"Sao Paulo, BR",4,0,Not Fraud,10,0,0
+ATM Withdrawal,235.82,Mobile-Android,"Chicago, US",6,0,Not Fraud,16,1,0
+Money Transfer,16680.71,Desktop-Windows,"New York, US",1,2,Not Fraud,8,3,0
+Bill Payment,639.3,POS-Terminal,"Dubai, AE",1,0,Not Fraud,8,4,0
+Loan Application,10680.31,Tablet,"Dubai, AE",2,0,Not Fraud,15,4,0
+Add Beneficiary,0.0,Mobile-Android,"Singapore, SG",1,1,Not Fraud,11,2,0
+Wallet Top-up,1440.57,ATM,"Chicago, US",2,0,Not Fraud,21,1,0
+Login,0.0,Mobile-Android,"London, UK",3,0,Not Fraud,14,4,0
+Bill Payment,2485.19,Mobile-iOS,"Chicago, US",4,1,Not Fraud,2,6,1
+Loan Application,8874.84,POS-Terminal,"Berlin, DE",2,1,Not Fraud,12,1,0
+Login,0.0,Mobile-Android,"Dubai, AE",4,0,Not Fraud,18,3,0
+Money Transfer,13774.73,ATM,"Singapore, SG",3,0,Not Fraud,13,2,0
+Password Change,0.0,Tablet,"Moscow, RU",4,0,Not Fraud,12,5,1
+Card Swipe,150.72,Mobile-iOS,"Dubai, AE",1,0,Not Fraud,14,5,1
+Card Swipe,29.79,Mobile-Android,"New York, US",1,0,Not Fraud,13,1,0
+Wallet Top-up,828.86,Mobile-iOS,"Delhi, IN",4,0,Not Fraud,8,5,1
+Password Change,0.0,Desktop-Mac,"Sao Paulo, BR",3,0,Not Fraud,11,2,0
+Online Purchase,724.97,Tablet,"Mumbai, IN",10,1,Not Fraud,15,0,0
+Login,0.0,ATM,"Sydney, AU",6,3,Not Fraud,21,3,0
+Bill Payment,1644.7,Tablet,"Houston, US",4,0,Not Fraud,13,2,0
+Money Transfer,2872.94,Mobile-iOS,"Sydney, AU",3,1,Not Fraud,12,5,1
+Bill Payment,67.02,Desktop-Windows,"Sao Paulo, BR",5,0,Not Fraud,20,0,0
+Money Transfer,9266.21,Desktop-Mac,"Chicago, US",7,0,Fraud,2,2,0
+Add Beneficiary,0.0,Desktop-Windows,"Lagos, NG",1,0,Not Fraud,18,5,1
+Add Beneficiary,0.0,Desktop-Windows,"Sydney, AU",8,0,Not Fraud,11,5,1
+Password Change,0.0,Mobile-iOS,"Dubai, AE",1,1,Not Fraud,10,1,0
+Password Change,0.0,ATM,"Toronto, CA",1,0,Not Fraud,1,2,0
+ATM Withdrawal,297.69,Mobile-iOS,"Berlin, DE",5,0,Not Fraud,20,6,1
+Money Transfer,10910.34,Mobile-Android,"Moscow, RU",1,0,Fraud,15,6,1
+Add Beneficiary,0.0,ATM,"Moscow, RU",2,1,Not Fraud,20,2,0
+Card Swipe,480.76,ATM,"Sydney, AU",1,3,Not Fraud,20,4,0
+Loan Application,2179.58,ATM,"Moscow, RU",7,0,Fraud,18,6,1
+Card Swipe,139.3,Desktop-Mac,"Singapore, SG",6,1,Not Fraud,10,5,1
+Bill Payment,2658.22,Mobile-Android,"Singapore, SG",3,0,Not Fraud,6,5,1
+Add Beneficiary,0.0,Tablet,"Chicago, US",10,0,Not Fraud,14,1,0
+Bill Payment,225.14,Mobile-Android,"Los Angeles, US",7,1,Not Fraud,13,4,0
+Login,0.0,ATM,"Mumbai, IN",2,0,Not Fraud,19,5,1
+Money Transfer,2374.43,Mobile-Android,Tor Exit Node,6,0,Not Fraud,8,6,1
+Login,0.0,Desktop-Windows,Tor Exit Node,1,4,Not Fraud,12,6,1
+Password Change,0.0,Mobile-iOS,"Bangalore, IN",1,0,Not Fraud,3,2,0
+Loan Application,4256.63,Mobile-Android,"Chicago, US",2,0,Not Fraud,14,4,0
+Online Purchase,1433.28,Tablet,"Chicago, US",1,0,Not Fraud,17,6,1
+Money Transfer,13357.16,ATM,"New York, US",2,0,Not Fraud,13,3,0
+Loan Application,3676.47,ATM,"Houston, US",4,1,Fraud,0,4,0
+ATM Withdrawal,416.84,POS-Terminal,"Beijing, CN",4,2,Not Fraud,16,3,0
+Bill Payment,1608.12,Mobile-iOS,"Chicago, US",3,0,Not Fraud,12,0,0
+Bill Payment,2672.17,ATM,"London, UK",4,1,Not Fraud,7,5,1
+Add Beneficiary,0.0,Mobile-iOS,"Delhi, IN",1,1,Not Fraud,16,4,0
+Online Purchase,931.96,Tablet,"London, UK",3,0,Not Fraud,22,2,0
+Wallet Top-up,2272.25,Desktop-Windows,"Kolkata, IN",6,0,Not Fraud,19,2,0
+Password Change,0.0,Mobile-iOS,"Delhi, IN",4,0,Not Fraud,1,6,1
+Money Transfer,15682.84,POS-Terminal,"Los Angeles, US",5,0,Not Fraud,12,1,0
+Bill Payment,2300.64,ATM,"Chicago, US",5,1,Not Fraud,19,4,0
+Online Purchase,1764.9,POS-Terminal,"Singapore, SG",5,2,Not Fraud,18,1,0
+Login,0.0,Tablet,"Delhi, IN",6,0,Not Fraud,0,1,0
+Online Purchase,229.79,ATM,"Kolkata, IN",5,0,Not Fraud,17,3,0
+Login,0.0,POS-Terminal,"Moscow, RU",5,0,Not Fraud,16,0,0
+Wallet Top-up,591.72,POS-Terminal,"Chicago, US",4,0,Not Fraud,15,2,0
+Card Swipe,225.92,POS-Terminal,Tor Exit Node,6,1,Fraud,15,2,0
+Password Change,0.0,ATM,"Sydney, AU",3,0,Not Fraud,0,3,0
+Loan Application,14000.64,Mobile-Android,"Delhi, IN",2,0,Not Fraud,15,6,1
+Card Swipe,123.74,POS-Terminal,Unknown Location,1,3,Not Fraud,22,2,0
+Wallet Top-up,2781.86,Mobile-iOS,"Beijing, CN",1,0,Not Fraud,13,1,0
+Add Beneficiary,0.0,Mobile-iOS,"Bangalore, IN",2,4,Not Fraud,10,6,1
+Online Purchase,1345.23,Desktop-Windows,"Lagos, NG",4,0,Not Fraud,20,3,0
+Add Beneficiary,0.0,Desktop-Mac,"Toronto, CA",10,0,Not Fraud,11,5,1
+Add Beneficiary,0.0,Desktop-Mac,"Sao Paulo, BR",2,0,Not Fraud,13,3,0
+Bill Payment,1918.99,Tablet,"Dubai, AE",1,0,Not Fraud,20,5,1
+Card Swipe,394.35,Desktop-Mac,"Singapore, SG",1,2,Not Fraud,17,0,0
+Bill Payment,1632.82,Mobile-iOS,"Lagos, NG",2,1,Fraud,23,4,0
+Add Beneficiary,0.0,Desktop-Mac,"Beijing, CN",2,3,Not Fraud,12,6,1
+Bill Payment,2581.0,Tablet,"Chicago, US",3,0,Not Fraud,0,0,0
+Money Transfer,19843.41,ATM,"Mumbai, IN",9,3,Fraud,17,5,1
+Money Transfer,10480.61,Mobile-iOS,"Mumbai, IN",2,0,Not Fraud,18,1,0
+ATM Withdrawal,125.26,Tablet,"Singapore, SG",8,0,Not Fraud,16,6,1
+Wallet Top-up,1302.29,Tablet,"Kolkata, IN",3,0,Not Fraud,17,3,0
+Wallet Top-up,1890.4,POS-Terminal,"Lagos, NG",2,2,Not Fraud,16,5,1
+Password Change,0.0,Desktop-Mac,"Bangalore, IN",2,0,Not Fraud,21,1,0
+ATM Withdrawal,196.42,POS-Terminal,"Beijing, CN",2,0,Not Fraud,6,4,0
+Bill Payment,2571.79,POS-Terminal,"Dubai, AE",5,0,Not Fraud,15,3,0
+Wallet Top-up,958.17,POS-Terminal,"Moscow, RU",1,0,Not Fraud,14,0,0
+Add Beneficiary,0.0,Desktop-Mac,"Lagos, NG",1,0,Fraud,12,2,0
+Password Change,0.0,Tablet,"Delhi, IN",3,0,Not Fraud,20,6,1
+Bill Payment,1916.71,POS-Terminal,"Lagos, NG",1,0,Not Fraud,16,5,1
+Loan Application,18694.0,POS-Terminal,"Beijing, CN",2,0,Not Fraud,11,1,0
+Password Change,0.0,Tablet,"London, UK",3,0,Not Fraud,12,0,0
+Wallet Top-up,2133.29,Tablet,"London, UK",2,2,Not Fraud,12,1,0
+ATM Withdrawal,414.18,Tablet,"Chicago, US",3,0,Not Fraud,10,1,0
+Loan Application,9710.77,Desktop-Windows,"Lagos, NG",1,0,Fraud,2,0,0
+ATM Withdrawal,53.22,Desktop-Windows,"Houston, US",1,0,Not Fraud,11,3,0
+Wallet Top-up,296.65,Mobile-Android,"New York, US",3,4,Not Fraud,19,6,1
+Money Transfer,752.08,Tablet,"Kolkata, IN",1,0,Not Fraud,11,5,1
+Card Swipe,13.3,Tablet,"Lagos, NG",4,0,Not Fraud,12,0,0
+Add Beneficiary,0.0,Tablet,"Sydney, AU",4,0,Not Fraud,4,3,0
+Card Swipe,355.99,Desktop-Windows,"Lagos, NG",2,0,Not Fraud,14,5,1
+Bill Payment,1508.58,Mobile-Android,"Dubai, AE",2,0,Not Fraud,11,4,0
+Login,0.0,Mobile-iOS,"Lagos, NG",6,0,Not Fraud,8,4,0
+Password Change,0.0,Desktop-Windows,"Mumbai, IN",1,0,Not Fraud,20,3,0
+Money Transfer,5713.99,Desktop-Mac,"Delhi, IN",3,1,Not Fraud,10,5,1
+Add Beneficiary,0.0,POS-Terminal,"Kolkata, IN",3,0,Not Fraud,13,2,0
+Wallet Top-up,2954.45,Mobile-iOS,"Kolkata, IN",1,0,Not Fraud,17,5,1
+Bill Payment,575.32,ATM,"Moscow, RU",3,0,Not Fraud,4,3,0
+Money Transfer,10415.83,POS-Terminal,"Lagos, NG",2,0,Not Fraud,12,5,1
+Money Transfer,13319.89,Desktop-Mac,"Bangalore, IN",1,4,Fraud,9,0,0
+Add Beneficiary,0.0,Mobile-iOS,"Moscow, RU",2,1,Not Fraud,8,1,0
+Money Transfer,7880.29,Mobile-Android,"Moscow, RU",1,0,Not Fraud,14,2,0
+Login,0.0,Tablet,"Singapore, SG",1,0,Not Fraud,11,2,0
+Loan Application,1553.49,Mobile-iOS,"Singapore, SG",2,0,Not Fraud,11,3,0
+Online Purchase,964.01,Desktop-Mac,"Sao Paulo, BR",2,1,Not Fraud,22,5,1
+Add Beneficiary,0.0,Desktop-Windows,"Singapore, SG",3,4,Not Fraud,11,3,0
+Bill Payment,2680.35,Desktop-Mac,"New York, US",3,0,Not Fraud,15,4,0
+Online Purchase,2001.83,Desktop-Mac,"Sao Paulo, BR",1,1,Not Fraud,15,4,0
+Online Purchase,396.35,Mobile-iOS,"Berlin, DE",2,1,Not Fraud,1,6,1
+Bill Payment,117.78,Tablet,"Dubai, AE",3,0,Not Fraud,2,1,0
+Wallet Top-up,1075.31,Mobile-Android,"Berlin, DE",7,1,Not Fraud,10,0,0
+Online Purchase,2768.02,ATM,"Lagos, NG",1,0,Not Fraud,16,3,0
+Login,0.0,ATM,Unknown Location,7,1,Not Fraud,18,2,0
+Online Purchase,1436.52,Mobile-Android,"Moscow, RU",1,0,Not Fraud,16,2,0
+Loan Application,10022.31,Mobile-Android,"Moscow, RU",4,0,Fraud,16,5,1
+Card Swipe,378.8,POS-Terminal,"Beijing, CN",1,0,Not Fraud,8,3,0
+Login,0.0,Mobile-iOS,"Sao Paulo, BR",3,3,Not Fraud,8,4,0
+Loan Application,14948.12,Desktop-Mac,"Delhi, IN",1,0,Not Fraud,9,2,0
+Wallet Top-up,315.37,Mobile-Android,"Toronto, CA",4,1,Not Fraud,18,6,1
+Bill Payment,454.63,ATM,"Lagos, NG",4,0,Not Fraud,10,0,0
+Login,0.0,Tablet,"Moscow, RU",1,1,Not Fraud,19,4,0
+Card Swipe,68.14,Tablet,"Mumbai, IN",2,0,Not Fraud,10,2,0
+Money Transfer,17767.64,Mobile-Android,"Delhi, IN",2,0,Not Fraud,18,6,1
+Bill Payment,1799.21,Desktop-Mac,"Delhi, IN",3,0,Not Fraud,4,2,0
+Wallet Top-up,1952.03,ATM,"Chicago, US",6,0,Not Fraud,21,5,1
+Login,0.0,Desktop-Windows,"Singapore, SG",2,0,Not Fraud,10,5,1
+ATM Withdrawal,315.22,Desktop-Windows,"Mumbai, IN",2,0,Not Fraud,12,5,1
+Money Transfer,2780.34,Mobile-Android,"New York, US",1,0,Not Fraud,19,2,0
+Wallet Top-up,693.4,Desktop-Mac,"Chicago, US",2,0,Not Fraud,13,4,0
+Money Transfer,3005.24,POS-Terminal,"Los Angeles, US",1,0,Fraud,1,5,1
+Online Purchase,166.38,ATM,"Singapore, SG",2,0,Not Fraud,17,0,0
+Online Purchase,2404.07,Mobile-Android,"Lagos, NG",1,0,Not Fraud,9,1,0
+Card Swipe,24.55,POS-Terminal,"Berlin, DE",4,0,Not Fraud,8,3,0
+Add Beneficiary,0.0,Mobile-Android,"Mumbai, IN",1,0,Not Fraud,20,5,1
+Login,0.0,Desktop-Mac,"Los Angeles, US",8,0,Not Fraud,4,3,0
+Login,0.0,Mobile-Android,"Singapore, SG",1,1,Not Fraud,13,2,0
+Loan Application,15157.88,Tablet,"New York, US",1,5,Fraud,20,1,0
+ATM Withdrawal,309.17,POS-Terminal,"Dubai, AE",5,3,Not Fraud,14,1,0
+Card Swipe,323.05,Desktop-Mac,"Beijing, CN",5,0,Not Fraud,16,6,1
+Add Beneficiary,0.0,Desktop-Windows,"Kolkata, IN",2,0,Not Fraud,22,0,0
+Password Change,0.0,Tablet,"Beijing, CN",3,0,Not Fraud,13,3,0
+Money Transfer,14244.16,ATM,"Kolkata, IN",3,0,Not Fraud,21,0,0
+Card Swipe,411.71,Desktop-Mac,"Los Angeles, US",1,1,Not Fraud,14,3,0
+Wallet Top-up,2831.42,POS-Terminal,"Sao Paulo, BR",3,0,Not Fraud,19,2,0
+Money Transfer,19521.43,Tablet,"Moscow, RU",8,3,Fraud,22,6,1
+Add Beneficiary,0.0,Mobile-iOS,"Berlin, DE",2,2,Not Fraud,20,2,0
+Online Purchase,1715.41,Mobile-Android,"Sydney, AU",1,0,Not Fraud,13,2,0
+Money Transfer,16584.77,Mobile-Android,"Toronto, CA",2,1,Not Fraud,9,6,1
+Loan Application,5444.8,Tablet,"Chicago, US",4,0,Not Fraud,8,5,1
+Login,0.0,Desktop-Windows,"Singapore, SG",1,0,Not Fraud,15,4,0
+Login,0.0,Mobile-iOS,"Sydney, AU",3,2,Not Fraud,13,2,0
+Password Change,0.0,ATM,"Dubai, AE",3,0,Not Fraud,7,3,0
+Loan Application,18528.23,Desktop-Mac,"Delhi, IN",1,0,Not Fraud,17,4,0
+Card Swipe,260.73,Tablet,"Mumbai, IN",2,0,Not Fraud,8,6,1
+ATM Withdrawal,275.88,ATM,"London, UK",2,0,Not Fraud,8,1,0
+Add Beneficiary,0.0,Mobile-iOS,"Kolkata, IN",4,0,Not Fraud,8,5,1
+Loan Application,16668.76,Mobile-Android,"Lagos, NG",4,1,Fraud,7,4,0
+Online Purchase,2145.63,Desktop-Mac,"Singapore, SG",2,5,Not Fraud,7,4,0
+Wallet Top-up,1535.58,Mobile-Android,"Singapore, SG",2,4,Fraud,12,6,1
+Loan Application,1992.36,POS-Terminal,"Toronto, CA",1,0,Not Fraud,11,2,0
+Card Swipe,449.32,Mobile-iOS,"Beijing, CN",3,0,Not Fraud,21,1,0
+Login,0.0,Mobile-iOS,"Los Angeles, US",1,0,Not Fraud,20,3,0
+Loan Application,3734.92,Desktop-Mac,"Moscow, RU",2,2,Fraud,12,1,0
+Loan Application,11013.56,Desktop-Windows,"Beijing, CN",5,0,Fraud,11,0,0
+Money Transfer,2526.13,Mobile-Android,"Dubai, AE",4,5,Not Fraud,8,6,1
+Password Change,0.0,POS-Terminal,"Sao Paulo, BR",1,0,Not Fraud,7,5,1
+Password Change,0.0,Mobile-Android,"Sydney, AU",1,0,Not Fraud,10,6,1
+Login,0.0,ATM,"Chicago, US",2,0,Not Fraud,15,2,0
+Add Beneficiary,0.0,ATM,"Singapore, SG",5,0,Fraud,23,2,0
+Login,0.0,Mobile-Android,"Dubai, AE",7,0,Not Fraud,11,1,0
+Wallet Top-up,2677.93,Desktop-Windows,"Kolkata, IN",1,0,Not Fraud,15,2,0
+Online Purchase,2571.83,Desktop-Mac,"Berlin, DE",5,0,Not Fraud,12,2,0
+Login,0.0,Tablet,"Mumbai, IN",7,0,Not Fraud,7,2,0
+Bill Payment,460.71,Desktop-Mac,"Kolkata, IN",2,1,Not Fraud,9,5,1
+Password Change,0.0,Mobile-Android,"Houston, US",4,0,Not Fraud,16,0,0
+Wallet Top-up,2391.66,Tablet,"New York, US",2,0,Not Fraud,16,0,0
+Online Purchase,2624.48,Desktop-Mac,Unknown Location,6,3,Fraud,9,2,0
+Add Beneficiary,0.0,ATM,"Delhi, IN",1,0,Not Fraud,19,4,0
+Wallet Top-up,757.43,Mobile-iOS,"Delhi, IN",3,1,Not Fraud,18,5,1
+Bill Payment,1108.64,Mobile-iOS,"Chicago, US",3,1,Not Fraud,10,4,0
+ATM Withdrawal,33.1,POS-Terminal,"Mumbai, IN",3,0,Not Fraud,17,3,0
+Money Transfer,2841.88,Desktop-Windows,"Berlin, DE",3,1,Not Fraud,9,4,0
+Card Swipe,224.81,POS-Terminal,"Toronto, CA",3,1,Not Fraud,18,1,0
+Online Purchase,2603.49,ATM,"Los Angeles, US",2,1,Not Fraud,15,3,0
+Online Purchase,2480.97,Mobile-Android,"Delhi, IN",10,4,Fraud,10,2,0
+ATM Withdrawal,315.82,Desktop-Windows,"New York, US",5,2,Not Fraud,10,3,0
+Add Beneficiary,0.0,Mobile-Android,"Dubai, AE",2,0,Not Fraud,13,0,0
+ATM Withdrawal,219.47,Desktop-Windows,"Beijing, CN",2,0,Not Fraud,19,5,1
+Login,0.0,ATM,"Sao Paulo, BR",2,0,Not Fraud,16,4,0
+Card Swipe,480.57,POS-Terminal,"Delhi, IN",3,0,Not Fraud,14,6,1
+ATM Withdrawal,496.67,ATM,"Bangalore, IN",1,0,Not Fraud,11,1,0
+Online Purchase,114.11,POS-Terminal,"Kolkata, IN",4,0,Not Fraud,7,0,0
+Loan Application,9018.13,Mobile-Android,"Chicago, US",1,0,Not Fraud,14,1,0
+Bill Payment,1553.66,Tablet,Unknown Location,1,0,Not Fraud,14,2,0
+Login,0.0,Desktop-Mac,"Bangalore, IN",1,3,Not Fraud,0,2,0
+Login,0.0,Desktop-Windows,"Delhi, IN",1,0,Not Fraud,14,1,0
+Password Change,0.0,Tablet,"Sao Paulo, BR",4,0,Not Fraud,16,5,1
+Loan Application,6362.02,Mobile-iOS,"Sao Paulo, BR",10,0,Fraud,17,2,0
+Password Change,0.0,Tablet,"Delhi, IN",5,0,Not Fraud,19,3,0
+ATM Withdrawal,55.09,Desktop-Windows,"Toronto, CA",1,0,Not Fraud,0,5,1
+Card Swipe,275.41,Tablet,"London, UK",3,0,Not Fraud,7,0,0
+Add Beneficiary,0.0,Mobile-iOS,"Mumbai, IN",4,0,Not Fraud,12,3,0
+Loan Application,9209.31,Tablet,"Lagos, NG",6,0,Fraud,0,0,0
+Password Change,0.0,Mobile-iOS,"Mumbai, IN",5,0,Not Fraud,1,6,1
+Bill Payment,71.72,ATM,"Kolkata, IN",2,4,Not Fraud,6,6,1
+ATM Withdrawal,489.11,Tablet,"Mumbai, IN",1,0,Not Fraud,15,0,0
+Money Transfer,9238.38,POS-Terminal,"Chicago, US",1,0,Not Fraud,13,5,1
+Wallet Top-up,438.24,Mobile-iOS,"Bangalore, IN",1,0,Not Fraud,7,0,0
+Loan Application,1535.24,Desktop-Windows,"Sao Paulo, BR",2,3,Fraud,3,4,0
+ATM Withdrawal,192.7,ATM,"Sydney, AU",1,0,Not Fraud,19,1,0
+Login,0.0,Mobile-Android,"Moscow, RU",1,1,Not Fraud,17,0,0
+Bill Payment,637.76,Mobile-iOS,"Sydney, AU",6,0,Not Fraud,8,3,0
+Money Transfer,9735.22,Mobile-iOS,"Chicago, US",1,0,Not Fraud,16,1,0
+Money Transfer,7820.25,ATM,"Mumbai, IN",2,0,Not Fraud,21,2,0
+Money Transfer,2367.56,ATM,"Bangalore, IN",5,5,Not Fraud,12,5,1
+Add Beneficiary,0.0,Desktop-Windows,"London, UK",5,1,Not Fraud,6,3,0
+Online Purchase,136.33,Desktop-Windows,"Beijing, CN",1,0,Not Fraud,13,6,1
+Wallet Top-up,2135.57,Mobile-iOS,"Berlin, DE",2,0,Not Fraud,17,6,1
+Bill Payment,1787.56,Desktop-Mac,"Dubai, AE",1,0,Not Fraud,10,3,0
+ATM Withdrawal,407.36,ATM,"Los Angeles, US",1,0,Not Fraud,6,5,1
+Online Purchase,2055.38,ATM,"Berlin, DE",2,0,Not Fraud,5,0,0
+Add Beneficiary,0.0,Tablet,"Bangalore, IN",4,0,Not Fraud,14,1,0
+Wallet Top-up,1512.62,Mobile-iOS,"Delhi, IN",9,3,Fraud,14,3,0
+Wallet Top-up,147.06,Desktop-Windows,"Sao Paulo, BR",2,0,Not Fraud,11,3,0
+Password Change,0.0,Mobile-iOS,"Sao Paulo, BR",1,0,Not Fraud,22,6,1
+Login,0.0,Mobile-Android,"Beijing, CN",3,2,Not Fraud,13,0,0
+Wallet Top-up,2824.5,Desktop-Windows,"Berlin, DE",4,0,Not Fraud,7,3,0
+Bill Payment,1903.37,Mobile-iOS,"Toronto, CA",6,0,Not Fraud,12,6,1
+Money Transfer,13353.88,ATM,"Singapore, SG",2,4,Not Fraud,9,6,1
+Login,0.0,ATM,"Sao Paulo, BR",1,2,Not Fraud,6,0,0
+Login,0.0,Mobile-Android,"Berlin, DE",4,2,Not Fraud,13,2,0
+Loan Application,13497.72,ATM,"Dubai, AE",1,5,Fraud,16,4,0
+ATM Withdrawal,388.7,Mobile-Android,"New York, US",2,3,Not Fraud,0,3,0
+Money Transfer,1486.57,Mobile-iOS,"Kolkata, IN",2,0,Not Fraud,11,5,1
+Password Change,0.0,POS-Terminal,"Lagos, NG",1,0,Not Fraud,18,6,1
+Add Beneficiary,0.0,POS-Terminal,"New York, US",3,3,Not Fraud,22,5,1
+Add Beneficiary,0.0,ATM,"Beijing, CN",1,0,Not Fraud,17,6,1
+Online Purchase,1712.98,ATM,"London, UK",1,0,Not Fraud,11,6,1
+Password Change,0.0,ATM,"New York, US",2,5,Fraud,0,0,0
+Add Beneficiary,0.0,Desktop-Windows,"Houston, US",1,0,Not Fraud,9,6,1
+ATM Withdrawal,172.2,Mobile-Android,"Lagos, NG",3,2,Not Fraud,7,0,0
+Wallet Top-up,2741.01,Mobile-Android,"Los Angeles, US",2,0,Not Fraud,14,5,1
+Password Change,0.0,Desktop-Windows,"Sao Paulo, BR",10,0,Not Fraud,22,6,1
+Money Transfer,3461.29,Mobile-iOS,"Delhi, IN",1,2,Not Fraud,18,4,0
+Bill Payment,1375.43,Desktop-Mac,"Kolkata, IN",6,1,Not Fraud,11,4,0
+Money Transfer,1862.14,ATM,"Lagos, NG",1,0,Not Fraud,11,2,0
+Money Transfer,7083.8,Tablet,"Singapore, SG",4,1,Not Fraud,21,2,0
+Add Beneficiary,0.0,Tablet,"Los Angeles, US",3,0,Not Fraud,9,2,0
+Money Transfer,7665.31,ATM,"Mumbai, IN",1,0,Not Fraud,14,5,1
+Add Beneficiary,0.0,Tablet,"Bangalore, IN",1,0,Not Fraud,16,3,0
+Money Transfer,19908.81,Mobile-iOS,"New York, US",1,0,Fraud,8,5,1
+Online Purchase,410.13,Desktop-Windows,"Toronto, CA",9,1,Not Fraud,22,3,0
+Money Transfer,8458.13,POS-Terminal,"Houston, US",1,0,Not Fraud,22,2,0
+Online Purchase,2936.13,Mobile-iOS,"Dubai, AE",1,0,Not Fraud,10,5,1
+Online Purchase,1121.93,Mobile-iOS,"Sydney, AU",2,2,Not Fraud,9,0,0
+Online Purchase,13.64,ATM,"Moscow, RU",7,0,Fraud,23,3,0
+Loan Application,1964.28,POS-Terminal,"New York, US",1,0,Not Fraud,14,6,1
+ATM Withdrawal,195.28,POS-Terminal,"Kolkata, IN",1,3,Not Fraud,16,4,0
+Wallet Top-up,2464.43,Mobile-iOS,"Lagos, NG",5,0,Not Fraud,5,1,0
+Login,0.0,Desktop-Windows,"Kolkata, IN",2,4,Not Fraud,14,4,0
+Add Beneficiary,0.0,Mobile-Android,"Lagos, NG",5,0,Not Fraud,10,6,1
+ATM Withdrawal,331.45,POS-Terminal,"Toronto, CA",4,1,Not Fraud,13,3,0
+ATM Withdrawal,327.14,ATM,"Houston, US",1,2,Not Fraud,12,0,0
+Bill Payment,770.9,ATM,"Sao Paulo, BR",7,0,Not Fraud,18,6,1
+Money Transfer,13599.6,Tablet,"Sao Paulo, BR",7,0,Not Fraud,20,5,1
+Online Purchase,2174.44,Tablet,"Lagos, NG",2,0,Not Fraud,21,2,0
+Card Swipe,487.31,Desktop-Windows,"Sydney, AU",1,0,Not Fraud,9,2,0
+Money Transfer,1619.78,Desktop-Mac,"Delhi, IN",2,1,Not Fraud,19,4,0
+Loan Application,13519.03,Tablet,"Sao Paulo, BR",4,5,Fraud,14,6,1
+Add Beneficiary,0.0,Desktop-Mac,"Delhi, IN",4,1,Not Fraud,12,1,0
+Online Purchase,2718.3,Desktop-Windows,"New York, US",3,0,Not Fraud,8,5,1
+Wallet Top-up,267.18,Mobile-iOS,"Toronto, CA",7,0,Not Fraud,11,0,0
+Bill Payment,342.96,Desktop-Windows,"Chicago, US",2,1,Not Fraud,21,0,0
+Add Beneficiary,0.0,POS-Terminal,"Kolkata, IN",3,0,Not Fraud,8,1,0
+Money Transfer,6054.9,ATM,"Los Angeles, US",3,0,Not Fraud,11,3,0
+Login,0.0,Mobile-Android,"Sydney, AU",2,0,Not Fraud,1,0,0
+Password Change,0.0,Tablet,"Toronto, CA",1,0,Not Fraud,18,5,1
+Wallet Top-up,2393.54,POS-Terminal,"Sydney, AU",1,0,Not Fraud,10,0,0
+Add Beneficiary,0.0,Mobile-iOS,"London, UK",2,0,Not Fraud,19,2,0
+Add Beneficiary,0.0,Desktop-Windows,"Singapore, SG",3,0,Not Fraud,9,2,0
+Wallet Top-up,193.33,Tablet,"Beijing, CN",1,0,Not Fraud,21,0,0
+Money Transfer,6218.32,Mobile-Android,"Delhi, IN",3,0,Not Fraud,11,2,0
+Wallet Top-up,2419.34,Mobile-Android,"Houston, US",1,0,Not Fraud,17,3,0
+Bill Payment,2719.92,POS-Terminal,"Moscow, RU",2,0,Not Fraud,1,2,0
+Online Purchase,2729.09,ATM,"Dubai, AE",1,0,Not Fraud,8,4,0
+Password Change,0.0,ATM,"Dubai, AE",4,0,Not Fraud,20,4,0
+Money Transfer,10170.15,Mobile-Android,"Lagos, NG",2,0,Fraud,23,4,0
+Bill Payment,2490.15,Desktop-Mac,"Chicago, US",2,0,Not Fraud,9,5,1
+Money Transfer,19274.97,Desktop-Mac,Unknown Location,4,0,Fraud,13,2,0
+Online Purchase,976.31,Mobile-iOS,"Kolkata, IN",9,0,Not Fraud,18,6,1
+Money Transfer,15099.91,POS-Terminal,"Dubai, AE",3,1,Not Fraud,11,5,1
+Add Beneficiary,0.0,Tablet,"Kolkata, IN",2,0,Not Fraud,4,5,1
+Online Purchase,204.67,Desktop-Mac,"Beijing, CN",2,0,Not Fraud,16,1,0
+Password Change,0.0,Mobile-Android,"Beijing, CN",2,0,Not Fraud,10,3,0
+Add Beneficiary,0.0,POS-Terminal,"Delhi, IN",3,1,Not Fraud,16,5,1
+Password Change,0.0,Desktop-Windows,"Toronto, CA",3,1,Not Fraud,18,6,1
+Add Beneficiary,0.0,Tablet,"Berlin, DE",3,0,Not Fraud,23,0,0
+Loan Application,19696.08,Desktop-Windows,"Berlin, DE",1,2,Not Fraud,15,3,0
+Bill Payment,1306.62,ATM,"Beijing, CN",1,1,Not Fraud,8,0,0
+Money Transfer,18818.98,Tablet,"Delhi, IN",2,0,Fraud,15,0,0
+Online Purchase,227.21,Mobile-Android,"Berlin, DE",9,0,Not Fraud,12,5,1
+Password Change,0.0,Desktop-Mac,"Beijing, CN",2,0,Not Fraud,17,0,0
+Online Purchase,350.29,Desktop-Windows,"Houston, US",8,1,Not Fraud,7,2,0
+Money Transfer,2937.4,ATM,"New York, US",2,2,Not Fraud,8,1,0
+ATM Withdrawal,245.17,Tablet,"Bangalore, IN",2,0,Not Fraud,17,4,0
+Loan Application,9030.27,Mobile-iOS,"Delhi, IN",2,1,Not Fraud,11,0,0
+Login,0.0,POS-Terminal,"London, UK",1,0,Not Fraud,0,5,1
+Loan Application,3770.11,POS-Terminal,"Lagos, NG",2,0,Fraud,13,3,0
+Online Purchase,153.39,Mobile-iOS,"Mumbai, IN",1,0,Not Fraud,12,4,0
+Add Beneficiary,0.0,Tablet,"Toronto, CA",2,2,Not Fraud,11,5,1
+Add Beneficiary,0.0,ATM,"London, UK",6,3,Not Fraud,16,2,0
+Money Transfer,15844.56,Tablet,"Lagos, NG",4,0,Fraud,11,0,0
+Online Purchase,1726.89,Tablet,"Berlin, DE",5,1,Not Fraud,10,6,1
+Wallet Top-up,1263.28,Mobile-iOS,"Kolkata, IN",3,0,Not Fraud,15,3,0
+Bill Payment,315.32,Desktop-Mac,"Chicago, US",3,0,Not Fraud,0,1,0
+Password Change,0.0,Mobile-iOS,"Toronto, CA",4,0,Not Fraud,11,0,0
+Bill Payment,116.69,Desktop-Mac,"Dubai, AE",2,0,Not Fraud,0,0,0
+Login,0.0,Mobile-Android,"Chicago, US",1,1,Not Fraud,8,2,0
+Wallet Top-up,2122.4,POS-Terminal,"Beijing, CN",2,0,Not Fraud,12,4,0
+Money Transfer,5258.77,POS-Terminal,"Mumbai, IN",2,0,Not Fraud,12,5,1
+Login,0.0,Mobile-iOS,"Dubai, AE",1,1,Not Fraud,20,6,1
+Online Purchase,933.53,POS-Terminal,"Los Angeles, US",2,1,Not Fraud,11,6,1
+Wallet Top-up,2494.43,Desktop-Windows,"Sao Paulo, BR",6,0,Fraud,1,0,0
+Bill Payment,2658.93,Desktop-Mac,"Singapore, SG",1,0,Not Fraud,16,0,0
+Password Change,0.0,ATM,"Dubai, AE",7,0,Fraud,4,2,0
+Password Change,0.0,ATM,"Sao Paulo, BR",4,0,Not Fraud,9,6,1
+Loan Application,15874.5,Desktop-Mac,"Lagos, NG",1,0,Fraud,0,2,0
+Online Purchase,595.82,POS-Terminal,"Chicago, US",6,1,Not Fraud,12,0,0
+Add Beneficiary,0.0,Desktop-Windows,"Sao Paulo, BR",2,2,Not Fraud,8,4,0
+Password Change,0.0,Mobile-iOS,"Sao Paulo, BR",3,0,Not Fraud,9,4,0
+Login,0.0,Mobile-iOS,"New York, US",2,0,Not Fraud,9,1,0
+Bill Payment,2873.05,Desktop-Windows,"Los Angeles, US",5,1,Not Fraud,16,1,0
+Money Transfer,16642.36,Desktop-Windows,"Dubai, AE",2,0,Not Fraud,13,2,0
+Add Beneficiary,0.0,ATM,Unknown Location,1,1,Not Fraud,11,6,1
+Money Transfer,3638.58,ATM,"Beijing, CN",2,1,Not Fraud,11,4,0
+Bill Payment,2841.73,Tablet,"Berlin, DE",1,0,Not Fraud,13,5,1
+Wallet Top-up,1376.38,POS-Terminal,"Lagos, NG",5,1,Not Fraud,14,6,1
+Login,0.0,Mobile-Android,"Berlin, DE",7,0,Not Fraud,20,4,0
+Password Change,0.0,ATM,"Chicago, US",1,0,Not Fraud,9,4,0
+Online Purchase,664.83,ATM,"Toronto, CA",1,0,Not Fraud,13,3,0
+Loan Application,17587.45,POS-Terminal,"Sao Paulo, BR",3,2,Not Fraud,12,2,0
+ATM Withdrawal,226.98,ATM,"Sydney, AU",2,0,Not Fraud,21,4,0
+Card Swipe,20.2,POS-Terminal,"Mumbai, IN",2,0,Not Fraud,8,5,1
+Card Swipe,136.12,POS-Terminal,"Beijing, CN",1,2,Not Fraud,17,6,1
+ATM Withdrawal,100.64,Mobile-iOS,"Chicago, US",2,0,Not Fraud,21,2,0
+Password Change,0.0,Mobile-iOS,"New York, US",2,1,Not Fraud,14,2,0
+Money Transfer,1473.15,Mobile-iOS,"New York, US",3,0,Not Fraud,21,2,0
+Online Purchase,1392.5,Mobile-iOS,"Dubai, AE",4,1,Not Fraud,17,1,0
+Add Beneficiary,0.0,Tablet,"New York, US",3,0,Not Fraud,6,0,0
+Wallet Top-up,2282.05,ATM,"Dubai, AE",4,0,Not Fraud,2,5,1
+Money Transfer,18997.65,Desktop-Windows,"Sydney, AU",6,0,Fraud,9,4,0
+Add Beneficiary,0.0,Desktop-Windows,"Singapore, SG",1,0,Not Fraud,14,6,1
+Login,0.0,ATM,"Dubai, AE",1,1,Not Fraud,12,1,0
+Card Swipe,226.7,Tablet,"Mumbai, IN",4,0,Not Fraud,14,5,1
+Money Transfer,11936.08,Mobile-iOS,"Chicago, US",1,3,Not Fraud,17,2,0
+Online Purchase,553.15,Mobile-iOS,"Moscow, RU",2,1,Not Fraud,11,4,0
+Wallet Top-up,2751.52,Mobile-Android,"Los Angeles, US",5,0,Not Fraud,15,6,1
+Loan Application,13828.56,Mobile-iOS,"Chicago, US",2,0,Fraud,7,5,1
+Login,0.0,Mobile-Android,"Los Angeles, US",2,0,Not Fraud,18,0,0
+Add Beneficiary,0.0,POS-Terminal,"New York, US",5,0,Not Fraud,9,0,0
+Password Change,0.0,ATM,"Berlin, DE",1,1,Not Fraud,15,3,0
+Add Beneficiary,0.0,Desktop-Mac,"Sao Paulo, BR",7,2,Not Fraud,14,2,0
+Wallet Top-up,1830.19,Mobile-iOS,"Dubai, AE",2,1,Not Fraud,12,5,1
+Add Beneficiary,0.0,Desktop-Mac,"Lagos, NG",8,0,Fraud,9,2,0
+Wallet Top-up,2374.35,Mobile-iOS,"Los Angeles, US",2,0,Not Fraud,9,3,0
+Card Swipe,371.21,Desktop-Windows,"Sao Paulo, BR",4,3,Not Fraud,18,5,1
+Card Swipe,198.96,POS-Terminal,"Mumbai, IN",3,0,Not Fraud,16,2,0
+Money Transfer,12442.34,Desktop-Mac,"Singapore, SG",3,0,Fraud,13,3,0
+Online Purchase,1625.35,POS-Terminal,"Beijing, CN",10,2,Not Fraud,11,5,1
+Password Change,0.0,Desktop-Mac,"Berlin, DE",3,0,Not Fraud,17,5,1
+Card Swipe,110.03,Mobile-iOS,"Mumbai, IN",1,0,Not Fraud,16,6,1
+ATM Withdrawal,444.43,Desktop-Windows,"Moscow, RU",1,0,Fraud,15,3,0
+Money Transfer,15301.17,Tablet,"New York, US",4,0,Not Fraud,15,0,0
+Add Beneficiary,0.0,Tablet,"Berlin, DE",5,0,Not Fraud,10,4,0
+Password Change,0.0,ATM,"Sydney, AU",10,0,Not Fraud,9,6,1
+Password Change,0.0,POS-Terminal,"Sydney, AU",2,0,Not Fraud,0,3,0
+Bill Payment,1198.42,Desktop-Windows,"Lagos, NG",6,0,Not Fraud,22,6,1
+ATM Withdrawal,185.7,Tablet,"Lagos, NG",1,1,Not Fraud,7,4,0
+Wallet Top-up,714.7,ATM,"Sao Paulo, BR",1,0,Not Fraud,15,5,1
+Card Swipe,396.27,Mobile-Android,"Beijing, CN",4,1,Not Fraud,21,0,0
+Online Purchase,56.78,Mobile-Android,"Lagos, NG",4,0,Not Fraud,23,6,1
+Card Swipe,289.05,Mobile-Android,"Beijing, CN",2,0,Not Fraud,14,4,0
+Password Change,0.0,Desktop-Windows,Unknown Location,2,4,Fraud,20,5,1
+Add Beneficiary,0.0,Tablet,"Singapore, SG",2,3,Not Fraud,13,5,1
+Bill Payment,2363.26,Tablet,"Moscow, RU",6,0,Fraud,8,6,1
+Money Transfer,12199.32,POS-Terminal,"Beijing, CN",2,0,Not Fraud,11,3,0
+Add Beneficiary,0.0,Desktop-Windows,"Mumbai, IN",1,0,Not Fraud,11,0,0
+Wallet Top-up,679.55,Desktop-Windows,"Mumbai, IN",2,0,Not Fraud,0,2,0
+Add Beneficiary,0.0,ATM,"Los Angeles, US",4,0,Not Fraud,8,2,0
+Bill Payment,1279.67,Mobile-iOS,"Moscow, RU",3,1,Fraud,10,0,0
+Bill Payment,546.93,Desktop-Windows,"Chicago, US",5,0,Not Fraud,17,0,0
+Card Swipe,190.44,Mobile-Android,"Sydney, AU",3,0,Not Fraud,6,4,0
+ATM Withdrawal,241.09,ATM,"Chicago, US",2,0,Not Fraud,18,2,0
+Money Transfer,7160.32,Mobile-iOS,"London, UK",5,0,Not Fraud,11,0,0
+Card Swipe,260.17,Mobile-iOS,"Delhi, IN",6,0,Not Fraud,1,4,0
+Loan Application,19609.04,Tablet,"Sydney, AU",1,3,Not Fraud,12,4,0
+Wallet Top-up,1428.28,Mobile-iOS,"Toronto, CA",1,0,Not Fraud,0,1,0
+Password Change,0.0,POS-Terminal,"London, UK",5,1,Not Fraud,19,1,0
+Loan Application,17276.37,Desktop-Windows,"Toronto, CA",2,0,Not Fraud,11,1,0
+Bill Payment,1779.51,Mobile-iOS,"Houston, US",2,0,Not Fraud,12,4,0
+ATM Withdrawal,486.12,Tablet,"Berlin, DE",3,0,Not Fraud,11,2,0
+Wallet Top-up,2718.23,Mobile-iOS,"Los Angeles, US",1,0,Not Fraud,19,5,1
+ATM Withdrawal,201.03,Desktop-Windows,"Moscow, RU",7,2,Fraud,18,1,0
+Card Swipe,93.64,Desktop-Mac,"Mumbai, IN",4,0,Not Fraud,21,4,0
+Loan Application,1074.28,Desktop-Mac,"Sao Paulo, BR",3,2,Not Fraud,8,4,0
+Wallet Top-up,1623.64,Mobile-Android,"Bangalore, IN",7,1,Not Fraud,16,5,1
+Money Transfer,15808.66,ATM,"Singapore, SG",2,0,Not Fraud,19,3,0
+Online Purchase,1916.39,Desktop-Mac,"Dubai, AE",1,0,Not Fraud,9,5,1
+Wallet Top-up,243.96,ATM,"New York, US",4,1,Not Fraud,22,4,0
+Card Swipe,292.78,Desktop-Mac,Unknown Location,3,0,Not Fraud,12,5,1
+Wallet Top-up,1617.69,Mobile-Android,"Berlin, DE",3,0,Not Fraud,0,4,0
+Loan Application,4860.57,Tablet,"Chicago, US",3,0,Not Fraud,15,4,0
+Money Transfer,4904.82,Tablet,"Mumbai, IN",2,0,Not Fraud,12,3,0
+Bill Payment,901.51,Desktop-Windows,Unknown Location,4,0,Not Fraud,17,5,1
+Bill Payment,2745.46,POS-Terminal,"Moscow, RU",3,0,Not Fraud,6,6,1
+Login,0.0,ATM,"Dubai, AE",2,0,Not Fraud,16,1,0
+Money Transfer,13030.7,Tablet,"Sydney, AU",1,0,Not Fraud,20,0,0
+Add Beneficiary,0.0,Mobile-iOS,"Dubai, AE",6,0,Not Fraud,22,2,0
+Bill Payment,1636.38,Desktop-Mac,"New York, US",6,0,Not Fraud,12,0,0
+ATM Withdrawal,43.66,Mobile-Android,"Moscow, RU",3,4,Fraud,17,3,0
+Wallet Top-up,2617.22,Desktop-Windows,"New York, US",2,0,Not Fraud,16,4,0
+Login,0.0,Mobile-iOS,"Sydney, AU",1,0,Not Fraud,8,6,1
+ATM Withdrawal,232.11,Desktop-Windows,"Berlin, DE",7,0,Not Fraud,14,6,1
+Add Beneficiary,0.0,POS-Terminal,"Dubai, AE",3,1,Not Fraud,10,5,1
+Bill Payment,1519.44,Desktop-Mac,"Berlin, DE",6,1,Not Fraud,18,6,1
+Password Change,0.0,ATM,"Sydney, AU",2,2,Not Fraud,14,1,0
+Money Transfer,15163.3,POS-Terminal,"Berlin, DE",1,0,Not Fraud,19,4,0
+Wallet Top-up,2703.93,Desktop-Mac,"Beijing, CN",2,0,Not Fraud,14,3,0
+ATM Withdrawal,382.88,Mobile-iOS,"Sao Paulo, BR",3,0,Not Fraud,13,5,1
+Wallet Top-up,2478.58,Mobile-iOS,"Delhi, IN",2,1,Not Fraud,20,1,0
+Bill Payment,2587.76,POS-Terminal,"Beijing, CN",2,0,Not Fraud,10,3,0
+Login,0.0,Tablet,"Dubai, AE",1,0,Not Fraud,4,3,0
+Login,0.0,Mobile-Android,"Kolkata, IN",7,0,Not Fraud,16,4,0
+Loan Application,14617.29,Desktop-Windows,"Singapore, SG",3,0,Not Fraud,15,3,0
+Card Swipe,422.57,Desktop-Windows,"Dubai, AE",3,1,Not Fraud,19,5,1
+Money Transfer,10694.71,Desktop-Mac,"Sydney, AU",1,0,Not Fraud,16,3,0
+Bill Payment,1640.74,Mobile-iOS,"Berlin, DE",1,0,Not Fraud,13,2,0
+Bill Payment,214.88,Mobile-Android,"New York, US",2,0,Not Fraud,12,4,0
+Bill Payment,1003.95,Desktop-Mac,"Houston, US",2,0,Not Fraud,19,3,0
+Bill Payment,285.1,Mobile-Android,"Sao Paulo, BR",2,0,Not Fraud,9,6,1
+Login,0.0,POS-Terminal,"Berlin, DE",4,1,Not Fraud,19,0,0
+Wallet Top-up,2424.19,Desktop-Mac,"London, UK",1,0,Not Fraud,22,3,0
+ATM Withdrawal,429.85,Mobile-iOS,"Los Angeles, US",2,0,Not Fraud,21,3,0
+Money Transfer,2881.23,Mobile-Android,"Lagos, NG",2,2,Not Fraud,18,6,1
+Online Purchase,2024.84,Mobile-Android,"London, UK",1,0,Not Fraud,12,5,1
+Bill Payment,814.69,Tablet,"Mumbai, IN",2,0,Not Fraud,11,4,0
+Wallet Top-up,1746.42,Tablet,"Singapore, SG",10,1,Fraud,19,0,0
+Wallet Top-up,2025.02,Mobile-Android,"Sydney, AU",1,0,Not Fraud,8,3,0
+Wallet Top-up,2929.38,Desktop-Mac,"Toronto, CA",5,0,Fraud,23,3,0
+Login,0.0,Tablet,Unknown Location,4,3,Not Fraud,12,1,0
+Password Change,0.0,Tablet,"Bangalore, IN",2,4,Fraud,23,0,0
+Add Beneficiary,0.0,POS-Terminal,"Dubai, AE",1,5,Not Fraud,11,4,0
+Login,0.0,Mobile-iOS,"Berlin, DE",1,0,Not Fraud,11,2,0
+Add Beneficiary,0.0,Mobile-Android,"New York, US",2,1,Not Fraud,13,4,0
+Login,0.0,Desktop-Mac,"Lagos, NG",4,0,Not Fraud,0,4,0
+Online Purchase,2801.79,ATM,"Lagos, NG",2,1,Not Fraud,18,5,1
+Wallet Top-up,2386.49,ATM,"Singapore, SG",2,0,Not Fraud,11,2,0
+Login,0.0,ATM,"Kolkata, IN",2,1,Not Fraud,3,0,0
+Money Transfer,14474.1,Mobile-Android,"Sydney, AU",1,0,Not Fraud,10,1,0
+Bill Payment,2278.89,Mobile-iOS,"Moscow, RU",5,1,Not Fraud,22,6,1
+Password Change,0.0,Mobile-Android,"Bangalore, IN",2,0,Not Fraud,18,2,0
+Add Beneficiary,0.0,Mobile-Android,"Lagos, NG",1,0,Not Fraud,13,5,1
+Wallet Top-up,460.86,Tablet,Unknown Location,1,0,Fraud,8,4,0
+Wallet Top-up,2662.29,Mobile-iOS,"Bangalore, IN",4,0,Not Fraud,14,2,0
+Bill Payment,2853.35,Desktop-Windows,"Los Angeles, US",3,5,Not Fraud,9,4,0
+Money Transfer,11001.59,ATM,"Moscow, RU",2,0,Fraud,17,5,1
+Login,0.0,Mobile-Android,"London, UK",2,0,Not Fraud,4,2,0
+Card Swipe,52.47,Mobile-iOS,"Houston, US",6,0,Not Fraud,7,3,0
+Money Transfer,2545.61,Desktop-Windows,"New York, US",4,0,Not Fraud,16,3,0
+ATM Withdrawal,197.1,Mobile-iOS,"Singapore, SG",9,0,Not Fraud,2,1,0
+Login,0.0,Mobile-Android,"Mumbai, IN",4,1,Not Fraud,7,6,1
+Bill Payment,782.12,Desktop-Mac,"Sydney, AU",1,0,Not Fraud,11,1,0
+Bill Payment,1185.75,Desktop-Mac,"Sao Paulo, BR",2,0,Not Fraud,23,1,0
+ATM Withdrawal,491.95,Desktop-Mac,"Dubai, AE",2,2,Not Fraud,22,3,0
+Card Swipe,238.87,POS-Terminal,"Houston, US",1,0,Not Fraud,6,3,0
+Wallet Top-up,1699.05,Desktop-Windows,"Dubai, AE",5,0,Fraud,23,6,1
+Wallet Top-up,461.32,POS-Terminal,"Bangalore, IN",1,1,Not Fraud,7,1,0
+ATM Withdrawal,291.67,Desktop-Windows,"Berlin, DE",3,0,Not Fraud,9,3,0
+Online Purchase,1642.37,Mobile-Android,"Dubai, AE",2,0,Not Fraud,6,2,0
+Wallet Top-up,2419.84,Tablet,"Berlin, DE",2,5,Not Fraud,17,2,0
+Money Transfer,16340.35,ATM,"Singapore, SG",2,1,Fraud,23,1,0
+Online Purchase,2590.25,Tablet,"Sao Paulo, BR",2,0,Not Fraud,7,4,0
+Add Beneficiary,0.0,Mobile-Android,"Kolkata, IN",1,0,Not Fraud,3,1,0
+Login,0.0,ATM,"Chicago, US",1,1,Not Fraud,9,4,0
+Wallet Top-up,1247.75,ATM,"Delhi, IN",7,1,Not Fraud,18,2,0
+Wallet Top-up,778.82,Desktop-Mac,"Dubai, AE",2,0,Not Fraud,15,3,0
+Online Purchase,2874.82,POS-Terminal,"Chicago, US",2,0,Not Fraud,11,2,0
+Card Swipe,77.42,Mobile-iOS,"Bangalore, IN",7,0,Not Fraud,13,3,0
+Money Transfer,15594.98,Mobile-iOS,"Beijing, CN",6,0,Fraud,13,0,0
+Card Swipe,389.7,Mobile-iOS,"New York, US",6,0,Not Fraud,14,6,1
+ATM Withdrawal,278.04,ATM,"Mumbai, IN",5,0,Not Fraud,17,4,0
+ATM Withdrawal,105.14,Mobile-iOS,"Houston, US",5,0,Not Fraud,18,5,1
+Wallet Top-up,1060.47,Mobile-Android,"Delhi, IN",2,1,Not Fraud,13,3,0
+Loan Application,17001.6,Mobile-iOS,"Los Angeles, US",1,0,Fraud,21,4,0
+Add Beneficiary,0.0,Mobile-iOS,"Houston, US",1,3,Not Fraud,6,4,0
+Online Purchase,2109.93,Mobile-iOS,"Lagos, NG",1,2,Not Fraud,17,6,1
+Login,0.0,Tablet,"Berlin, DE",1,0,Not Fraud,11,5,1
+Money Transfer,7572.29,Tablet,"Kolkata, IN",3,0,Not Fraud,17,2,0
+Online Purchase,933.03,ATM,"Chicago, US",4,3,Not Fraud,7,6,1
+Card Swipe,257.73,Mobile-Android,"Toronto, CA",1,0,Not Fraud,19,4,0
+Card Swipe,171.46,ATM,"Lagos, NG",2,0,Not Fraud,7,6,1
+Login,0.0,Mobile-iOS,"London, UK",2,0,Not Fraud,18,1,0
+ATM Withdrawal,217.2,Mobile-Android,"Bangalore, IN",1,0,Not Fraud,13,2,0
+Card Swipe,270.46,POS-Terminal,"Los Angeles, US",1,0,Not Fraud,16,4,0
+Bill Payment,2666.56,Tablet,"Dubai, AE",4,1,Not Fraud,11,2,0
+Password Change,0.0,Tablet,"Delhi, IN",1,0,Not Fraud,10,2,0
+Add Beneficiary,0.0,Desktop-Mac,"Beijing, CN",1,3,Not Fraud,10,1,0
+Wallet Top-up,2900.85,Desktop-Windows,"Moscow, RU",1,0,Not Fraud,12,2,0
+Add Beneficiary,0.0,Desktop-Windows,"Sydney, AU",7,5,Not Fraud,20,3,0
+Password Change,0.0,Mobile-Android,"Mumbai, IN",1,0,Not Fraud,18,5,1
+Money Transfer,19142.01,Desktop-Windows,"Berlin, DE",2,1,Not Fraud,11,6,1
+Login,0.0,Desktop-Mac,"Sydney, AU",2,0,Not Fraud,18,3,0
+Online Purchase,2494.36,Desktop-Mac,"Houston, US",2,2,Not Fraud,14,6,1
+Login,0.0,Desktop-Mac,"Los Angeles, US",4,2,Not Fraud,17,4,0
+Loan Application,2457.81,ATM,"Toronto, CA",3,0,Not Fraud,13,2,0
+Wallet Top-up,1215.42,Mobile-Android,"Dubai, AE",8,0,Not Fraud,15,4,0
+Loan Application,15904.53,POS-Terminal,"Delhi, IN",2,0,Fraud,0,0,0
+Money Transfer,9039.01,Mobile-iOS,"Berlin, DE",1,3,Not Fraud,20,6,1
+Login,0.0,Mobile-iOS,"Houston, US",5,0,Not Fraud,22,3,0
+Money Transfer,17267.36,Desktop-Mac,"Bangalore, IN",1,0,Not Fraud,13,6,1
+Add Beneficiary,0.0,Mobile-iOS,"Singapore, SG",3,0,Not Fraud,18,3,0
+Loan Application,4536.08,Mobile-iOS,"Lagos, NG",1,2,Fraud,13,2,0
+Password Change,0.0,ATM,"Delhi, IN",1,0,Not Fraud,16,6,1
+Password Change,0.0,Tablet,"Moscow, RU",2,0,Not Fraud,19,2,0
+Login,0.0,Tablet,"Bangalore, IN",5,0,Not Fraud,13,4,0
+Bill Payment,138.56,Tablet,"Kolkata, IN",5,0,Not Fraud,0,0,0
+ATM Withdrawal,442.24,Tablet,"Lagos, NG",1,0,Not Fraud,10,5,1
+Online Purchase,524.07,Mobile-Android,"Chicago, US",2,1,Not Fraud,22,5,1
+Loan Application,17700.49,ATM,"Sao Paulo, BR",6,0,Fraud,10,2,0
+Wallet Top-up,2426.57,Mobile-iOS,"Sao Paulo, BR",1,2,Not Fraud,10,0,0
+Bill Payment,1778.33,Desktop-Windows,"Lagos, NG",4,5,Not Fraud,8,1,0
+ATM Withdrawal,378.8,Desktop-Mac,"Berlin, DE",4,0,Not Fraud,7,2,0
+Bill Payment,731.97,Desktop-Mac,"Toronto, CA",2,0,Not Fraud,14,6,1
+Loan Application,15508.74,Desktop-Mac,"Mumbai, IN",9,0,Not Fraud,10,5,1
+Card Swipe,47.25,POS-Terminal,"Delhi, IN",7,2,Not Fraud,10,5,1
+Bill Payment,2005.0,Desktop-Mac,"Los Angeles, US",6,1,Not Fraud,14,3,0
+Online Purchase,84.22,Tablet,"Singapore, SG",2,0,Not Fraud,15,2,0
+Password Change,0.0,Mobile-Android,"Toronto, CA",1,1,Not Fraud,17,1,0
+Online Purchase,2000.24,Tablet,"Bangalore, IN",1,0,Not Fraud,3,0,0
+Bill Payment,2912.39,Desktop-Windows,"Moscow, RU",3,1,Not Fraud,14,1,0
+Login,0.0,Mobile-Android,"Delhi, IN",3,2,Not Fraud,11,2,0
+Loan Application,11811.88,ATM,"Moscow, RU",1,0,Fraud,15,2,0
+Login,0.0,ATM,"Berlin, DE",4,0,Not Fraud,20,4,0
+Card Swipe,76.14,Desktop-Windows,"Delhi, IN",1,0,Not Fraud,18,6,1
+Online Purchase,2587.48,Mobile-Android,"Berlin, DE",2,0,Not Fraud,16,6,1
+Money Transfer,10689.01,POS-Terminal,"Delhi, IN",4,5,Not Fraud,11,3,0
+Online Purchase,1769.0,Mobile-Android,"Dubai, AE",1,0,Not Fraud,10,5,1
+Loan Application,278.32,Desktop-Mac,"Houston, US",3,0,Not Fraud,0,3,0
+ATM Withdrawal,460.09,Tablet,"Mumbai, IN",1,0,Not Fraud,20,1,0
+Loan Application,1543.68,Mobile-iOS,"Mumbai, IN",1,0,Not Fraud,18,2,0
+Card Swipe,55.89,Mobile-Android,"Beijing, CN",2,0,Not Fraud,22,3,0
+Add Beneficiary,0.0,POS-Terminal,"Delhi, IN",5,0,Not Fraud,10,2,0
+ATM Withdrawal,117.01,Tablet,"Mumbai, IN",2,0,Not Fraud,14,5,1
+Online Purchase,2021.52,ATM,"Delhi, IN",1,3,Not Fraud,9,3,0
+Add Beneficiary,0.0,Desktop-Mac,"Mumbai, IN",6,0,Not Fraud,11,6,1
+Card Swipe,240.24,Desktop-Mac,"Singapore, SG",4,0,Not Fraud,20,5,1
+Bill Payment,1872.91,ATM,"Los Angeles, US",2,0,Not Fraud,2,6,1
+Card Swipe,313.66,Mobile-iOS,"New York, US",1,0,Not Fraud,15,5,1
+ATM Withdrawal,48.11,Desktop-Mac,"Berlin, DE",4,0,Not Fraud,14,6,1
+Card Swipe,289.43,Desktop-Windows,"Berlin, DE",2,0,Not Fraud,23,1,0
+ATM Withdrawal,347.23,POS-Terminal,"London, UK",3,4,Not Fraud,9,0,0
+Online Purchase,1505.08,POS-Terminal,Tor Exit Node,1,0,Fraud,11,6,1
+Loan Application,12087.95,Mobile-iOS,"Bangalore, IN",1,1,Not Fraud,19,5,1
+Add Beneficiary,0.0,Tablet,"Kolkata, IN",2,0,Not Fraud,18,6,1
+Wallet Top-up,2258.56,Desktop-Mac,"London, UK",2,0,Not Fraud,19,2,0
+Wallet Top-up,2774.23,POS-Terminal,"Toronto, CA",3,0,Not Fraud,21,5,1
+Card Swipe,242.94,Mobile-Android,"Berlin, DE",2,0,Not Fraud,17,2,0
+Login,0.0,ATM,"Singapore, SG",1,2,Not Fraud,11,2,0
+ATM Withdrawal,458.27,Desktop-Mac,"Bangalore, IN",2,0,Not Fraud,15,1,0
+Wallet Top-up,2799.38,ATM,"Bangalore, IN",3,0,Not Fraud,9,2,0
+Wallet Top-up,1359.11,Tablet,"Berlin, DE",3,2,Not Fraud,16,1,0
+Online Purchase,917.52,Tablet,"Singapore, SG",2,0,Not Fraud,19,4,0
+Login,0.0,Mobile-iOS,"Chicago, US",1,0,Not Fraud,19,1,0
+Money Transfer,10924.05,Desktop-Mac,"Delhi, IN",1,0,Not Fraud,12,2,0
+Loan Application,18622.1,Mobile-iOS,Tor Exit Node,3,0,Fraud,17,4,0
+Bill Payment,1474.16,ATM,"Houston, US",5,0,Not Fraud,15,0,0
+Add Beneficiary,0.0,Mobile-iOS,"Delhi, IN",1,0,Not Fraud,19,6,1
+Password Change,0.0,Mobile-Android,"Chicago, US",2,0,Not Fraud,11,4,0
+Money Transfer,12357.76,Desktop-Windows,"London, UK",3,0,Not Fraud,19,2,0
+ATM Withdrawal,332.76,ATM,"Singapore, SG",3,1,Not Fraud,10,4,0
+Add Beneficiary,0.0,Desktop-Mac,"Moscow, RU",8,0,Not Fraud,13,3,0
+Wallet Top-up,1741.8,Mobile-Android,"Delhi, IN",5,2,Not Fraud,18,1,0
+Password Change,0.0,Mobile-Android,"Bangalore, IN",7,4,Fraud,0,6,1
+Login,0.0,Mobile-Android,"Sydney, AU",6,4,Not Fraud,9,0,0
+Wallet Top-up,500.99,ATM,"Berlin, DE",5,2,Not Fraud,22,0,0
+Card Swipe,82.18,Mobile-iOS,"Moscow, RU",2,0,Not Fraud,14,6,1
+Login,0.0,POS-Terminal,"Moscow, RU",6,2,Not Fraud,12,2,0
+Add Beneficiary,0.0,Mobile-iOS,"Dubai, AE",1,0,Not Fraud,8,4,0
+Online Purchase,2019.19,Desktop-Windows,"Berlin, DE",2,1,Not Fraud,20,1,0
+Card Swipe,451.0,Desktop-Windows,"Berlin, DE",7,0,Not Fraud,6,4,0
+Add Beneficiary,0.0,Mobile-iOS,"Kolkata, IN",2,0,Not Fraud,15,4,0
+Loan Application,9054.42,Mobile-iOS,"Moscow, RU",3,0,Not Fraud,19,3,0
+Add Beneficiary,0.0,POS-Terminal,"Toronto, CA",2,0,Not Fraud,11,6,1
+Money Transfer,14013.25,Desktop-Windows,"Beijing, CN",9,2,Fraud,19,5,1
+Bill Payment,360.98,Mobile-iOS,"Sydney, AU",1,1,Not Fraud,20,3,0
+Bill Payment,696.31,Tablet,"Berlin, DE",9,0,Not Fraud,1,1,0
+Loan Application,16341.1,Mobile-iOS,"Chicago, US",1,0,Fraud,22,4,0
+Add Beneficiary,0.0,Desktop-Mac,"Delhi, IN",8,3,Fraud,15,2,0
+Password Change,0.0,Tablet,"Beijing, CN",1,3,Not Fraud,12,5,1
+Add Beneficiary,0.0,Desktop-Mac,"Moscow, RU",2,1,Not Fraud,15,2,0
+Online Purchase,768.15,Desktop-Windows,"Singapore, SG",5,0,Not Fraud,9,5,1
+Online Purchase,2928.26,Mobile-Android,"New York, US",6,0,Not Fraud,15,0,0
+Bill Payment,2521.03,POS-Terminal,"Beijing, CN",1,0,Not Fraud,17,3,0
+Online Purchase,905.05,Desktop-Mac,"Toronto, CA",6,2,Not Fraud,0,2,0
+Loan Application,12277.31,Desktop-Mac,"Toronto, CA",4,1,Not Fraud,13,5,1
+Password Change,0.0,Mobile-Android,"Sydney, AU",1,2,Not Fraud,16,5,1
+Add Beneficiary,0.0,Desktop-Windows,"Lagos, NG",3,0,Not Fraud,16,0,0
+Wallet Top-up,399.47,Mobile-iOS,"Moscow, RU",1,0,Fraud,0,4,0
+Add Beneficiary,0.0,ATM,"Beijing, CN",4,4,Not Fraud,15,6,1
+Online Purchase,2387.23,Mobile-iOS,"Toronto, CA",8,1,Not Fraud,11,1,0
+Add Beneficiary,0.0,Desktop-Mac,"Houston, US",1,0,Not Fraud,7,1,0
+Add Beneficiary,0.0,Mobile-iOS,"Kolkata, IN",1,0,Not Fraud,6,3,0
+Wallet Top-up,1455.42,POS-Terminal,"Houston, US",1,5,Fraud,9,1,0
+Wallet Top-up,1828.76,Desktop-Mac,"Sao Paulo, BR",2,2,Not Fraud,18,1,0
+Login,0.0,Mobile-Android,"Berlin, DE",3,1,Not Fraud,17,0,0
+Money Transfer,9692.26,Tablet,"Lagos, NG",1,0,Not Fraud,10,6,1
+Wallet Top-up,2385.38,POS-Terminal,"Los Angeles, US",4,0,Not Fraud,14,1,0
+Loan Application,7878.39,Desktop-Mac,"New York, US",2,0,Not Fraud,12,3,0
+Loan Application,4954.31,Desktop-Windows,"Singapore, SG",1,0,Not Fraud,19,4,0
+Bill Payment,538.74,Tablet,"Delhi, IN",4,1,Not Fraud,19,6,1
+Wallet Top-up,1201.02,Mobile-Android,"Beijing, CN",2,0,Not Fraud,22,3,0
+Money Transfer,19417.98,Tablet,"Houston, US",1,0,Not Fraud,12,1,0
+Loan Application,19709.8,Tablet,"Singapore, SG",4,2,Fraud,11,4,0
+Login,0.0,Mobile-Android,"Moscow, RU",3,0,Not Fraud,15,3,0
+Online Purchase,2043.84,Mobile-Android,"Los Angeles, US",2,0,Not Fraud,21,0,0
+Bill Payment,1976.13,Desktop-Windows,"Kolkata, IN",4,1,Not Fraud,7,3,0
+Password Change,0.0,Mobile-Android,"Bangalore, IN",8,0,Not Fraud,10,0,0
+Bill Payment,2756.01,Mobile-Android,"Toronto, CA",4,2,Not Fraud,20,5,1
+Add Beneficiary,0.0,Desktop-Mac,"Chicago, US",2,0,Not Fraud,20,3,0
+Online Purchase,2928.79,Tablet,"Toronto, CA",1,0,Not Fraud,8,2,0
+Add Beneficiary,0.0,Desktop-Mac,"London, UK",2,0,Not Fraud,3,1,0
+Bill Payment,2194.15,Desktop-Mac,"London, UK",1,0,Not Fraud,20,3,0
+Loan Application,923.84,POS-Terminal,"London, UK",1,0,Not Fraud,7,5,1
+Password Change,0.0,ATM,"Mumbai, IN",2,0,Not Fraud,8,0,0
+Add Beneficiary,0.0,Desktop-Mac,"New York, US",5,0,Not Fraud,2,5,1
+ATM Withdrawal,407.55,Desktop-Windows,"Toronto, CA",3,0,Not Fraud,23,6,1
+Wallet Top-up,276.24,POS-Terminal,"Lagos, NG",2,0,Not Fraud,15,4,0
+Password Change,0.0,Mobile-iOS,"Moscow, RU",3,0,Not Fraud,12,6,1

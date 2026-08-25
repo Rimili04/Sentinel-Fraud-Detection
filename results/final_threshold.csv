@@ -1,0 +1,2 @@
+best_threshold,accuracy,fraud_precision,fraud_recall,fraud_f1_score
+0.39,0.875,0.41509433962264153,0.5365853658536586,0.46808510638297873
